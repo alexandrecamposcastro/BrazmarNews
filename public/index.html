@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRAZMAR - Notícias do Setor Marítimo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+<!-- Barra de Navegação -->
+<nav class="navbar">
+    <div class="container nav-container">
+        <a href="#" class="nav-brand">
+            <div class="logo-placeholder">
+                <img src="images/logo.png" alt="BRAZMAR P&I" class="logo-img">
+            </div>
+        </a>
+        
+        <button class="menu-toggle" id="menuToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        
+        <div class="nav-menu" id="navMenu">
+            <a href="#" class="nav-link active"><i class="fas fa-home"></i> Início</a>
+            <a href="#sobre" class="nav-link"><i class="fas fa-info-circle"></i> Sobre</a>
+            <a href="#contato" class="nav-link"><i class="fas fa-envelope"></i> Contato</a>
+            <button class="btn-atualizar" id="btnAtualizar">
+                <i class="fas fa-sync-alt"></i> Atualizar
+            </button>
+        </div>
+    </div>
+</nav>
+
+    <header class="hero">
+        <div class="container">
+            <h1 class="hero-title">Notícias do Setor Marítimo e Portuário</h1>
+            <p class="hero-subtitle">Monitoramento inteligente de notícias técnicas e operacionais para o segmento P&I</p>
+            
+            <div class="stats">
+                <div class="stat">
+                    <i class="fas fa-newspaper"></i>
+                    <span id="contadorNoticias">0</span> notícias
+                </div>
+                <div class="stat">
+                    <i class="fas fa-filter"></i>
+                    <span>Filtro inteligente ativo</span>
+                </div>
+                <div class="stat">
+                    <i class="fas fa-clock"></i>
+                    <span id="dataAtualizacao">--/--/----</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="filtros-section">
+        <div class="container">
+            <div class="busca-container">
+                <div class="input-group">
+                    <input type="text" id="buscaInput" placeholder="Buscar notícias...">
+                    <button class="btn-buscar" id="btnBuscar">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                
+                <select id="ordenarSelect" class="select-ordenar">
+                    <option value="recentes">Mais Recentes</option>
+                    <option value="antigos">Mais Antigos</option>
+                    <option value="titulo">Ordem Alfabética</option>
+                </select>
+            </div>
+            
+            <div class="filtros-tags">
+                <button class="filtro-tag active" data-filtro="todas">Todas</button>
+                <button class="filtro-tag" data-filtro="porto">Porto</button>
+                <button class="filtro-tag" data-filtro="navio">Navio</button>
+                <button class="filtro-tag" data-filtro="marinha">Marinha</button>
+                <button class="filtro-tag" data-filtro="operacional">Operacional</button>
+                <button class="filtro-tag" data-filtro="itaqui">Itaqui</button>
+            </div>
+        </div>
+    </section>
+
+    <main class="container">
+        <div id="containerNoticias" class="noticias-grid">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Carregando notícias...</p>
+            </div>
+        </div>
+        
+        <div id="semNoticias" class="sem-noticias" style="display: none;">
+            <i class="fas fa-newspaper"></i>
+            <h3>Nenhuma notícia encontrada</h3>
+            <p>Tente atualizar as notícias ou ajustar os filtros</p>
+            <button class="btn-primary" id="btnAtualizar2">
+                <i class="fas fa-sync-alt"></i> Atualizar Notícias
+            </button>
+        </div>
+    </main>
+
+    <section id="sobre" class="sobre-section">
+        <div class="container">
+            <h2>Sobre o Sistema</h2>
+            <p class="sobre-descricao">
+                Sistema inteligente de monitoramento de notícias do setor marítimo e portuário brasileiro, 
+                com filtros avançados para informações relevantes ao segmento P&I.
+            </p>
+            
+            <div class="features">
+                <div class="feature">
+                    <i class="fas fa-robot"></i>
+                    <h4>Filtro Inteligente</h4>
+                    <p>Exclui automaticamente notícias irrelevantes</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-broadcast-tower"></i>
+                    <h4>Fontes Diversas</h4>
+                    <p>Monitora múltiplas fontes especializadas</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-tags"></i>
+                    <h4>Classificação</h4>
+                    <p>Identifica termos técnicos do setor</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Rodapé -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-info">
+                <h4>BRAZMAR P&I</h4>
+                <p>Sistema de Notícias</p>
+            </div>
+            <div class="footer-contato">
+                <p>
+                    <i class="fas fa-envelope"></i> 
+                    <a href="mailto:brazmar@brazmar.com" class="footer-link">
+                        brazmar@brazmar.com
+                    </a>
+                </p>
+                <p>
+                    <i class="fas fa-phone"></i> 
+                    <a href="tel:+559191643877" class="footer-link">
+                        (91) 9164-3877
+                    </a>
+                </p>
+                <p>
+                    <i class="fas fa-map-marker-alt"></i> 
+                    <span class="footer-text">São Luís - MA, Brasil</span>
+                </p>
+            </div>
+        </div>
+        <p class="copyright">&copy; 2026 BRAZMAR - Todos os direitos reservados</p>
+    </div>
+</footer>
+
+    <!-- Modal para detalhes -->
+    <div id="modalNoticia" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitulo"></h3>
+                <button class="modal-close" id="modalClose">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-info">
+                    <p><strong>Fonte:</strong> <span id="modalFonte"></span></p>
+                    <p><strong>Data:</strong> <span id="modalData"></span></p>
+                    <p><strong>Categoria:</strong> <span id="modalTag"></span></p>
+                </div>
+                
+                <div class="modal-tags">
+                    <h4>Palavras-chave identificadas:</h4>
+                    <div id="modalTags" class="tags-container"></div>
+                </div>
+                
+                <div style="margin-top: 20px; text-align: center;">
+                    <a href="#" target="_blank" id="modalLink" class="btn-primary">
+                        <i class="fas fa-external-link-alt"></i> Ver notícia original
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
