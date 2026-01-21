@@ -5,6 +5,6 @@
     { "source": "/script.js", "destination": "/public/script.js" },
     { "source": "/noticias.json", "destination": "/public/noticias.json" },
     { "source": "/images/(.*)", "destination": "/public/images/$1" },
-    { "source": "/(.*)", "destination": "/api/server.js" }
+    { "source": "/(.*)", "destination": "/api/index.js" }
   ]
 }
