@@ -36,30 +36,35 @@ jobs:
           pip install -r requirements.txt
           echo "✅ Dependências instaladas"
       
-      # 4. Executa o bot
+      # 4. Executa o bot (Ele já salva dentro de public/)
       - name: Executar bot.py
         run: |
           python bot.py
-          echo "Bot executado"
-          ls -la noticias.json
+          echo "Bot executado com sucesso"
+          # Verifica se o arquivo realmente foi criado na pasta public
+          ls -la public/noticias.json
       
-      # 5. Copia notícias para a pasta public
-      - name: Copiar para public/
-        run: |
-          if [ -d "public" ]; then
-            cp noticias.json public/
-            echo "Copiado para public/"
-          fi
-      
-      # 6. Verifica se o arquivo mudou
+      # 5. Verifica se houve mudança no arquivo dentro de public/
       - name: Verificar mudanças
         id: git-check
         run: |
           git status
-          git diff --quiet noticias.json || echo "changed=true" >> $GITHUB_OUTPUT
-          if [ -d "public" ]; then
-            git diff --quiet public/noticias.json || echo "changed=true" >> $GITHUB_OUTPUT
+          # Verifica se o arquivo dentro de public mudou
+          if [ -n "$(git status --porcelain public/noticias.json)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
           fi
+      
+      # 6. Se mudou, faz o commit e joga pro GitHub (que avisa o Vercel)
+      - name: Commit e Push
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add public/noticias.json
+          git commit -m "Atualização automática de notícias [$(date +'%d/%m/%Y %H:%M')]"
+          git push
       
       # 7. Se mudou, faz commit e push
       - name: Commit e Push
