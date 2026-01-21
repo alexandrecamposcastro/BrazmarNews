@@ -11,12 +11,12 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão de escrita diretamente no job
     
     steps:
       - name: Checkout código
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -26,23 +26,21 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      - name: Executar bot.py
-        run: |
-          python bot.py
-          echo "Bot finalizado."
+      - name: Executar bot
+        run: python bot.py
 
-      - name: Commit e Push das mudanças
+      - name: Commit e Push Force
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           
-          # Adiciona apenas o arquivo que está dentro da pasta public
-          git add public/noticias.json
+          # Adiciona tudo o que foi alterado (incluindo dentro da public)
+          git add .
           
-          # Verifica se há algo para commitar para não dar erro se não houver notícias novas
-          if git diff --cached --quiet; then
-            echo "Nenhuma mudança detectada no noticias.json"
-          else
-            git commit -m "🤖 Atualização automática: $(date +'%d/%m/%Y %H:%M')"
+          # Só faz commit se houver mudanças, para não dar erro de "nothing to commit"
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 Auto-update: $(date +'%d/%m/%Y %H:%M')"
             git push
+          else
+            echo "Sem notícias novas para atualizar."
           fi
