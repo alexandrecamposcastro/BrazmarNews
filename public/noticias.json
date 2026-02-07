@@ -23,17 +23,7 @@
     "titulo": "Histórias do Mar: Navio-bomba afundado na Segunda Guerra ainda vaza óleo e gera mortes",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlExcjBfSF9EMlRzMW9Yb3JDeURyT3lQT0pqVlJIVkttTkdBWk9tZnZxMkVEZzBxdlJ4ZjVndXV0V3BodmUxT2czWGk1eHVQbFFkZzV3U2VWcUlWeE5ybWVlX29rei15bFJxMXFXc2sxdE5MMXEyQnEyZjE4UmVFS2dVXzRhZXNKS0xlVkRrdDc5ZDdqWXhZS1g0ZDZKSzdzX1N3VlJqM1JmbVlyR3BnNGhOOHVfV00yNVktbEw1TkhCOF8wUWJCWXNWQ1lKYlVmQ1g4?oc=5",
     "data": "10/12/2025",
-    "fonte": "uol.com.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Incêndio irrompe em navio no porto de Durrës, perigo para a vida das pessoas evitado",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2lKb20wUzNmWVo3UTloNHhET01tSVU1cHhaYWM2Wk9EN0YtcG9uamRCclU5TFY4M2pNeGFxN2w0Z3A2Znh5dk5INjhtZDlTQktodzRsVlNpNXRtUjh3Ykx3Si1DYTlxZzVSU2pGUHVlbUVUczNYcnl1UlNETGtpdklra2JOLWxVZWVLX0ZzR1ViRW44TmtlWVR3MEg0NWljWU5fYVR0SWRZNGZUcWxUNnBVOF9nX05lQXVzbTJNRldGTkE?oc=5",
-    "data": "21/01/2026",
-    "fonte": "Indeksonline.",
+    "fonte": "UOL",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -60,20 +50,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Suape projeta atingir uso de 50% de energia limpa neste semestre",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTJ2YlY4V3NMX21kRVZaOGZMUWVBX0FTekc3UmJzU0NvOGw4c3VUQjdkSU5FOHNDMkNLYzBvTURIaWpDMml6dXJJSG5OSXl6ZnFUOTNIcUw5R2pwaVFucHFLaTVEMElOam5qUXhBcDVQTWJRLXFXTzUzYzJQNXdJNzNKNmt3MnUtbHZCZXJsUURocFBMNzFBYkJWbXFMa3k4RlVTbHZLVnJlZTVqTFB5UEpRWUxtOVdkdkM5SEM3S1dodw?oc=5",
-    "data": "05/02/2026",
-    "fonte": "Portos e Navios",
+    "titulo": "Dragagem de R$ 91 mi vai permitir navios maiores no Porto do Recife",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUtKcU4xSS1TRmFNWlozODFHSG1QdmZwV3pxOEptNGdUWFZCU1pYeHQzc2JPS1NpcGtuTU13QndxSVM5dVU1ZWZvc0lnVzloWWhRRElIcFdWeS1acVdPRWlVNGI4ZWZxamp2bHd3Q2RUWXF1RXhBVTQ1SnBERXRFbEh4Smp0SzB1eTdQa0s4b2dfaWlYNW1qRFRjemxyVG4zZTlvbWtXQ0VYR0pHSWl3MU9RQ2diMm9Bc2p3ZmpXOHFEYUV1X3hV?oc=5",
+    "data": "07/02/2026",
+    "fonte": "Movimento Econômico",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "MPF solicita à Justiça que obrigue Ibama a licenciar obras do Porto de Suape",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUNWZ3VTMUpVczZCVlR4VmloRVFKSlhJN2JjVlAwYVE2aV9OSUR6S3JGajl1ZC13X1doN3VsNE0xUGVERDRTbXc2WmtOcDkxQnpDMVNnSzZtOVlFY0g2NTFwTDc5WGVoeG8xZ2tkU2FSQXk3dkJ2Yzl6SzdWZlJpb0FjUE1rRWVMTkxCSXZkNTBmMEd1Q24zaV9SbHJyUHZHdlZLcVpmbjViZVVINVpBa1g0ZXA?oc=5",
-    "data": "19/01/2026",
-    "fonte": "CBN Recife",
+    "titulo": "Suape projeta atingir uso de 50% de energia limpa neste semestre",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTJ2YlY4V3NMX21kRVZaOGZMUWVBX0FTekc3UmJzU0NvOGw4c3VUQjdkSU5FOHNDMkNLYzBvTURIaWpDMml6dXJJSG5OSXl6ZnFUOTNIcUw5R2pwaVFucHFLaTVEMElOam5qUXhBcDVQTWJRLXFXTzUzYzJQNXdJNzNKNmt3MnUtbHZCZXJsUURocFBMNzFBYkJWbXFMa3k4RlVTbHZLVnJlZTVqTFB5UEpRWUxtOVdkdkM5SEM3S1dodw?oc=5",
+    "data": "05/02/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -120,10 +110,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Antaq fiscaliza atrasos no Terminal de Regaseificação de Suape",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTE9EaGxmRXhuVUs5a3diV0JLWG5aQ1ZSbFc1V3pfREJ6OU16bTBfb3VfenZrQ2tiRHRZcTk5bnE4em5uTFgzSkJVWk1qN2N4RTBaQmlFeEtkWHVONWNlMjU1WkpoNUlraWU4Y0FHX3JINUtLekltYWZQR1dtVkJmWWo2b0w2RXZscFBfUXhkN09MRV9rZHc?oc=5",
-    "data": "12/01/2026",
-    "fonte": "Portal BE News",
+    "titulo": "Porto de Santos tem apreensão de 148kg de droga em navio",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlBfWDJSb05UbkxTYjhxT2NyVWVPbjVxR1JlZTF6djY2c3dwcUd1Z3ROQ1RKeVY4dDI0TXUwVmlOOE8xWU1qRG5ETXNyMWxHTWxFeDBPemw5RW10Ylpsb3U5VnVucGFneGV1VERGNngxNGoxbm5vRE9BemloYzFvZw?oc=5",
+    "data": "25/01/2026",
+    "fonte": "Portal ABC do ABC",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -180,10 +170,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Assinado contrato para novo terminal no Porto do Rio Grande",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXM2M3dnRmlicUkyZzJDS3B1Q0N3MER2ZXRpMnFxWUd0RWpLNE5tanZGLVdaTUVpU1ByZ3RnTzZHeVNfSkc4Y3lYcnBiLV91Wk05aFI1cHVzcW9ad3RMSDR3WUxNUEZKcTIteEZkM0FRVWh5emFaTGVxcTFQMENUaUFKanFpUXVUMjhBZEJJbGhGSlV4SG9pWXJ2dEtLZFN5UGFyTlViU1M5dw?oc=5",
+    "data": "21/01/2026",
+    "fonte": "Grupo Amanhã",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "“Aspirantex 2026”: operação no mar orienta escolha da carreira dos futuros Oficiais da Marinha",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQendMMm0wRUJZV2dQYWhkNHJCSllyMnVaeTJrbV9haVI0dG1hSVRSMldpcUtnbUh1ZWdESUlMQVhHdUVUbGlfTno4RFFsTUFSQ05VOFdzc2h3SklHcW9Kc1JZY0ExN2VXbnBVVF9fVFczbFg1ODJtbl9qN1pXb2FjbVBDcEhndFd6aHFqRV9tYlpTYTdkNG04NjZkMUZTZHBDS25NcHh2d1lseTlfczl2STN0R2MxXzF2YnJPMjk5N09ObHRZblloUHZBUlpWZw?oc=5",
     "data": "12/01/2026",
-    "fonte": "Marinha do Brasil",
+    "fonte": "Agência Marinha",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Fundo da Marinha Mercante prioriza R$ 4,6 bilhões para projetos na Região Norte em 2025 — Portos e Aeroportos",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2luLTdwMmhuNjIwUngwMVpTa3JQMjN4eFowMHZkN1hFUDBRY0EwbEpDeVBjNWhBNjFJNFZwNW43cmd3OHZlYjAwM3hfQjBxU3phdTk1a0VQN1E5WUxnTUhUNXByN3diM2g1TFdIeF83SzcxMDM1a2dPdjFLRFppeF9Nbi1MbV9BYWtuaHZYd21zUzd1WHcyZllfY0QtNUdkUFRqUUFQQi1SM3RBWXV3WENZTC1QTW5RaDNpeU9GNkZmLThzT0p5WEV5LUJJV3BLMk5rT3N3UWpITTUwbHktNlFiRlpuTmhLMUwyVXJB?oc=5",
+    "data": "07/01/2026",
+    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -280,8 +290,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos da Bahia apoia Procissão Marítima do Senhor do Bonfim",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1RhOEd4RmI0bUtFSW9OT1lidEw2VEVjLTFwNTZ5dmpsdkJPY3hKUXhmeVRYaWhfZFFha2lWRnozaU8wcjJpUl9UZ3dLN3JsdHFrQjg3OGRnczhsekExck93eGZvRUVxY0QtUG9mbEpsMVBhV3BKQVZQR0ozTEphaWozTjhEaUdERGRUb0pjVGIyMHNmWFBHZWd2T0VaUy1FQ0JIbnFtVnBTSUhfcGFyME9ybVpCUEhPOG1rR085YndkQQ?oc=5",
+    "titulo": "Capitania dos Portos da Bahia divulga balanço parcial da Operação Navegue Seguro após 30 dias",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUnRqTXdjWWIzaVFKdkx5d0lGTVlHS0NTYzJwdkgzSlc2THdROG9OX0lrQ1RYbzYwX2o0MmRjM21uWHR5NDVVN294MnliaWtoeHU1X1ZRVWlOZ2lGMV9hcWJ1d25uMVJKcEx4cDhIbUlJX0ZCcDk0aGRXSUw1QXV3VUtxTzRHb3g3el9wckdueFhFY1JTd3RPNi1mLTUyY21CQ2FZUUdoRXdqamVLWjdnV1FuMlJibUNfaXRfTnpuYWJoa2JRV1hpdGhFdWdXZHNiRjQ4ZzlZWGM4WVVYaElNcERB?oc=5",
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
@@ -290,8 +300,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos da Bahia divulga balanço parcial da Operação Navegue Seguro após 30 dias",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUnRqTXdjWWIzaVFKdkx5d0lGTVlHS0NTYzJwdkgzSlc2THdROG9OX0lrQ1RYbzYwX2o0MmRjM21uWHR5NDVVN294MnliaWtoeHU1X1ZRVWlOZ2lGMV9hcWJ1d25uMVJKcEx4cDhIbUlJX0ZCcDk0aGRXSUw1QXV3VUtxTzRHb3g3el9wckdueFhFY1JTd3RPNi1mLTUyY21CQ2FZUUdoRXdqamVLWjdnV1FuMlJibUNfaXRfTnpuYWJoa2JRV1hpdGhFdWdXZHNiRjQ4ZzlZWGM4WVVYaElNcERB?oc=5",
+    "titulo": "Capitania dos Portos da Bahia apoia Procissão Marítima do Senhor do Bonfim",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1RhOEd4RmI0bUtFSW9OT1lidEw2VEVjLTFwNTZ5dmpsdkJPY3hKUXhmeVRYaWhfZFFha2lWRnozaU8wcjJpUl9UZ3dLN3JsdHFrQjg3OGRnczhsekExck93eGZvRUVxY0QtUG9mbEpsMVBhV3BKQVZQR0ozTEphaWozTjhEaUdERGRUb0pjVGIyMHNmWFBHZWd2T0VaUy1FQ0JIbnFtVnBTSUhfcGFyME9ybVpCUEhPOG1rR085YndkQQ?oc=5",
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
@@ -340,10 +350,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Receita Federal apreende 240 kg de cocaína em carga de óleo de soja no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0lpcGxQSWY2TUI5YWJtQjBNZ2FGZ0xJb2NlT1ZJU0twY2F5cl9uODk1bUdPdTF0NkhaTXJWcmpjNFZueHV5MVV6OXJhS1dYa1VUeGVUWXoyRUpCZ3gxN2Z4THU1cG5HTmJMMTNxdjZycEdsMzVBUU1DU2liSjFQUFNEOFJMRjNWXzgwMEgzZWZkbFVkSFh5TzgzdFlWTWlzZXQzY3ZYTHFUb2ZlVG1MQTNBeC1sX2hOam5vT1RsdEh2Z2dJWVc1Q0plLVA2TTFGMDhLOW9Obk5jT19CVVRacHFubTNaN1ZFX0VDNld6c04?oc=5",
+    "titulo": "Decreto compatibiliza proteção ambiental com segurança jurídica",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZGelM1OHJwV2s3OEZuSjZVSkVBLTRjalZoNDRENUswQS0wbnM1YmJmZ0lnei1jcnFFb0t0Q1pxcTJxZkRJYUc0ak5oU2FjaElobUlXVW8wQ3hFdC1HdzlFR1Z0SW14SXV2OVl0X2JVd0l3Y2NnUW05ejVBLUxRVEdfV3lsUkRFTGszaUVfNGhLLTVEV3FqRA?oc=5",
+    "data": "27/12/2025",
+    "fonte": "Consultor Jurídico",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Receita Federal intercepta 240 kg de cocaína em carga de óleo de soja no Porto de Santos; VÍDEO",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVVreWpEZGFjZ1hGWGV2YWF5UjBtSUZ4N1JhTlhJbDI4Z0t6STAtSEg0VXNkWVVVdTQtT2kyT1plVUNJMlhxbXVvMTdnTW5fR1RBb3Z6djFUcm1FM3JuSWxXNFFVcEdFbFJuQTcyNzdRQktYTXRCRjUzUEk3Z0I3a3NWa0hSQ004OFV5XzdBSkZxUGR4NldYeXJ2bDU1NVRlZDZLRndQZ1hKYzVhYkNiX0V2cTA2eVZoLVJHaXMzMFh0NW1rOUJXOG5RVVFlMjJCQUVESQ?oc=5",
     "data": "04/02/2026",
-    "fonte": "THMais",
+    "fonte": "Santa Portal",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -364,16 +384,6 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0VHRHVvdktsRFZQZXBOMjloQ3pGU3l6X3FELTB6b1hFbUZxYzlkcC1wTEItczB3RjNVUGpXcUxEbEE0MGxlQVloamNiNVEzVFJfaTRkWVpURDJYTWUycjhOZC1xd25zLVY3cFc0d2pHYzZ5SERfMmdpX1d2ajRteWNfR1hJMzNhb2dSMC1jMjc5dXFHZVd1NWV2MlpvNlRBWUFCVzBfVFZFbWJVOXpnQ0Q5ZHZzRnpFV19LSW1BYVpHQmYzcUVR0gHHAUFVX3lxTE5nRUdEdW92S2xEVlBlcE4yOWhDekZTeXpfcUQtMHpvWEVtRnFjOWRwLXBMQi1zMHdGM1VQaldxTERsQTQwbGVBWWhqY2I1UTNUUl9pNGRZWlREMlhNZTJyOE5kLXF3bnMtVjdwVzR3akdjNnlIRF8yZ2lfV3ZqNG15Y19HWEkzM2FvZ1IwLWMyNzl1cUdlV3U1ZXYyWm82VEFZQUJXMF9UVkVtYlU5emdDRDlkdnNGekVXX0tJbUFhWkdCZjNxRVE?oc=5",
     "data": "29/01/2026",
     "fonte": "Jornal Portuário",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Venezuela anuncia retorno de navio petroleiro em operação com EUA",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHlQNlZLMldwUEk3UTFLTXE5SUJmcTNIYXBpelZWa1BYTEI2X1p5Y0lNQjdwbWI3cnp5S0VfSXlreW8tZHJvaHluQ2RUTzZva01VZG40NW1ISjZOVW5FZmJQUDcyQUxlSUxKSmNxd3RqcW5nN1JCUzNyQ0tXX3RzMmJXY2IxYS1MZENrY3g5QXA1dzFPSG1YdVlpUVR0MmxOTnZz0gGoAUFVX3lxTFBvc3FhbTk1QTZRaGlUdHNqUFlsY3YyWndkQnJRWEdXWGtjMWp4bjVwa3I4VFdhdERPU0kzcWpvOFNDYUV6T0k1WDJTUHBRc2c3Z3NnUFNHSFhZTlVsMDVETW9MbGVxNTJSSkFlaW5RZmdpSkpfbExGOHpFTlZxdGc0RWJTcGdvZl9ySVNNTWxuTHhsV2Vkc3pvWHBibXQzci12cDFBTm5TWg?oc=5",
-    "data": "10/01/2026",
-    "fonte": "InfoMoney",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -480,6 +490,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "MODEC, Eld Energy e Delta unem forças para desenvolver sistema SOFC de hidrogênio para energia offshore em FPSOs, avançando transição energética, descarbonização e solução de baixa emissão até 2027",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNa2lKb1NmM1VoRjZhRDhjN2RLOHZmWDhvWkRCWnNGQmhNLTBaSmhLRXd5a2dVdTJwWU1WdHpvMy1EMmt6SXVCbVc5Y3RZa19JaXJ0TjgyR0JvNWJJbWllUHNxNktmSmwyVWdTNU1LWnNyVTRPQm42WjBWTGZyYmxRTi1PY09TWjBoOWdDMTRpQjJFbWw4Ny14eWNXcDdiYlNpM2U1YnpoWk1nc1ZWWmQ5M1lCYkdnYXRmcGF5NHpCUEZGYi1hSkZCazNCX29ON0JjQS13cFMtT2tNWlU1RjBRMDlqdkJqVC1ibXdWeHEwb3p1UElMTlotS3BfeUlYbkVoSVZxRE9iQnpGTmdfbUlRdQ?oc=5",
+    "data": "06/02/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Com R$ 45.000 por mês o engenheiro de petróleo offshore virou a profissão mais bem paga nas plataformas",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT0ZoSGl2NnpRZVlrdVdtd24zSmR3VVl0V0NMbTQ3WVl0NVdCczZIVU5mYWtxYngtVFlXVnNEWnZRVU5oS0RHVVJzY1pRekItVUFIcmpxQkFlMEs0bmlaOGRsbW9kVUUxTEFadUxNQXZmdU02eXpCQXBtRVFPblpoaE0wX09oeG5HZXNrdEdhYUdWSWVKaFkwODVaNFJkczBENXJidlFhOU5JQ2xHRm83TS1QU2s5d2wxTF9hcmx0UVVEM2RjN1g0RWduMEdoWGxhTEVjczQtNDhVMmx3Wm5tdTJPbnJLUQ?oc=5",
     "data": "06/02/2026",
@@ -540,10 +560,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Dragagem possibilitará atracação de navios de grande porte em Suape",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFFvSmpZZmFsbWZRQ1RFeE1TWGYwRW9NVTlEWFBLZzlLSjByMzFnNzNYTGdQWTFHS01RMFhwWWZyZnBBNXVzU0FuZWlEbWpOeVFCZVBmSmJPZXduM2NOV2N1WGd3NVNPN3lEbXdBTktwTlFVam9rMGFkVmEyZmthU3NtcWNHcFZUSWN1TWRnWnJLS2lFQUFaY2ZwWmNUMkEzUWtwdi1n?oc=5",
+    "data": "24/12/2025",
+    "fonte": "CBN Recife",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
     "fonte": "www.gov.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Navios de petróleo deixam Venezuela apesar de bloqueio dos EUA",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3dTWUkzd2lNVkFMVmtCZkxDbGlaWVF2M3dYVFJCLTBsWGt2RkFOanRtdkg5ZG9VUVZTUGZxSzNJLWhFb2VmdkRNMk45MlZGd01xb3U3aDV4MjNGOERmMFdUWWVqRjZIcWVseG5HX094eDhCVDFjWnhkY3pNd241Nkw1UTg4dVppS3F0c0Q1dmZQTXNpeXBkbDVuNUZZQjJaSEV0eW9R?oc=5",
+    "data": "05/01/2026",
+    "fonte": "sbtnews.sbt.com.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -570,20 +610,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Marinha do Brasil aposta em drones nacionais para proteção ambiental",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVJIeFUzOXJJQVRsLXQweThpdm5JLWpyZ3RrczBuNTBHLWtXdDJGNUhxUFVYSlJGaTdIa2V5Qm1hRzVYUUZOY0FqRjZBQmRzbjNTQzd0SkV3ZExtQ1RZdTl6R0gxS2x2ZEU3b3FBOXdDWTZyNzN4cnBUanZrazFTcE5EZVRjUGVEUjFSR3dLT0ljQWQ1NEhXRDMxTWJkb1JHcGZF?oc=5",
-    "data": "28/01/2026",
-    "fonte": "Defesa em Foco",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Marinha do Brasil entrega 22 Carteiras de Pescador Profissional em Coruripe e reforça segurança marítima, Capitania dos Portos de Alagoas, em 29 de janeiro",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNVVPTXNfTU1pMWxvLTNWSWlKZkt2S2FrLTh4b2pKWVE2OGxGdi1nLTVHV09Gakw3R2hSQmxMRUVzamlPTGZSLV9uNnBRZnhuXzhGRjYtTUwwWHJEaUJ3TmxZQlRjM19GYWNvNzBLaWZBOERwdjlvc3l2MDRuZnYyTWt5Y0twY01GVEhxRFo4UHYxR1NLczMwU1lyNXZjckVxTk8xV2ptYU9ZNWJyeEhUS3pCRG83ZWp4WkUxNk9GUXZaOU1iQ0VzbWJPbnZFVVNnaVUtcTUtUWgwVEVVZWxkNWVhXy1zbnRQdjFCeWplS1ZyNWp4MHk5ZmZ1ZnJvVUw2cHdvWk95M3dUZ0k?oc=5",
-    "data": "30/01/2026",
-    "fonte": "DefesaTV",
+    "titulo": "Marinha do Brasil resgata oito pessoas após acidente com aeronave de táxi aéreo no litoral do RJ",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcE5PaWRFVlIxUVp3Y1dTWTFEczlyaFlaOGpFTkpnTWJQdDlfNWw5Z1FrSzJQbGlxWjhJVm5wbjdRam10Y0NaTVRwOVp5aEZudW9YZGVqWW5ER19ZS2NZM2V6bzRJU3ZCWXN6czNxOTVIbTA1bEhtMHhTT0VSQWEtVVRJcHJuZFpxYkFvRTNIT1EwXzh2Y2NhODFsQ0pkSmY1RDNDLVhvSzZTdmFzUC1jTHU1eTdKYy0wMk9RN0NYVGMzN1pqZ29XbFRVdw?oc=5",
+    "data": "03/01/2026",
+    "fonte": "Agência Marinha",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -594,16 +624,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclM1cjJ1Y3VmYU8yckt1bE9HYzZVYy1JNWMyc3NoT0c4TXNJWW5VQkx6MDJzNVdMVVV1R0lPMUljVzhYMkppdDN1elVwQm82R2ZpbDBYYlh5V1c3X0pRTVJzeXdnSTlUQlNkNXhPZTlIRFgtd09rQU5SNzU1MnFwT1pmQWtjWVdWb2t0WHNyYmdnSjFWQldJNGdmQ3J6Y0djemdGdEx1aXZzblk?oc=5",
     "data": "19/01/2026",
     "fonte": "Defesa em Foco",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Marinha do Brasil adota drones nacionais para proteção ambiental, acordo com XMobots e Petrobras amplia vigilância e SAR nas AJB, anúncio no Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVmRCQ1htbmtQOG9vTEk5cEFFN3VhdWNTMzFsdmtGRFRfX2xVOEFDV2xNbTBScUx5T3QzV3ZhYlhXc1E1RHBaQzNxdnRnc3lLcGZxYWFwUUJVQ25sb3dRM011U1ZJdTJEUk1GUkhIczlNZlJPdkRYZVVpQXJNQ3VYT3JKc1psOTJZTGVweFBnS3FWMEJ4ak5qa0JvdFo2UkdMdmwzTC1qSUt3OGNyTnpUSldpVnQ3UWppb2xtRU1xOWpwUXV2c01tcmczTm1zM1hRVTV0bDBnTm5tT2p0cHE1Uy16dFNvaEJyTFpQLVZ5ZEdrMng0Yzc2QklxLXNrNVYwOW5pZ2h1UUtoZjQ?oc=5",
-    "data": "28/01/2026",
-    "fonte": "DefesaTV",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
