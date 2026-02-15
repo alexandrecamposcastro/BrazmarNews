@@ -100,6 +100,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto de Paranaguá simula manobras para expansão da infraestrutura portuária",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWV5bVZCUlVNZl8wMXdrU2wyTndLNU9RU055NkRkMndKeUNvTFFXaEVWTWMwSlZjSF92ckozS2ZlclRVNnFjNTRiTUhQU1dEUHdlRGtScHVXOUFZbmlWT0VUSmVPNXl0d0NlSzJlRHE1UkRWOWJwYllrU0d5SHRDaEpiaThadzVORjJCTGJHcWVPMGM3RWZGWTNqNldHc0N6MmVDd3VZbENidEVGWFJvaWRQNms0bWhaeW1TVHRR?oc=5",
+    "data": "05/02/2026",
+    "fonte": "Administração dos Portos de Paranaguá e Antonina",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Assinado contrato para novo terminal no Porto do Rio Grande",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXM2M3dnRmlicUkyZzJDS3B1Q0N3MER2ZXRpMnFxWUd0RWpLNE5tanZGLVdaTUVpU1ByZ3RnTzZHeVNfSkc4Y3lYcnBiLV91Wk05aFI1cHVzcW9ad3RMSDR3WUxNUEZKcTIteEZkM0FRVWh5emFaTGVxcTFQMENUaUFKanFpUXVUMjhBZEJJbGhGSlV4SG9pWXJ2dEtLZFN5UGFyTlViU1M5dw?oc=5",
     "data": "21/01/2026",
@@ -163,7 +173,7 @@
     "titulo": "Capitania dos Portos intensifica fiscalização em transportes marítimos na alta temporada",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnQ2LWZMY3NQSTV0bGtwVnhjdDVGNFlHaXo5TUI1LTNZVWhvNVkyMGdGUEMtMG5maG8xM3FIUE5tSmNjcTlaUXh6aHRfOUViYnI5MVBTREdNVVpuUlpqbXNQQnBPa2cyT1FwWUNVdUJ0aTVxdjZhTzJZdmNDMjlnLUNDQTJmS3BsSFdUMnRlMUVWU24wcTRJdFRiR1RiTTdoWTJ0VEEwUGN3WllQeTAzeGN4MA?oc=5",
     "data": "13/02/2026",
-    "fonte": "TVBV",
+    "fonte": "TVBV ONLINE",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -260,16 +270,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos da Amazônia Oriental visita as Eclusas de Tucuruí",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUg2VlotQllNcnZMbUthM21Jc2RjdlVmWUN2by1nSmZscVQ0SUVtVE9yaXNnWTRaMklnOFpIdWN5QlNnb2VPb1BfRmptMjdzcXdvV3ZPNWJvbkt0aHl0SGV1a21NXzZFMzFWLTNtTUx0Q09YT1FTcDdTcXNIVmJHQ3VOT2U3SVI4bUMxTmxFNnNaanozc0lSUUZ1SEZYaEJYRnFZWjh2LXdPLW1xaWF3a2lXQm5pbmoy?oc=5",
-    "data": "05/02/2026",
-    "fonte": "Marinha do Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Capitania dos Portos da Paraíba participa da 10ª edição do projeto Praia Limpa",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDV3ZndOaWkyNEhHdm5fOVpnZ0J3SDJhd3R2d0ZtSXVRX19kWF80cFkzZjJVMDc5aEVRamFhV3g1VVVzZGFSOFRPZ3ZoTTVwcEwwR0s4MGVNUnQwX1BGQURwRTg1ZldXVl9lcWJ6VDdlSEpudnJwMjVybVhpbWNPQmZrb2ZUUXZvOUl3VWo3WTU4cHFvbEJYOFB0QVlfWldBN1U3U1JRMTJad3RrNU9NZWNoQmUzQ2Fxa2wyXw?oc=5",
     "data": "06/02/2026",
@@ -290,16 +290,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Seguro DPEM, documentos digitais e mais: veja as principais mudanças das normas 211 e 212",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRi1wVk9GSlJyS2JnQVY1amJudmdGdkl1dHAzOXh2NEExY1BRZ3Rma2xtLVJNWnZwTHVCcmx6Qlk3bnMtM0pfRVlna3dsUDJQWDlqYkV3M2YwWTFyQTJ2cVVtZnBBX3hMSHc?oc=5",
-    "data": "13/02/2026",
-    "fonte": "nautica.com.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Decreto compatibiliza proteção ambiental com segurança jurídica",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZGelM1OHJwV2s3OEZuSjZVSkVBLTRjalZoNDRENUswQS0wbnM1YmJmZ0lnei1jcnFFb0t0Q1pxcTJxZkRJYUc0ak5oU2FjaElobUlXVW8wQ3hFdC1HdzlFR1Z0SW14SXV2OVl0X2JVd0l3Y2NnUW05ejVBLUxRVEdfV3lsUkRFTGszaUVfNGhLLTVEV3FqRA?oc=5",
     "data": "27/12/2025",
@@ -310,10 +300,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Receita Federal apreende 240 kg de cocaína em carga de óleo de soja no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0lpcGxQSWY2TUI5YWJtQjBNZ2FGZ0xJb2NlT1ZJU0twY2F5cl9uODk1bUdPdTF0NkhaTXJWcmpjNFZueHV5MVV6OXJhS1dYa1VUeGVUWXoyRUpCZ3gxN2Z4THU1cG5HTmJMMTNxdjZycEdsMzVBUU1DU2liSjFQUFNEOFJMRjNWXzgwMEgzZWZkbFVkSFh5TzgzdFlWTWlzZXQzY3ZYTHFUb2ZlVG1MQTNBeC1sX2hOam5vT1RsdEh2Z2dJWVc1Q0plLVA2TTFGMDhLOW9Obk5jT19CVVRacHFubTNaN1ZFX0VDNld6c04?oc=5",
-    "data": "04/02/2026",
-    "fonte": "THMais",
+    "titulo": "A polêmica da água de lastro no porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUpRR2dQS2Z3NlVtTzlJMURQQ2RDbDJGRGtyVnRqYllBMzhhdEVWTC0ybmdLWFZrcE1laEtlNmZSUVJqQ09TYVlYdE1ZVUxoNzJ1VWtjM1lxTWVRd0x4eC1DVzk5R3BYanFZd3lKUzEtR1FNdTNBcllFYjFRZFRlMjhTbHNZZmhTUjlNRFh1SlNMSTJ2T1dVY0FHNERySmhCZWtGcE1kVVJzVnlX?oc=5",
+    "data": "12/02/2026",
+    "fonte": "Migalhas",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -374,6 +364,16 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTFQYlNTSnlSdGkxbXIzVkx0eW5vWEp3WEszQmhEY2UySzQ0WTd4NlE4SW9rX2I4WVBxZlRjT25kOVo4Wlc0aWhDZ1UwXy1SU0FtVWpIdUN4UVYzM05RQjIwUjZSWHRVN1dzUXNIbTR1QVVZVjB6enVSdzFfTm9UMzNidTBRYlF1U0dtWWdDVVk4ZjZoUS0ta09FR0ZaUXo1LUJrRU1vd2JDUkJGQVozeXI5S0pVOGhyTG5Zei1jbU5nNVVLVmU0bA?oc=5",
     "data": "30/01/2026",
     "fonte": "A Tribuna",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Rebocador norueguês vai retirar cargueiro sem leme ao largo da Figueira da Foz",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObkdBTjdqOEJFVTJmSXd0eEdCRDBfQnJFeDc4TDExeEZXejRJZDUxdUhhdklsY0tiQWV0bXR1VXpQLS1hbVhxU1J2dS14dEF2TFBPZ2hUWXBUWEI1RzJ3c3R0RW1UTkUtbnpVZ0JxWG5tUHdBRktRRUw0RGlWM3d1emFjSEJpRml1SHBCMkxaTGRNZnc0WGZqXzFEUEFFV201bmxHZXd4WFdwOXdoZ1l0WVh1djfSAa8BQVVfeXFMUC1zTmFhZGpkU25rWE1aSWNZdWpnMGIxaWhhTW93RUxEVkxyaXNMZGYyZF9PZU1DZmR3dlNnR1MyT0d4T0pkX1FsNTdWSDBHak14V2h3QTI5VXk1azFHbHI4Z1UwUndxcXFjNVdxQWdtZ29uZVNnVHQxSHhJTFVnQjRMQ2JqQXVEdnR5aVVIV3o5dzVxY1I5THIwMXU5X2xRdFpJVWVCeERjYnByYnR1SQ?oc=5",
+    "data": "27/01/2026",
+    "fonte": "SÁBADO",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -450,9 +450,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Demanda por técnico em integridade estrutural offshore cresce no Brasil com foco em segurança, certificações exigidas e papel estratégico nas plataformas de petróleo e gás",
-    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMUcyNGJJVDgwTkF5QW1sSnkzUTBzMEUwYUEzWThvU3lKQ25xdzFDWHRBazJvVjBEa1Y0QmU1NGhMMzlCbjNIUVM2dHRjZ2otOVdyeFlZbWV5ZXJIVUFXZXBISFZfbkhfVmZKUm5kQWxjLTh1NnM1ZDNGbmNseklXV0M2TndtcDhSanpwaEZGT29iaGhEQnBoRzlhbHNlTkRGR3ZQWXNQTWQ4RG5DSGxMaFdUbXB0N2JXZURoclhVdEpKeGx1Rmk0UGpNa3NLR0dQSllPRkhpZnk1a0taMDYzNF95NGxfZFVuVjNrTndwQjRqMkVPeVpVbWlUZ0llenI3OWRvUjJrdE8wLVptajd3OEZOUzl2NG9oQklCVDFHRXVENnp0N1VEczNfYk5ERkJIS0w0UXVn?oc=5",
-    "data": "04/02/2026",
+    "titulo": "Constellation abre nova vaga offshore para 2026: oportunidade para trabalhar embarcado em escala 14×14 com direito a vale alimentação, assistência odontológica, seguro de vida e mais",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPTFYxUjNJR2pheE1CN1NiQnlJbVFwanpSQ0JYek43UmVOUDM5VnBCUjhVYWpkSjRadWxRaFR6Z0diTk9JRUJEclZMZFlQWURjSFRzdDZpV3ZDNzJNWGZVa0hmNVRtNjJYcHI0M2tDbFpMMXlMWU5DVko3NVFnRUlLX0ZDa1BPN2p2ZmJRQVVkOGdfNkhLS3FtVEwxaEJCWFNZV2FKRkxQYVcySDJHcmhYeTZacVZsV1g4TmJyTVRHZmxkZjB1NTlVLW5mdlpfLVpqOWxZMWwtUW1ENkpxZmFpSjUxVjIzQTRWN2M4NkgxeEFvTXNCUDRtUzE0ZG9sS0NzTGVZOFJuNFBVajN2N18teFVJOG1uX0J5Z1lJcHdiUkZVMkhFZ0swWmhNYUROVnZwYktUZEY1VUJfcTlaSGxPUXln?oc=5",
+    "data": "29/01/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
@@ -470,9 +470,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Carreiras offshore ganham destaque em 2026 com salários competitivos e plano de crescimento no setor de petróleo e gás",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnA5QWtjbGY1QnlCQnJlNHJaaXQwOUhld0x4aWVNcXF6Wm9FUWV6TlE3cm1CTEF0aVdwYWFpVDdCYUJXVXVUSFlGSDlkQThTbC1SNWdSX1pzMFJ0SVBuekE2T1FHczVvR2ZLNDZCMUlTT1g0S0RmWkVfUzQ5a3FJS0FadE9id2R0bDZEai1TZ0RLeEh4R0hSbHRMVmltcjZfMXI1ZlBBUm9GeU5aN2FEQUNpcFRVSEI0aFZDaW1lSXJQelBpNm1vcWEwdlE0T0ExNmFWNWdCeE1RSS13eUItbUU5UzVlUG1yQ1BrdlU1M1A?oc=5",
-    "data": "02/02/2026",
+    "titulo": "Demanda por técnico em integridade estrutural offshore cresce no Brasil com foco em segurança, certificações exigidas e papel estratégico nas plataformas de petróleo e gás",
+    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPMUcyNGJJVDgwTkF5QW1sSnkzUTBzMEUwYUEzWThvU3lKQ25xdzFDWHRBazJvVjBEa1Y0QmU1NGhMMzlCbjNIUVM2dHRjZ2otOVdyeFlZbWV5ZXJIVUFXZXBISFZfbkhfVmZKUm5kQWxjLTh1NnM1ZDNGbmNseklXV0M2TndtcDhSanpwaEZGT29iaGhEQnBoRzlhbHNlTkRGR3ZQWXNQTWQ4RG5DSGxMaFdUbXB0N2JXZURoclhVdEpKeGx1Rmk0UGpNa3NLR0dQSllPRkhpZnk1a0taMDYzNF95NGxfZFVuVjNrTndwQjRqMkVPeVpVbWlUZ0llenI3OWRvUjJrdE8wLVptajd3OEZOUzl2NG9oQklCVDFHRXVENnp0N1VEczNfYk5ERkJIS0w0UXVn?oc=5",
+    "data": "04/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
@@ -530,6 +530,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Ondulação e calemas impedem navio Kriola de atracar no Porto de Vale dos Cavaleiros",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDU0VkFYa251Q0kyTGRwR3hnMWhpclY1WTdqU2lOdTN2QndGWnNvQ1RENHVtRjNDelhJTkZLYktXZ1ZMVjgycmt3djdsQmliaThPS3lPYUozZ2RxUGxRSUhfUU9uTkZ4LVpuZWl4ZllsT1Z3dS1LVzNZemV0dHQzM2xGR0lGTzBzdDJJNXQ4SXZoOXFRMEVhNE9mdFlCTmI1UlN1ZDR0eUhBWWgzSTRCdjJnV2g?oc=5",
+    "data": "12/02/2026",
+    "fonte": "Balai Cabo Verde",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
@@ -573,6 +583,16 @@
     "titulo": "Com navios Handy e gaseiros, Rio Grande consolida retomada de grandes obras",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdxalFaOWZYUHZyS3dUUmtkRE5pbFViTGdFM1M5d2hmcC1SeVlrRWlsZHZTZWV0OElWODFWQXNyWlFhcE5HVjFEdUNEZlM4VXlaX0lRRW5paThGaWprMFZKem5qMTVGd1BYT3Q4RE9UZEd5NmtQR2xESThXX3V1ZXJHVnNySWlNZy1FbnAyTERBcDJhN3lHUXMteVA0ZGNiWWJVVkRnSlg4VW8tZkpNNXZYRzRzejZUNElZaFEtbmVKYnhTNnBRZjg1M05STWdnSE4w?oc=5",
     "data": "20/01/2026",
+    "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Fundo da Marinha Mercante destina R$ 7,1 bilhões a projetos no Nordeste em 2025",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd013Y3B6dFAyVHE4c28taUotVDAwUGc5bUNfSHJscjZ5cm9lbGRwSFZBSExrY1Q4MUhubVRoeVA1SGV4YzRhQjdqQl9FdFJveWFtQ2ZRQVVkZ3JMYVN1aGF5dGJ4M0tSd29hQTgzcUlpcV82bmdsLVpnZDI5QWZYTjlKM2FKcHlteHh1V0hTUlpyZE54WEZ5NUc3UTI5UHZuQi1ndGx3ZUxhN0hsRWs3cVZ1b0tPQzNENjZ1ZWpISWMtcnljMkd6cVVSUDAxclRKanNoU0t3OVE?oc=5",
+    "data": "27/12/2025",
     "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
