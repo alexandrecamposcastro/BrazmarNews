@@ -40,20 +40,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Programa SOMOS garante 2º lugar ao Porto do Itaqui na categoria Gênero e Diversidade do Prêmio ANTAQ 2025",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlRJc0Q0dGxBR21uOHVPMTVVczRvSGYtVlVSQ2t2aFMzM092d3VVVW1MNkJSblI3dWEtLV9VRndxeXdMdHkzdDVMVW9lblJqMHdDQVNxZ1R6c2FXNUNyYWJyWC1INWROa2pjU2wyZzU1Yk1QdHBSZzU3UDVJZUg1U0pTUzUyUnN6UElGYjVBVGJKUkxMU2ZDNzRfNEJSTk5GOHZWcVBkVDY2U0t5bTFMTVh6clgwWjZWOGg1U3B5bEdudFltNjNkb01SSkhHaDRj?oc=5",
-    "data": "12/02/2026",
-    "fonte": "www.ma.gov.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "VÍDEO: Incêndio atinge silo de grãos no Terminal Marítimo Ponta da Madeira, em São Luís",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWY4N2ZVZXNBZFZUYnBFcDFBZURkZVg5Ni1Oa3NpY3IzZWlYTk9tSDI4R3d0SENLM2xoZ2NfbG1uRFNDYlVVU0VJTVBVaXNlVXZRSFZlSE5kc0FESUlGeGY4T3dHUVptRDcxcElNYjh5V2FtdzViUGlpWGM4TUJvYkt6dmRMVUN5OEMwUTJFUHBGc1dyand0UGIwbGplUzFKbDNYRkhxN2FUWExWMGdjeFo5RDdZVnpSVFA2YTdQaWZRMjdaOEJGVHlaYUQ2bF9zRkJB0gHiAUFVX3lxTE1QUEUxSU1kZXMzSmtmVy1KZ2FYVHlLbGlCLVNMZVEyLVFsenBGM1JCZ2xKZ24zN29NTmdqRXF1Y3BxZGlDV0taOW0yMmdRQjJmLVNHak55OXFoUlJ2UEdmOU4xa0hEbE1mS3dqWk91dWV0WmxoVzY3aUItc3puODFNWlJzeG8zUnFDUzNuWWtHWFFtaEs4Y01EdmJBb3hDbWx0WmNFSjhPYkZnVTl1Y0ItVjFpamw1d2dxTUxWSm93VGJBUGZJU2lNUEpjQnRxbzdOMVZvWU0wbWR1U1dqTUdvMEE?oc=5",
     "data": "29/12/2025",
-    "fonte": "g1.globo.com",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -113,16 +103,6 @@
     "titulo": "Porto de Paranaguá confirma a operação de navio de cruzeiro para a temporada 2026/2027",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTM3LVFZMnZvR2JDMDBnRjZWUEFaMXlfaVZpQ19SNEE4SXl4SXZsMTktRUdjN2R0dGFLWnRYbWNybmNGLVFOOGc1aUU4QUZUTkxERk45RDhqc3ZKRjZYdXJZTFF1SlVQdUFzT2REQ2hHTGNBWUs0MFpvbFZBWktnbGlXdDVGWFJrRjBfai16LVBXbno1Q3NvVk8ta19seHBOTjhaNEpDeS1nLWZNZTV4U3lOOU5uRzhsUW9oNFJpeFBVUVl4?oc=5",
     "data": "27/01/2026",
-    "fonte": "Administração dos Portos de Paranaguá e Antonina",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "AVISO DE PAUTA – NAVIO DE CRUZEIRO NO PORTO DE PARANAGUÁ",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0VqcVJGeTRYbjJsUEUwSnpvR3RydjNTNUNiR05TSTMycFJMLUlWUVJFSUhWUTFsX193RVdkbk9zRHhUdm1acS14M2RhalI3VzBJdU5Bb1YzOUlpcldWR1MyeTBkeXRvT084VkpaMmdSemdOa0djNjg2UTZlN0xuaE9WRHdwMVZnbEdDa3pRLUxURFJLbjFwUGFzRTZYNFdF?oc=5",
-    "data": "05/02/2026",
     "fonte": "Administração dos Portos de Paranaguá e Antonina",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
@@ -230,6 +210,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Capitania dos Portos de Laguna tem sua primeira comandante mulher em cerimônia histórica",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzJGak5jZzM5SkhDWWdhM0xVTVd0MmdDcllzWHk5LXBPY25BNnpBblBVTUgzQU9QMjV6Y1pGUDhjN3N3TXQzRUxETlpIN0VVZmZhRGd5N2dMMExjeE5KdjM5RTA2bDlGb1hSdzFPeGd1Qlh1OFk1NnlqMG5Md1FqdlM1dmVicm9JMnJuY0M0cjhlaDRLcUMxdEhzTEh4Qmk1MTE2ZGJXY1B2cGVseWFSQW9HTEg?oc=5",
+    "data": "29/01/2026",
+    "fonte": "Prefeitura de Laguna -",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Estagiários da ADESG-AL conhecem detalhes da atuação da Capitania dos Portos de Alagoas",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2xtdXgxOGFqekozXzVrWUE1T1RCWEtadlNDdTdwMWJkVEtZVElWVU5mNmtnR2ZRSDExVlFiN2xMSzhnM000ZFpZTHBpNi16N0g4dUlneXMxVDhKNjBJZ2FRUWZXVUpDZk0zeEVtSVljSGJ4Z25hRWlGZXFHNEtNdW5WN1l3ZWlIWEFqcmFNZ1g5WVNvUlRGRllUX2F3U2IxN2o2NU8ySklfZ1N2LUZFb25ScC1GNnM4N2lj?oc=5",
     "data": "11/02/2026",
@@ -310,20 +300,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos da Paraíba participa da 10ª edição do projeto Praia Limpa",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDV3ZndOaWkyNEhHdm5fOVpnZ0J3SDJhd3R2d0ZtSXVRX19kWF80cFkzZjJVMDc5aEVRamFhV3g1VVVzZGFSOFRPZ3ZoTTVwcEwwR0s4MGVNUnQwX1BGQURwRTg1ZldXVl9lcWJ6VDdlSEpudnJwMjVybVhpbWNPQmZrb2ZUUXZvOUl3VWo3WTU4cHFvbEJYOFB0QVlfWldBN1U3U1JRMTJad3RrNU9NZWNoQmUzQ2Fxa2wyXw?oc=5",
-    "data": "06/02/2026",
-    "fonte": "Marinha do Brasil",
+    "titulo": "Decreto compatibiliza proteção ambiental com segurança jurídica",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZGelM1OHJwV2s3OEZuSjZVSkVBLTRjalZoNDRENUswQS0wbnM1YmJmZ0lnei1jcnFFb0t0Q1pxcTJxZkRJYUc0ak5oU2FjaElobUlXVW8wQ3hFdC1HdzlFR1Z0SW14SXV2OVl0X2JVd0l3Y2NnUW05ejVBLUxRVEdfV3lsUkRFTGszaUVfNGhLLTVEV3FqRA?oc=5",
+    "data": "27/12/2025",
+    "fonte": "Consultor Jurídico",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Decreto compatibiliza proteção ambiental com segurança jurídica",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZGelM1OHJwV2s3OEZuSjZVSkVBLTRjalZoNDRENUswQS0wbnM1YmJmZ0lnei1jcnFFb0t0Q1pxcTJxZkRJYUc0ak5oU2FjaElobUlXVW8wQ3hFdC1HdzlFR1Z0SW14SXV2OVl0X2JVd0l3Y2NnUW05ejVBLUxRVEdfV3lsUkRFTGszaUVfNGhLLTVEV3FqRA?oc=5",
-    "data": "27/12/2025",
-    "fonte": "Consultor Jurídico",
+    "titulo": "A polêmica da água de lastro no porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUpRR2dQS2Z3NlVtTzlJMURQQ2RDbDJGRGtyVnRqYllBMzhhdEVWTC0ybmdLWFZrcE1laEtlNmZSUVJqQ09TYVlYdE1ZVUxoNzJ1VWtjM1lxTWVRd0x4eC1DVzk5R3BYanFZd3lKUzEtR1FNdTNBcllFYjFRZFRlMjhTbHNZZmhTUjlNRFh1SlNMSTJ2T1dVY0FHNERySmhCZWtGcE1kVVJzVnlX?oc=5",
+    "data": "12/02/2026",
+    "fonte": "migalhas.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Itaguaí/RJ recebe primeiros vagões do metrô de Belo Horizonte e reafirma excelência logística",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRUZETl9pNnNYU1hSaGk1M28wTVVtZUlTaE1PSEwtZGhRV2JoenZuSy1VeXIweDNFTXJCU2lCZld2ZVJZbzllOHJKR1VBT0h6TW9GY2plX0dmRXBxQXVRWnI5ZGxMQzVfeUFqNFlqTXpIMm5ZWHpaTkUtRFdUbFZ5UDVRZVh2aTJWWW1tb2JvWXRrcExhaUZJV3d0ZnVhazVEckpJdUdnWEtkemNfdWJ3LXY1NmNUSUplMFAxR3hqd2ZVMERTUmdEZnpWVDRDSS00UmE2QUd3NkduTUg3alRleFp1bUpRTGVzaTdpblQyMVIyS0t5RjR1OXhUOEgtSXg2WlFV?oc=5",
+    "data": "29/01/2026",
+    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -384,6 +384,16 @@
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjV4OGVsLWFIYXZldXlGUVVUVTNnZDBjaDlYc2xhVjJ5MzQyZmpVWU4wWDFOeWlHUkktUFVnRi04M2JOZTlGSTNldEY0TEwya2lNc1hCUHV1dEZGdk16NTdaUGh1NlNhVjFYTGg2ZWpTTFU4aldpd3k3MlpVMWJEc3BQdmdUM0wzSGlFRGNxM0VDVDNtUVpaaF9QTlJvMVU2b056R2lVbVZ1Sm9NQW1FVDlDRUdMUkgyQ0dGaVBuT2Z4TGZyR1kyWDU1bncyWXRoTGc?oc=5",
     "data": "10/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Venezuela anuncia retorno de navio petroleiro em operação com EUA",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHlQNlZLMldwUEk3UTFLTXE5SUJmcTNIYXBpelZWa1BYTEI2X1p5Y0lNQjdwbWI3cnp5S0VfSXlreW8tZHJvaHluQ2RUTzZva01VZG40NW1ISjZOVW5FZmJQUDcyQUxlSUxKSmNxd3RqcW5nN1JCUzNyQ0tXX3RzMmJXY2IxYS1MZENrY3g5QXA1dzFPSG1YdVlpUVR0MmxOTnZz0gGoAUFVX3lxTFBvc3FhbTk1QTZRaGlUdHNqUFlsY3YyWndkQnJRWEdXWGtjMWp4bjVwa3I4VFdhdERPU0kzcWpvOFNDYUV6T0k1WDJTUHBRc2c3Z3NnUFNHSFhZTlVsMDVETW9MbGVxNTJSSkFlaW5RZmdpSkpfbExGOHpFTlZxdGc0RWJTcGdvZl9ySVNNTWxuTHhsV2Vkc3pvWHBibXQzci12cDFBTm5TWg?oc=5",
+    "data": "10/01/2026",
+    "fonte": "InfoMoney",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -490,30 +500,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Constellation abre nova vaga offshore para 2026: oportunidade para trabalhar embarcado em escala 14×14 com direito a vale alimentação, assistência odontológica, seguro de vida e mais",
-    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPTFYxUjNJR2pheE1CN1NiQnlJbVFwanpSQ0JYek43UmVOUDM5VnBCUjhVYWpkSjRadWxRaFR6Z0diTk9JRUJEclZMZFlQWURjSFRzdDZpV3ZDNzJNWGZVa0hmNVRtNjJYcHI0M2tDbFpMMXlMWU5DVko3NVFnRUlLX0ZDa1BPN2p2ZmJRQVVkOGdfNkhLS3FtVEwxaEJCWFNZV2FKRkxQYVcySDJHcmhYeTZacVZsV1g4TmJyTVRHZmxkZjB1NTlVLW5mdlpfLVpqOWxZMWwtUW1ENkpxZmFpSjUxVjIzQTRWN2M4NkgxeEFvTXNCUDRtUzE0ZG9sS0NzTGVZOFJuNFBVajN2N18teFVJOG1uX0J5Z1lJcHdiUkZVMkhFZ0swWmhNYUROVnZwYktUZEY1VUJfcTlaSGxPUXln?oc=5",
-    "data": "29/01/2026",
-    "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Aqueles que mantêm a chama acesa no navio, enviando saudações de Ano Novo às plataformas offshore DK1.",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODBYRGxDMHJmeUllNkNFSHp6RzVockduV0Rjc2FLSjVJSlRRVTl6bnJFY1RRVHlCYllXZmI1ZHdJWEFVQnJyMVl3WmxIVVF1SDl5STd3UHNjaGVVaklDNlhLZTR0a1JvSTlvaVptcU5XbVBSUmI1X1YwMmxyWWhvLWhSR3dFYmdxR3dXQkd6UEFuaC10T29nQQ?oc=5",
     "data": "14/02/2026",
     "fonte": "Vietnam.vn",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "O operador de sala de controle offshore que monitora plataformas 24 horas por dia e recebe altos salários por decisões que não admitem erro",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVzh2ZlB5LTJhOERtTHkwUTJ4Rm11aFdVZFdBeVBIeWltMWtqMkxlN1haNnlZZml5TEQ1TnI5MWdJSVo3OWFGMlZWWGlpeVZIMEJXb045TmhBdmFzQXM0QUZqVWtDN1F3bHN0WUwteDBHeXA2blRhRnZURmVRbExXZVkzeDJWSkd5eGljODM0NFZNcldNOERLZm1Nb05kQ3BMMEUxbUdhdXl6SDJ0Y2JwQ2E2LUhnU0ZDT0dfajRFWWsxMGk2VG5Gdm9wYzItME5UdlZ3M3FUOFRaOTZMemZlczRWdzluUDM3Sm5EZ3R4UnlobjR6NTdtWlJSeUZOVEZDSG84Mk5NUmtwM2tkcVZYYnpIY2hsY2M?oc=5",
-    "data": "10/02/2026",
-    "fonte": "Monitor do Mercado",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -530,9 +520,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Com R$ 45.000 por mês o engenheiro de petróleo offshore virou a profissão mais bem paga nas plataformas",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT0ZoSGl2NnpRZVlrdVdtd24zSmR3VVl0V0NMbTQ3WVl0NVdCczZIVU5mYWtxYngtVFlXVnNEWnZRVU5oS0RHVVJzY1pRekItVUFIcmpxQkFlMEs0bmlaOGRsbW9kVUUxTEFadUxNQXZmdU02eXpCQXBtRVFPblpoaE0wX09oeG5HZXNrdEdhYUdWSWVKaFkwODVaNFJkczBENXJidlFhOU5JQ2xHRm83TS1QU2s5d2wxTF9hcmx0UVVEM2RjN1g0RWduMEdoWGxhTEVjczQtNDhVMmx3Wm5tdTJPbnJLUQ?oc=5",
-    "data": "06/02/2026",
+    "titulo": "O operador de sala de controle offshore que monitora plataformas 24 horas por dia e recebe altos salários por decisões que não admitem erro",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVzh2ZlB5LTJhOERtTHkwUTJ4Rm11aFdVZFdBeVBIeWltMWtqMkxlN1haNnlZZml5TEQ1TnI5MWdJSVo3OWFGMlZWWGlpeVZIMEJXb045TmhBdmFzQXM0QUZqVWtDN1F3bHN0WUwteDBHeXA2blRhRnZURmVRbExXZVkzeDJWSkd5eGljODM0NFZNcldNOERLZm1Nb05kQ3BMMEUxbUdhdXl6SDJ0Y2JwQ2E2LUhnU0ZDT0dfajRFWWsxMGk2VG5Gdm9wYzItME5UdlZ3M3FUOFRaOTZMemZlczRWdzluUDM3Sm5EZ3R4UnlobjR6NTdtWlJSeUZOVEZDSG84Mk5NUmtwM2tkcVZYYnpIY2hsY2M?oc=5",
+    "data": "10/02/2026",
     "fonte": "Monitor do Mercado",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
@@ -540,9 +530,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Carreiras offshore ganham destaque em 2026 com salários competitivos e plano de crescimento no setor de petróleo e gás",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnA5QWtjbGY1QnlCQnJlNHJaaXQwOUhld0x4aWVNcXF6Wm9FUWV6TlE3cm1CTEF0aVdwYWFpVDdCYUJXVXVUSFlGSDlkQThTbC1SNWdSX1pzMFJ0SVBuekE2T1FHczVvR2ZLNDZCMUlTT1g0S0RmWkVfUzQ5a3FJS0FadE9id2R0bDZEai1TZ0RLeEh4R0hSbHRMVmltcjZfMXI1ZlBBUm9GeU5aN2FEQUNpcFRVSEI0aFZDaW1lSXJQelBpNm1vcWEwdlE0T0ExNmFWNWdCeE1RSS13eUItbUU5UzVlUG1yQ1BrdlU1M1A?oc=5",
-    "data": "02/02/2026",
+    "titulo": "Caldeireiro offshore no Brasil tem salários de até R$ 17 mil e enfrenta rotina embarcada com calor intenso em estruturas metálicas de grande porte",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWnE5cG8zSjlmajlwYVVRZGVvWG52V0pCUEtDa3lLUW9xWkstNzNCNWNlSlBaelVGZlVVM0ZYSXBQSXo5c09Od3dtOHozUlpqbzMwSWRWeU54YXJ5UnVGZzhISzFES0xubUxYOW9laWRkN1BqUlhjeHo4TlA4dkx2aTQySDFISWxFdWltblR1UFc5ZXNSQlJCTnIxdjNvMmU0cHFFWjRicUphdmNVdnlTWDVnUUxBVTVLTVE2THVHeWN2SkJsLWgwdW0zYVZ5SjN4ZmUwc0hnRDJia05SQ0lOV1BMb2p0X0FScklheGU1S3RPaG5uVlRPMnZfUlFHbjA2aEkteHJ3cTBDb05MNGU3dENzZF8?oc=5",
+    "data": "09/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
@@ -570,6 +560,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Marinha autoriza atracação de navio de guerra britânico no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDJ4aFpvQU15M3BQYUpBWjZyQkhLYW1NMHZlN0h3aHNNUVpOaHhUVDBlRXB0OVRlUlA4c1Q0cHJ6Yll2QVJEdjdmcVAwRGFOTGtxWXIxeWJqdnBnZC13VW93MUczV0dHX2RUaE9KdWpTZ2JzOGlxU0Y3VmdlcUVvLUUwNFVwMENPTHl2blViWlgtSmlRRk1kdkE1bzBjZw?oc=5",
+    "data": "21/01/2026",
+    "fonte": "Vero Notícias",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Marinha autoriza navio de guerra do Reino Unido a atracar no Brasil após quase seis anos no Atlântico Sul",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalBKaWdlaTVmZDdBNnEwMHFzcHd5c3N4WDhDWkJkbGZHOU1LenBmZms1WmpST1dlT0tOQmdsQThKZVJTU0lBZkpaaXRvRUJQUUdYTllsMnh4SF80SWZ0anRhWGYyR3daQWthLVhERHpIM0gyLVNkSzRpUWdsWnk1Vm8wZUtNZ092LS1EVU41dEtyTnE3MzZHZml4RnoyN3BMdGQxaWtMTFkwSURUbnMtOUMzTy1GdVYydlYxSVBzZnhSZ1pGa0ZocXYxZkIzSE4zSFVSTVJ0VWlRVm13eTVUZmY0V3RyWkQ2NW9FdTlYTGk?oc=5",
     "data": "21/01/2026",
@@ -584,16 +584,6 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFFvSmpZZmFsbWZRQ1RFeE1TWGYwRW9NVTlEWFBLZzlLSjByMzFnNzNYTGdQWTFHS01RMFhwWWZyZnBBNXVzU0FuZWlEbWpOeVFCZVBmSmJPZXduM2NOV2N1WGd3NVNPN3lEbXdBTktwTlFVam9rMGFkVmEyZmthU3NtcWNHcFZUSWN1TWRnWnJLS2lFQUFaY2ZwWmNUMkEzUWtwdi1n?oc=5",
     "data": "24/12/2025",
     "fonte": "CBN Recife",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Contêineres gigantes caem no mar todo ano, somem sem alarde, viram risco oculto para navios, fonte de poluição, disputa legal silenciosa e lembrete incômodo do custo real do comércio global",
-    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYmIzMXRWaFhwTVp6Wm80eFcyWWt1emM3OWotSHUzd0pWSmp1YXFVT090NmE4NldRMXRmVzBnYkY2RGxOc1dWdTRZM29vYUF1RzVEb0hnRzNNeVN3Vy0yQThDLVg3UTE2eFdfeTNsNXRLTnZSWUN1QTI3M2VTWG9qZk9tQUh5ZHpqaXJyUEpLRFdOMW5PTDFuUUlNYnlNU1FHWWpXUXF1YkJqTHlRUUxRZm0zTEN0WEszczBBSnZxMjJYdGJHV0pjYmNsMk56QU9adjFXVXhEUmVmaGJZYUNsUE51SEVNSEdkQlZSRGZPS1BxVTJsVDU5ZW5qdGNGaUpTUHN4N0RiZ1QwVVlmNHRsYkQxX3p0Y2plaGFXS2R5bnI3MDV5cU9zWmZLVWhkQ3c?oc=5",
-    "data": "12/02/2026",
-    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
@@ -623,7 +613,7 @@
     "titulo": "Justiça nega indenização a casal que teve cabine de cruzeiro invadida por desconhecido nu",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUXVwSU1pTnl3dmZ5UkdIMVh2d2ZwUzJUSVljRWJUSXU3Zy1oRFhkbDloUFlJdFNYUmFhdFJ1TUEzTUswaGZlNGdYVzZvUmtHSnBuZ3FFSWRfV0lxcUdrNWlBX3BMZ1NVcVI1RVhXWDJGcDRaUHRMaTBnR2N5aHlKY1JrOGZEeE5fT3BBLXNEeG11b0V0akNhUFY4MG1Xem9PV2treU5WLVE0YUd0ZC1fQ1JuT29nMWJHNjVqdDB3YVJ1UXl1dDluRTJmVDJYTjRmVXZFcENscnViWjFkVDlmWFZlTHc3U1XSAfYBQVVfeXFMUGprTGZOeTZXRFdOTFBleXVyOS1oNnNQLUpEQWRpNmlSOHFfRjZtZkMyUngyeVhFejk2dWUwUzFoU3pHcHR6NDVTRVh2bm9UeXNaVG9TVXd2VnRfMC0zRnBGQno1R0Mza19Ncm9wUUZPZ3R0eGRRaktOQjExWjh0X0s5b3d2MkN1aHdiTnBUaFV4dDBpTEtlUmpjalREdUdUTGJQUGZxdm84NDNYY3RfZlNUclRYRkVWaHRwMndXM2d5VGxkd3luQmk2eFRYUXVoY1ZTNlZIM2JtdWdBTVgtWkFhQmE3Q3hWdGZFaUVCSXpTNmNaaGNR?oc=5",
     "data": "08/02/2026",
-    "fonte": "g1.globo.com",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: 403 Your API key was reported as leaked. Please us",
     "entidades": [],
