@@ -360,16 +360,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Paranaguá confirma a operação de navio de cruzeiro para a temporada 2026/2027",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTM3LVFZMnZvR2JDMDBnRjZWUEFaMXlfaVZpQ19SNEE4SXl4SXZsMTktRUdjN2R0dGFLWnRYbWNybmNGLVFOOGc1aUU4QUZUTkxERk45RDhqc3ZKRjZYdXJZTFF1SlVQdUFzT2REQ2hHTGNBWUs0MFpvbFZBWktnbGlXdDVGWFJrRjBfai16LVBXbno1Q3NvVk8ta19seHBOTjhaNEpDeS1nLWZNZTV4U3lOOU5uRzhsUW9oNFJpeFBVUVl4?oc=5",
-    "data": "27/01/2026",
-    "fonte": "Administração dos Portos de Paranaguá e Antonina",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Fundo Marinha Mercante garante R$ 5 bi para modernizar e ampliar portos",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnJ2V3h6X3BZdklkZnc1YlNpUE9FalE0S2lDaW03M1NSY2FXdWxuOWdFamNCczhQNi1va1VmQW84VmhRU0VHY1lpMllzVWt3WG1yWWQ0MlpZRnBHLUF0RlRaeTZIWWt1eVlXQUVWbFpDeldXR0dsY0ZVc0pEUGFmTFJXbzltaEJnNkNzbUYzYmVKUWtWTXRkdkVCX0dCdmJROGE2SlMtcDUtdU50RjdGREVUUnBMZEMxTUhMTlFHV0o?oc=5",
     "data": "13/02/2026",
@@ -530,6 +520,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Receita Federal apreende 240 kg de cocaína em carga de óleo de soja no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd0lpcGxQSWY2TUI5YWJtQjBNZ2FGZ0xJb2NlT1ZJU0twY2F5cl9uODk1bUdPdTF0NkhaTXJWcmpjNFZueHV5MVV6OXJhS1dYa1VUeGVUWXoyRUpCZ3gxN2Z4THU1cG5HTmJMMTNxdjZycEdsMzVBUU1DU2liSjFQUFNEOFJMRjNWXzgwMEgzZWZkbFVkSFh5TzgzdFlWTWlzZXQzY3ZYTHFUb2ZlVG1MQTNBeC1sX2hOam5vT1RsdEh2Z2dJWVc1Q0plLVA2TTFGMDhLOW9Obk5jT19CVVRacHFubTNaN1ZFX0VDNld6c04?oc=5",
+    "data": "04/02/2026",
+    "fonte": "THMais",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Receita Federal realiza busca aduaneira em navio atracado no Porto de Santos e identifica contêiner contaminado com 289 kg de cocaína",
     "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdS1oTzFHcC1MdDZWU1gwN2pjNFlQd3l3YXBLd19UczFkQno0SzNDV0J1Ykg0dVYtX0hfV3JYbkJNRVNMWXBHSVY5a2Zla1d5b1RVTDlyQ0poakJINTcwdVk3Q21KbTVKcWw5Mk4yWWVabmlYZVBENEZtUmV4VXp4NlpHbFZSREJaR3lud0ZmQm1iTXNENUZvck9vV2JjLVdhWnNUQ3lqZW5sRzJOYmpaQmY0d3VJbjlMUVNKTk9YTnJLdElWU1lrRHJPNHJYcFduUWNfdC13ZEtxczM5OXNrQ3l5Qk5KaXF3cHFaMnBvM3ptRlhueDJOQ21wbllQaGxMQW1JX0dBN1RDOWxuOWNRcGxNODFsM25rTVhJRFlVT3U0OVE3bGNQeFRNeUdWZw?oc=5",
     "data": "29/12/2025",
@@ -560,16 +560,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "EUA dizem ter apreendido dois navios petroleiros ligados à Venezuela – um deles com bandeira russa",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pTWdZMkNKN1VKN0lJZmo5bjJZQXlaeHE0NWdfNFcwakFVTTh3S1RpdTJHQ2ZVcXNqU1NIRmZPTWNTRU1RaFc3TFpIeVRNeTZFZndYTWtleFhTSmJiaWlNcWNB0gFnQVVfeXFMT1BiMlF4NjFqQzNwTjhnRUl1MzhydVpSUEl6RjJoNGRQOVVYbG9fUEd2OV9WNkpoMTJIV2JJLTU5WlV5akk4RFk2bHI4c1AyQ3BrS0NGdWttdzV1ZnV6UkQyRS1zZkVpZw?oc=5",
-    "data": "07/01/2026",
-    "fonte": "BBC",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Sulnorte receberá novo rebocador em março e avalia mais 7 unidades",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDJqMzR4c2FxVGNLaTgtTFBWWUM2Vk5vT3FWcm9oWHViaHZmc1VrR21lVHRldXdSWVZBakFfc19nQ2h4Qm0zbS1rSkplbVhtMENSZlR6WDlBLVdiV2t5SEFsZ1JUNjNuN2oycFlMVEMxelg4bGd2TC1ydnN2RV9sb0NadW5CZ2x4S3ZMeVFPVWVHOXZZdVFMd2FPWGQ2aC15VFBnbnRZdW1xc0xiSUhwNTBhRjluNmlEZy13aFJKRVJEejR3Vl81aw?oc=5",
     "data": "30/01/2026",
@@ -594,16 +584,6 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTFQYlNTSnlSdGkxbXIzVkx0eW5vWEp3WEszQmhEY2UySzQ0WTd4NlE4SW9rX2I4WVBxZlRjT25kOVo4Wlc0aWhDZ1UwXy1SU0FtVWpIdUN4UVYzM05RQjIwUjZSWHRVN1dzUXNIbTR1QVVZVjB6enVSdzFfTm9UMzNidTBRYlF1U0dtWWdDVVk4ZjZoUS0ta09FR0ZaUXo1LUJrRU1vd2JDUkJGQVozeXI5S0pVOGhyTG5Zei1jbU5nNVVLVmU0bA?oc=5",
     "data": "30/01/2026",
     "fonte": "A Tribuna",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Rio Tapajós: Indígenas ocupam balsa com grãos no Rio Tapajós e ampliam protesto contra a Cargill, após confirmação de decisão judicial para desinterdição do portoDepois de bloquear vias de acesso ao porto de Santarém nos últimos dias, o movimento d",
-    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOckpJQWJfMUI1Wm1Td1NKQVc0QlpWWHdyUkJLVEdnRnJUenRwYldHMm1hV0xiMEMyZnI1R19wQmdXR2RtS0hnRFhqcllCd3FvR01ubS1EWGFrQ0tITHhSVFJaZTRBS3ltOGhuYlFiTVRwRDF3SFktcFJFWlMwX3pKZFJOUS1veVVOVEhwLTVoRTR3RENSejNqMmlkdnphb2wtMHNVWHBfN09yUlVpS1UtVHFxNnBpWnVGdlR4d3dhcWV2ZDhNOFZsMmpYbDRoQklGaGVPWk1NbXZ1RExKUTRHZHV6NXpiX05EOHZ2T2ZpbGQ1d1Q4SzBBWjFORTQ4U2dYOFNtaEZ6TUxnaHpVenFJSWZGVlpwZmtidnNfWUF0WEpfYWM1MUVnWg?oc=5",
-    "data": "19/02/2026",
-    "fonte": "Portal OESTADONET",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -680,16 +660,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Balsa com fundo falso para transporte de drogas é encontrada em estaleiro",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFpoa1dNdTFqdExWSXlKRElNaEhLZG1YaG1MSUpKanBoWWR3NS1QU0pFTUpDZjVDU1ZuTmhhT0JGOFpnODUwVG9pRkpXVnNMcjVtYVpQVU1uNVFIUWpDUm9BZTk3SHJ0ZVFjc0lrV19rVlBQZmZ4LTYtelJINk5kVEs0Y0dmeVd5VXFRX0FxbVhVNkYxRVRpUkZMMk8tMlViRW9xaUdwZEczUG9rU1VfTElZTjFRbEJNRjUxWVF4ZC0?oc=5",
-    "data": "15/02/2026",
-    "fonte": "Portal do Marcos Santos",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "O poder do gerente offshore: como comandar plataformas e ganhar bem na Petrobras",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
     "data": "17/02/2026",
@@ -700,20 +670,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Trazendo a primavera para as plataformas offshore DK1 e para a Zona Especial de Con Dao.",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSElBY3R1X2NBalZqSERDX3NWYU5CRXZrTHVqMHFpYmFEd2Q2d0FCc3VOdnBnQkdESnNTOEFuaDRGbkhXYzhRSkdGdFlEOFVFeDRReFNwbW5xakc2WXJjMTltcGZ6eC15aGJQblF4RW01QWNqOVZaRGhxSHloVFY4bFhhR1lXZw?oc=5",
-    "data": "16/02/2026",
-    "fonte": "Vietnam.vn",
+    "titulo": "Negócio de US$ 5,8 bilhões cria a maior empresa de plataformas de petróleo do mundo",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczdYZkJTWlVDQ3hKcVN0S2MxUlNDWEVzZnEwcjdvdG9HcU42a2IxWUx1SW51dTBodFRvVjBxbVNodW1SdWlxOFQyWkJjaklKejc0YWczR3ZhdmZFUzh2dmJwaHRxd0FxazZweUprMWFGYjM3RTU5OUt4bkNEQ2pfbUIycGJqaFB3UDNaRVhxbVhvNnRUbWhrdkI4RUZPQldVZ05wYWk3STJRNURleF9SVHAzRndTX2hiLXJQMGJsRWLSAdQBQVVfeXFMUFNvNzhfWjF3cVFRVTliWlJTemk1NGVNSVlJQzlSQi1ETzhLWnRvOVllNV9QWVgyRmVROS1RWkxDUUg0ZlB0LW1xX0trOFpmbzB3cGNsYlRRWGpybVFUZF9tZEM4b0lWcC1BVnBaeG9wM3dhRVdYVS1FVVF5ZW1lQk9fUGhZVmN1NXZHYW13RFFTVC1lODJyTDZGdzdqMGFJRE5XY2tpNElwcUc1SDZqMGtTd0Ficnd1VFd2VjFBcGI1bjhnVS1kd2pYSmpsZmZJRURNYWM?oc=5",
+    "data": "09/02/2026",
+    "fonte": "Bloomberg Línea Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Negócio de US$ 5,8 bilhões cria a maior empresa de plataformas de petróleo do mundo",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczdYZkJTWlVDQ3hKcVN0S2MxUlNDWEVzZnEwcjdvdG9HcU42a2IxWUx1SW51dTBodFRvVjBxbVNodW1SdWlxOFQyWkJjaklKejc0YWczR3ZhdmZFUzh2dmJwaHRxd0FxazZweUprMWFGYjM3RTU5OUt4bkNEQ2pfbUIycGJqaFB3UDNaRVhxbVhvNnRUbWhrdkI4RUZPQldVZ05wYWk3STJRNURleF9SVHAzRndTX2hiLXJQMGJsRWLSAdQBQVVfeXFMUFNvNzhfWjF3cVFRVTliWlJTemk1NGVNSVlJQzlSQi1ETzhLWnRvOVllNV9QWVgyRmVROS1RWkxDUUg0ZlB0LW1xX0trOFpmbzB3cGNsYlRRWGpybVFUZF9tZEM4b0lWcC1BVnBaeG9wM3dhRVdYVS1FVVF5ZW1lQk9fUGhZVmN1NXZHYW13RFFTVC1lODJyTDZGdzdqMGFJRE5XY2tpNElwcUc1SDZqMGtTd0Ficnd1VFd2VjFBcGI1bjhnVS1kd2pYSmpsZmZJRURNYWM?oc=5",
-    "data": "09/02/2026",
-    "fonte": "Bloomberg Línea Brasil",
+    "titulo": "Trazendo a primavera para as plataformas offshore DK1 e para a Zona Especial de Con Dao.",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSElBY3R1X2NBalZqSERDX3NWYU5CRXZrTHVqMHFpYmFEd2Q2d0FCc3VOdnBnQkdESnNTOEFuaDRGbkhXYzhRSkdGdFlEOFVFeDRReFNwbW5xakc2WXJjMTltcGZ6eC15aGJQblF4RW01QWNqOVZaRGhxSHloVFY4bFhhR1lXZw?oc=5",
+    "data": "16/02/2026",
+    "fonte": "Vietnam.vn",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -764,16 +734,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmVwcXloQlpTVW9pb0VOMmd6UDFOTXJlSVRJekQwQUxnNERWLU9ZLXdxR2twdklMNVlzcEMwRklUWnJzeTFSS2Q0UnNnbWhJYnBfREFROXR4WjlOTXNBb0hWajBYT1h5bHpsYVoydDFyRXlHeTlZN0RpVjRGUWk0YXhGaFliempaVXAyemUyNWdLdWhRejRKRDExU1pRb1R2ZnBkZzdTZWJ2OHBldEhDdFZrandTckVMQzBfOW4zbEtLUQ?oc=5",
     "data": "17/02/2026",
     "fonte": "Diário do Litoral",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Capitão dos Portos detalha investigação sobre colisão de navio com balsas em Santos",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd01WNU4zOEljWW5yVHV1WTBWQ1RHUnR0YS00UXF3MjY5U3R4N1Q4bDVyRGF4a3J1bTQ2N0Y0RmJEREwwVS1abTJWOGlzSkF4aC1RTVVnNXp0U2E2RS02a2JnaXpNOHphRS0zaWJGejVla3BMVU9PdlhwZ2IxRTZsUVBiV1BsTXpWU0p5MWM3a0VhWWtVeGtxTXl6ZV9ZZ0g3TE54LVhzbU43YmlwRDc0emRGUkdEZkpNZVZJMjhRSTMyM2FhYzZnYmJvNWtpSDc2cGF0TzhFemJ0emQ5bU9pR252MzNZcThwc1Z1T09tYUZuLUZFeVJDVUZKWdIB-wFBVV95cUxPd01WNU4zOEljWW5yVHV1WTBWQ1RHUnR0YS00UXF3MjY5U3R4N1Q4bDVyRGF4a3J1bTQ2N0Y0RmJEREwwVS1abTJWOGlzSkF4aC1RTVVnNXp0U2E2RS02a2JnaXpNOHphRS0zaWJGejVla3BMVU9PdlhwZ2IxRTZsUVBiV1BsTXpWU0p5MWM3a0VhWWtVeGtxTXl6ZV9ZZ0g3TE54LVhzbU43YmlwRDc0emRGUkdEZkpNZVZJMjhRSTMyM2FhYzZnYmJvNWtpSDc2cGF0TzhFemJ0emQ5bU9pR252MzNZcThwc1Z1T09tYUZuLUZFeVJDVUZKWQ?oc=5",
-    "data": "19/02/2026",
-    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -880,10 +840,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Marinha do Brasil coordena resgate a 1.617 km da costa do RJ, Salvamar Brasil aciona SAR e salva três tripulantes do veleiro Angel Wings nesta semana",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWTZjQnNlT25Pc0wzOVZEbExtamxvZGdFNm5lelpDV2I1RHNHSkFGT2RmRXhvTldvOUVyWmwtSmtJMTJiNENKUjVvZ3V3VlYyWkZzX0NXNnVBbmhiZzV2VTFqT0FSVVlyaGRPbnFtTm1QbXNaYkNraU1RMmlnQmhxZ1RoY19DbE51QndZbXRvR0hTV0ZTU05WM2pidmo5d0hyRFducGtvUFltWURYZHRCNGhLSEV3RGZQVmdnSDFEaC1CX2JFWmM5a1BIM0NwLUVDZXB6enZlTnFGMUZkcmtGNnpFVFM4V243T3pXSWltUW5XdGRKWUJSZTRQeVhjSW1wMjRLZg?oc=5",
-    "data": "12/02/2026",
+    "titulo": "Marinha do Brasil intensifica buscas em Maricá, aciona operação SAR com navios e aeronave e amplia varredura por barco com seis tripulantes neste fim de semana",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMXV6LVN0bkJZM3RhVVBlU0RJdF8wLXl0bFdJQ01WYU9kYUN5R0hEUnFncTV0WVRhaXV3LUFYOEkyYlIxVjQxSERhbzdVay1LVEFrUU9zajJZaFB4eElwa25OYjRQNW1rR1B2R2ptUGpwbVl0YjFZRzk2VjJjckdNZzNQZlFkY29wcldOT2RqbXZBR3c2dWNMNWdTUGJVQnZvb3o0REJfVWQ0YTdOdmtYMWdkc3JjdlNJdlpBVDZhMnlRTm9TU0RKX1FsOEt4dkR0RVlLMWtDaUlFcXJYcGlJZjBhTVZDNjFxY1NlOTRpRFdScktSTUtYU01UMDZMTjNCaHJ0UFg3ckZqUGFPSUtnbVV3?oc=5",
+    "data": "19/01/2026",
     "fonte": "DefesaTV",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha do Brasil intensifica buscas por embarcação desaparecida em Maricá",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclM1cjJ1Y3VmYU8yckt1bE9HYzZVYy1JNWMyc3NoT0c4TXNJWW5VQkx6MDJzNVdMVVV1R0lPMUljVzhYMkppdDN1elVwQm82R2ZpbDBYYlh5V1c3X0pRTVJzeXdnSTlUQlNkNXhPZTlIRFgtd09rQU5SNzU1MnFwT1pmQWtjWVdWb2t0WHNyYmdnSjFWQldJNGdmQ3J6Y0djemdGdEx1aXZzblk?oc=5",
+    "data": "19/01/2026",
+    "fonte": "Defesa em Foco",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
