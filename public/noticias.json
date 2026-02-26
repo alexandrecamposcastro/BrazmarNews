@@ -1,9 +1,9 @@
 [
   {
-    "titulo": "Navio que afundou na Segunda Guerra Mundial é achado no litoral de São Paulo por mergulhadores; naufrágio teve 7 mortes",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM0VwME05LVl3Z0lTWTlzcFU4dVoxUTZpaTFuYTVmbHphcXJuZEZ6YVRYSVgyOUc2NWdwUVd1cUJVNzdza042Q2NEdDNsa2dfaW1uOUdlODlNSXFzS2Y1bGdScGY4RG90ZXk5N0lad0U2dmhZejZRd1pkMVRGQW9Bd05xLTZVWHlYMTRENWc2OXBTNGhyVFBBWjJ0VmszUG1SVkpMbUNJTENfSDB5eUh5ZzV1b205c09na25aVk1QQ1cybTFkLWxxWGUxOTNCbHFKU0VhYlU0NXhZWlMteE9aS3VYWjU1WUJVVDV0cmxfQUFuV0FJSnc?oc=5",
-    "data": "23/01/2026",
-    "fonte": "A Tribuna",
+    "titulo": "Navio naufragado durante 2ª Guerra Mundial foi encontrado por mergulhadores partido ao meio no litoral de SP",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbmVpd2tqOUEzZjdaWGkzUFNIT2hwT0pXbDVqZGZOYWRvSE9hLVBzbVZTZ1czbE5FeG9PUWRtVnlyc0ZaWEh3ay1FU3RMdDloRm40eHZDUlE1UDVKS0wwSVlCZWVkaUVGRmtVYUF3UjN1a3V2TXhub183bHBrX2Q5eEpWZndneHBpaVVCWTNPc2ZOQ2I4cmx5SmlZSnhJeGxvVFpRclZYb3ZCTnBLVVVPN05Sdlg0NHNtQTVxcG5jQmt1QUd5VXZsS1pSN1dDWDFqMGprOGpwcW9WT2lyTkJhbkdlRXc4SUJHVmZPWWZKb3dpcHE2ek93R25qS3JfSUd3Z0owQnJtdXhBVEhZdGVqb1ZIZ3d4Mk9pRjhCLXhJaw?oc=5",
+    "data": "04/02/2026",
+    "fonte": "Terra",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -100,10 +100,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Vídeo mostra colisão entre navio e balsas no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWE1qR2hqMjdiblRmYkJXRjdqX1c0ci1NTTJidnR2Tlp3dnZVT3l3YXVBeGJMOEtwYldYamtpbFVEcGI2eU5iakRnbTk4R3lBcUpvMUpFTkhKNDExZnl0X0tHRnhWNC1uZ0VXYVpKdTZpMFJERXVrUmZBSV9rWktvTDJiZmVOaWZmQnREdlY3djJPcXJaNXVZMWd5a0dsV3VXOC1Pb0U4MWtoc1o0V21vaTNfaUdHVDRXcTR1LVFyMEtjTFRvbEVfRk9pbGRnVElJVzFVQTFzUUtYS1hNUF9LZmVB?oc=5",
+    "titulo": "Navio de Singapura atinge balsas em Santos, e tripulantes pulam no mar Vídeo",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDgxb21RNnVMWmw0NjJjX1Z2TkVsNXc5eUFZRTQ3UVR3WFZIRS0yQ1Y5QlVaSGtjWlp6QTBmTWV1aWRhdDBHV2dXREVEWU9wd0xmOUFNZWRYWElUSW9reDhjeHVBY1pNZGpIcTJ3a1drMXVDcUFucVZQR0lHOUplRg?oc=5",
     "data": "17/02/2026",
-    "fonte": "Terra",
+    "fonte": "Metrópoles",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -270,6 +270,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Concluída dragagem do canal interno do Porto de Suape",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpmeE9vcWVvOUtyejdOaVVrbWpGajlCeE9YakV1dUgxUW5nbU5md3FSSl82cTl0LUxVcUpBR1JOUUUySFBxUVgyY296Ylh5bFlOZUJ6b2dkRGl1MnRRRlhJMmxCVERwd2ZSVll4OW1kRWlKM1dHWDhLR0lzTkdOZGVMUUwwVzZyQ1R1elVBMzQ3ckFnVHhVMGZLbG82QkNZRlRlR2NYRF9uZW9NaUUwUWZXUGw?oc=5",
+    "data": "30/01/2026",
+    "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Para Maersk novo terminal de conêineres em Suape abre perspectivas do etanol para os novos navios da empresa movidos a metanol",
     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZW1Jd1pGTF9ZOUN5OUhEWmRIc2dVTGtvdWtKTlpDVDJlTDV4UE5fNjFpejhaZkdBQ1cyU3hsSjBwM0lXbm9RNnM1VE1NaUg1NUtrRTNzVGphaHd6cTZDbnhiTHVtM0VOWFVpNWs3RDV5MjRkSXA5UFRPZ3dCVGdHeGNBNFdwVDV4cXlLdDNJS0tBYkx1NzVmMG5tNDBkNWgtekRWQU93cGw5WVBqa1ltZ0thNGNXYlJQclhWOXZ3cmFNZE5oeWZ2Nnk0VmFzQXB6N0hkV2tBWmhsU0pIMXVKMHlsQWtmdW40SWpTVHZpRGdyWWZiNTJSMV8yXy12X3FpQm5ha1Z4NWZvdW9IN1E4eXRB?oc=5",
     "data": "26/01/2026",
@@ -284,16 +294,6 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTE9EaGxmRXhuVUs5a3diV0JLWG5aQ1ZSbFc1V3pfREJ6OU16bTBfb3VfenZrQ2tiRHRZcTk5bnE4em5uTFgzSkJVWk1qN2N4RTBaQmlFeEtkWHVONWNlMjU1WkpoNUlraWU4Y0FHX3JINUtLekltYWZQR1dtVkJmWWo2b0w2RXZscFBfUXhkN09MRV9rZHc?oc=5",
     "data": "12/01/2026",
     "fonte": "Portal BE News",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Concluída dragagem do canal interno do Porto de Suape",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpmeE9vcWVvOUtyejdOaVVrbWpGajlCeE9YakV1dUgxUW5nbU5md3FSSl82cTl0LUxVcUpBR1JOUUUySFBxUVgyY296Ylh5bFlOZUJ6b2dkRGl1MnRRRlhJMmxCVERwd2ZSVll4OW1kRWlKM1dHWDhLR0lzTkdOZGVMUUwwVzZyQ1R1elVBMzQ3ckFnVHhVMGZLbG82QkNZRlRlR2NYRF9uZW9NaUUwUWZXUGw?oc=5",
-    "data": "30/01/2026",
-    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -334,6 +334,16 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcmRvUzFpVWNRX2lBYm9ZaFlkeS1jSldRVTlyVng3cUlDV2Ixc21VZEw2LUs4M1MyT1g3Uk5yX3kwMkp3ckVGcVpzelRUMUlneERtbFBiMFFaZVVyNFZxdWtWa2w5WVEyaDc1eDQ3NVQ1RHNiaU1PTW4tczM4Y3JpVmJTY0pyWDVEMHdPR2I1VVdvSGp3QzQ0MUw0Q2F6N3ZsT09IN0ZQYjNjRFRfUXNuRzNmMEF2TzdMUUhiclRCQ09rTDBtakJqaWlRMDUxZjBWbm5N?oc=5",
     "data": "25/02/2026",
     "fonte": "Transporte Moderno",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Paranaguá simula manobras para expansão da infraestrutura portuária",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWV5bVZCUlVNZl8wMXdrU2wyTndLNU9RU055NkRkMndKeUNvTFFXaEVWTWMwSlZjSF92ckozS2ZlclRVNnFjNTRiTUhQU1dEUHdlRGtScHVXOUFZbmlWT0VUSmVPNXl0d0NlSzJlRHE1UkRWOWJwYllrU0d5SHRDaEpiaThadzVORjJCTGJHcWVPMGM3RWZGWTNqNldHc0N6MmVDd3VZbENidEVGWFJvaWRQNms0bWhaeW1TVHRR?oc=5",
+    "data": "05/02/2026",
+    "fonte": "Administração dos Portos de Paranaguá e Antonina",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -390,10 +400,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "“Aspirantex 2026”: operação no mar orienta escolha da carreira dos futuros Oficiais da Marinha",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQendMMm0wRUJZV2dQYWhkNHJCSllyMnVaeTJrbV9haVI0dG1hSVRSMldpcUtnbUh1ZWdESUlMQVhHdUVUbGlfTno4RFFsTUFSQ05VOFdzc2h3SklHcW9Kc1JZY0ExN2VXbnBVVF9fVFczbFg1ODJtbl9qN1pXb2FjbVBDcEhndFd6aHFqRV9tYlpTYTdkNG04NjZkMUZTZHBDS25NcHh2d1lseTlfczl2STN0R2MxXzF2YnJPMjk5N09ObHRZblloUHZBUlpWZw?oc=5",
+    "data": "12/01/2026",
+    "fonte": "Agência Marinha",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Fundo da Marinha Mercante prioriza R$ 4,6 bilhões para projetos na Região Norte em 2025 — Portos e Aeroportos",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2luLTdwMmhuNjIwUngwMVpTa3JQMjN4eFowMHZkN1hFUDBRY0EwbEpDeVBjNWhBNjFJNFZwNW43cmd3OHZlYjAwM3hfQjBxU3phdTk1a0VQN1E5WUxnTUhUNXByN3diM2g1TFdIeF83SzcxMDM1a2dPdjFLRFppeF9Nbi1MbV9BYWtuaHZYd21zUzd1WHcyZllfY0QtNUdkUFRqUUFQQi1SM3RBWXV3WENZTC1QTW5RaDNpeU9GNkZmLThzT0p5WEV5LUJJV3BLMk5rT3N3UWpITTUwbHktNlFiRlpuTmhLMUwyVXJB?oc=5",
     "data": "07/01/2026",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -403,7 +423,7 @@
     "titulo": "Fundo da Marinha Mercante destina R$ 218 milhões para projetos no Sul do país — Portos e Aeroportos",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1MxQUhLZXhHaXRPb1Z0UHM3QUNHcnZad0hKcl84SUVvWUstRGlDRWJXcjVBb3VtRkNBazh6cEZlWmVvR1JUZXVDQjFvb2d2Q2JOb01zWVcxRU9wamJIc2dTbFljWHFDSlJrSjctcHhCcGlJWGZxajhqaG1rU2tfdmpJRWhrbmxvT2tTNzl1bDBmWm5vVHY3WGcwd29vV0FDMV9VZ3pGRkhEOFB6U2F1UGdBVWNkR2VZWVNBdFRXUV80VVZmOUJHQzZWalNFRTlhQzRCbHdHcUtQZGJwaUVXQg?oc=5",
     "data": "30/12/2025",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -480,10 +500,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Seguro DPEM, documentos digitais e mais: veja as principais mudanças das normas 211 e 212",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRi1wVk9GSlJyS2JnQVY1amJudmdGdkl1dHAzOXh2NEExY1BRZ3Rma2xtLVJNWnZwTHVCcmx6Qlk3bnMtM0pfRVlna3dsUDJQWDlqYkV3M2YwWTFyQTJ2cVVtZnBBX3hMSHc?oc=5",
-    "data": "13/02/2026",
-    "fonte": "nautica.com.br",
+    "titulo": "SASM ministra palestra sobre assédio sexual e importunação no ambiente de trabalho na DPC e na DPHDM",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeEJsOVlwOTRSZXVZX09kb3lXbTlGMjdKTzhwSjNYRzRHdHFFYW4wRkhfdFp4b2ZFb2VCYW5UZy1CaS1sNHBQcnQtYnpOMXF4S21qSENrc20ycHJ3MTd1NGh4ZWhvZ1ZRUGNZVTVMZ0xhQTdZZnl5YkhEcXZ6NHhZZ05UcWJfS1RBb2R5YmdwYktudkVvNnJsZ1ZaazlVUjlxSklCNjRLTVBoQ2VaTGE4aXNGZ2hDWkVOa1JIMUZDQ04yUWlWQS1wOXZ5MmlsVmRMQkFsU29FR2o?oc=5",
+    "data": "24/02/2026",
+    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -493,7 +513,7 @@
     "titulo": "Receita Federal realiza busca aduaneira em navio atracado no Porto de Santos e identifica contêiner contaminado com 289 kg de cocaína",
     "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNdS1oTzFHcC1MdDZWU1gwN2pjNFlQd3l3YXBLd19UczFkQno0SzNDV0J1Ykg0dVYtX0hfV3JYbkJNRVNMWXBHSVY5a2Zla1d5b1RVTDlyQ0poakJINTcwdVk3Q21KbTVKcWw5Mk4yWWVabmlYZVBENEZtUmV4VXp4NlpHbFZSREJaR3lud0ZmQm1iTXNENUZvck9vV2JjLVdhWnNUQ3lqZW5sRzJOYmpaQmY0d3VJbjlMUVNKTk9YTnJLdElWU1lrRHJPNHJYcFduUWNfdC13ZEtxczM5OXNrQ3l5Qk5KaXF3cHFaMnBvM3ptRlhueDJOQ21wbllQaGxMQW1JX0dBN1RDOWxuOWNRcGxNODFsM25rTVhJRFlVT3U0OVE3bGNQeFRNeUdWZw?oc=5",
     "data": "29/12/2025",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -600,16 +620,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio bate em duas balsas em Santos e tripulantes pulam na água; veja vídeo",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WG5qczVucFVHaWpDbnJrODFjbmRqNDhqdnQ3TzdaZUZpRkR1UkQ5ekUtWUF2Z3RvNndBY2hxSHIxajhxZGRDY0FnR0dpU2xWLXlaQUJsZnl6Qm5lTVAzMm12eWs?oc=5",
-    "data": "17/02/2026",
-    "fonte": "tmc.com.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Transporte de veículos com carga é suspenso na Balsa do Sambaqui",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejFiYVA0LWRVNkwtZGZQczZ6b0dpdHJIeGNEMnVOOU1XWGdLTVZkZjluVlJvYUEtc3hhNkxxbFpuZ2ZUVnVVUXUtWUdMS2RoWWZnQXFoUkRXbzhCYXBXejRYMVAwNjhpeTlaOHhxempjSVdGZWw0Zy1vQjlNZ21SYl9EMWJTT2NNTU02TEZtTl9VY3lscjAxcmFaeDMyMHNQSnRjdUlFVQ?oc=5",
     "data": "13/02/2026",
@@ -670,6 +680,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Trazendo a primavera para as plataformas offshore DK1 e para a Zona Especial de Con Dao.",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSElBY3R1X2NBalZqSERDX3NWYU5CRXZrTHVqMHFpYmFEd2Q2d0FCc3VOdnBnQkdESnNTOEFuaDRGbkhXYzhRSkdGdFlEOFVFeDRReFNwbW5xakc2WXJjMTltcGZ6eC15aGJQblF4RW01QWNqOVZaRGhxSHloVFY4bFhhR1lXZw?oc=5",
+    "data": "16/02/2026",
+    "fonte": "Vietnam.vn",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Praticagem alerta para suspensão de balsas durante passagem de navios no Porto de Santos após acidente",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlphS216dEVKUm1wc1JjTE5sSkFBbkZNbWszV0p4U0JfS0U0N2pKRTR3S25pSDdzOFVqTE0xMW5udWdnQkNrS3E2Zm9RMkVUSVBQXzhLSGlfVzZmaFBPSmxsXzlKMUpyaWROcjhWMTFSbjdQOEhxRml3dmtKTlpEQ3ZGb3VBckQ5WEE0WW9WX0pjRW9zTHU2Ty1LaDVLems4WjR3Ym04bTl4QWxxRExwVkxQeENqYng4TVc5aFljZkJHVDFqd3dnTXJfY3hDNGJDaWVIS3ZKRFVaU3JPVk44RWtPSkYxcFI5ZjdLX3VB?oc=5",
     "data": "19/02/2026",
@@ -720,10 +740,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto de Galinhas All Inclusive: voos mais estadia no Summerville, um dos melhores resorts do Brasil, a partir de R$ 5.029 por pessoa",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDJlNEN1RUtMMk16WmZrUUY1MXBkWFBnQW92QUw4Y1hkbU1YR2tZWHVBaTVVaFlZTGNkalRseVdCVGFQREhsc3NqM1dDVEZjTkUtbU1ONF96UTYwdUhxSzdod2o4VC1PV2tqWlhJVDZJelh6ODl6OXY0ZHRiREQ0c0JGUmhEVkt1?oc=5",
+    "data": "24/02/2026",
+    "fonte": "Melhores Destinos",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -744,6 +774,16 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUtWVDlQbmFFLXFnWk8wbGJoUlFJOHhjMDljaTc4bVdGclotNTNNSEhESzRvSExLcVpOdkU4QXNJbG56cmVIQzdOUWhCWUNHQnRRa1lSYUJ5YUJrSnVIYmFBV1k2cnlLbTN4NFpwTmxUQlphMGxvUmdrbnJhcnpZdm9lU1dkY0UyNGlWUV83amgtYXgyVWVfaUVqRmptOFBiS2ZMTlMxUlZXTGlvb0dZ0gG0AUFVX3lxTE1yQUNQay1TY3FMdzFReFNHOVNMYmdmekVWMjZlWHAxSWlwdGNHaURGYUJESElrMUN2TmpBUFQ1QTJiWUhZdUxVY2FTdFgtUTlzcDVhbndWYlJteXltSDVBeDE0MlIxOTh1UXdYOGhZYUdkWnZ1NVFiQkd0dU9xaldHTFI5bk5idVhWWWJGdFRPcDVZRlNJelVFbU9qbEc4bHRwcUdRdXZWTDRYQmlWM2JIQ2QtVA?oc=5",
     "data": "13/02/2026",
     "fonte": "InfoMoney",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Justiça nega indenização a casal que teve cabine de cruzeiro invadida por desconhecido nu",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUXVwSU1pTnl3dmZ5UkdIMVh2d2ZwUzJUSVljRWJUSXU3Zy1oRFhkbDloUFlJdFNYUmFhdFJ1TUEzTUswaGZlNGdYVzZvUmtHSnBuZ3FFSWRfV0lxcUdrNWlBX3BMZ1NVcVI1RVhXWDJGcDRaUHRMaTBnR2N5aHlKY1JrOGZEeE5fT3BBLXNEeG11b0V0akNhUFY4MG1Xem9PV2treU5WLVE0YUd0ZC1fQ1JuT29nMWJHNjVqdDB3YVJ1UXl1dDluRTJmVDJYTjRmVXZFcENscnViWjFkVDlmWFZlTHc3U1XSAfYBQVVfeXFMUGprTGZOeTZXRFdOTFBleXVyOS1oNnNQLUpEQWRpNmlSOHFfRjZtZkMyUngyeVhFejk2dWUwUzFoU3pHcHR6NDVTRVh2bm9UeXNaVG9TVXd2VnRfMC0zRnBGQno1R0Mza19Ncm9wUUZPZ3R0eGRRaktOQjExWjh0X0s5b3d2MkN1aHdiTnBUaFV4dDBpTEtlUmpjalREdUdUTGJQUGZxdm84NDNYY3RfZlNUclRYRkVWaHRwMndXM2d5VGxkd3luQmk2eFRYUXVoY1ZTNlZIM2JtdWdBTVgtWkFhQmE3Q3hWdGZFaUVCSXpTNmNaaGNR?oc=5",
+    "data": "08/02/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
