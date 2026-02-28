@@ -220,10 +220,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Suape registra aumento de 38,6% na movimentação de carga em relação ao primeiro mês do ano anterior",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT3RRdGxIWXprQ20wcHdHTnlWR2NVc0huZjVWVTFiS1BYWVdnam5Lc1dZYlNMZi1YTjBJZlhSeTBFbjlubE5BVEdtYzZrUkNSODd3bkYtQ1o4Wkg4THJrTzVwemdMQVgtdXMtT1FaRkE5d1FwYWNuUkhsdXBvYng5Z1liZFRDYjBtMzNNR0pPd2VQTE5yckVoc2c5QmRLajRSVVNYeUhRcy1Ua09ZSUdJcFJPSEtyZkpPUHNQVlVQd1FnYjRCMHJ5M1hXN085YThab1dKT0w1Z19Kd1E?oc=5",
-    "data": "25/02/2026",
-    "fonte": "DatamarNews",
+    "titulo": "Para Maersk novo terminal de conêineres em Suape abre perspectivas do etanol para os novos navios da empresa movidos a metanol",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZW1Jd1pGTF9ZOUN5OUhEWmRIc2dVTGtvdWtKTlpDVDJlTDV4UE5fNjFpejhaZkdBQ1cyU3hsSjBwM0lXbm9RNnM1VE1NaUg1NUtrRTNzVGphaHd6cTZDbnhiTHVtM0VOWFVpNWs3RDV5MjRkSXA5UFRPZ3dCVGdHeGNBNFdwVDV4cXlLdDNJS0tBYkx1NzVmMG5tNDBkNWgtekRWQU93cGw5WVBqa1ltZ0thNGNXYlJQclhWOXZ3cmFNZE5oeWZ2Nnk0VmFzQXB6N0hkV2tBWmhsU0pIMXVKMHlsQWtmdW40SWpTVHZpRGdyWWZiNTJSMV8yXy12X3FpQm5ha1Z4NWZvdW9IN1E4eXRB?oc=5",
+    "data": "26/01/2026",
+    "fonte": "JC",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -234,16 +234,6 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpmeE9vcWVvOUtyejdOaVVrbWpGajlCeE9YakV1dUgxUW5nbU5md3FSSl82cTl0LUxVcUpBR1JOUUUySFBxUVgyY296Ylh5bFlOZUJ6b2dkRGl1MnRRRlhJMmxCVERwd2ZSVll4OW1kRWlKM1dHWDhLR0lzTkdOZGVMUUwwVzZyQ1R1elVBMzQ3ckFnVHhVMGZLbG82QkNZRlRlR2NYRF9uZW9NaUUwUWZXUGw?oc=5",
     "data": "30/01/2026",
     "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Para Maersk novo terminal de conêineres em Suape abre perspectivas do etanol para os novos navios da empresa movidos a metanol",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZW1Jd1pGTF9ZOUN5OUhEWmRIc2dVTGtvdWtKTlpDVDJlTDV4UE5fNjFpejhaZkdBQ1cyU3hsSjBwM0lXbm9RNnM1VE1NaUg1NUtrRTNzVGphaHd6cTZDbnhiTHVtM0VOWFVpNWs3RDV5MjRkSXA5UFRPZ3dCVGdHeGNBNFdwVDV4cXlLdDNJS0tBYkx1NzVmMG5tNDBkNWgtekRWQU93cGw5WVBqa1ltZ0thNGNXYlJQclhWOXZ3cmFNZE5oeWZ2Nnk0VmFzQXB6N0hkV2tBWmhsU0pIMXVKMHlsQWtmdW40SWpTVHZpRGdyWWZiNTJSMV8yXy12X3FpQm5ha1Z4NWZvdW9IN1E4eXRB?oc=5",
-    "data": "26/01/2026",
-    "fonte": "JC",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -270,10 +260,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio atinge balsas no Porto de Santos e tripulantes pulam no mar; veja vídeo",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUhBc2NYdHFESXdtdFk4LWJnR0d3MWF0NjFTUUdWbjdZeXJnRjJJTkwzZGFWakxUYldtMGszck1IRnBHS3c2ZGREdVA2Ymx6YlBYSHBsS3pKZkJBS1NzSmp2MXZtZDlKRHEyQ252Sk5hWHJQZDJrc0gyQmJJN3hwZ182dU9faTM2NFJ4aTQyU2hnYWh6M2t0d0ZOV1dDSVdNMDd0dC05ODF6SHNocTRubWl4eFh0QdIBuwFBVV95cUxOdEgzUVcxTGdRb0x1U0hoV3h3Q1MwcHJlYXF5WDF2ZFZ5a0UyYnNsRHMyTkpQNGY2aDJiRXROSXFPTW9UZktTdjU3cnZPVjhGMC1RelVWR2FxZnJqTkpWS00xMUFkaDYyUmNwZjd1OUc1R3lZS2hEOFJCekoxNWpSMk5HWlFNNTY2eG1LcGFTUm14TGNVRUFtZnQyMnNKY2hNMHJMRDE0Ymt6NUIzRjVxc0xuRzVqWXRlbUtZ?oc=5",
-    "data": "18/02/2026",
-    "fonte": "Estadão",
+    "titulo": "VÍDEO: Navio atinge balsas no Porto de Santos e tripulantes pulam no mar",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVm9EMlAwQWhNcktJclFDSEZZTW80SnpJR0hyU2dIVzEwdGF5aWJsak5uQXJScnJiZE1xenJVZlMteEtGSF8tVFRKRG9XZ3ROQlBuUjlVV0ZvYkJ6SFZTWW1jeG5ZdEJJTHpGRnhCMnY0WHRqMnNXMU4tdFdCSU1Gb2RVX05fR3pNU19OUUhUREJabHQ4cFhOZDJGU2dnaEJoRWh0ZkgyMEZEbFZpdnJXdWVOMWt3UlM4aTZPQ3pwZnBYRmpJNE5Z0gHMAUFVX3lxTFBMWUZPRVRoZmJEZnNDNGtuZWVSVGExbERuY1dmZlFkQ1QwMjVIaDhhcmgwOHVlbno0OXdBSHlxMmZCYmFGcGJ2RDNhM3VGblZRSWMtd0Z0S2JyM2dMRUU2RTh0TUtBQ1UxTTQ5UG1zWVB5YmRGYlJJY3NJUVZlUEVqeXlRVF9BRTJOX1JEU3V1Nzg3Tkg4ajJxUlpHWGVMdkFnRm40aTNPMlhZV293UTFRaU9zZGRqallRU3Njdnc1S3FWZDM1bWpOcFpZTQ?oc=5",
+    "data": "17/02/2026",
+    "fonte": "InfoMoney",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Mapa mostra deslocamento de navio porta-contêineres até bater contra balsas no Porto de Santos; VEJA",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM0JXZXlkRjloOUdTd2JrUlBPc1BFTWRrV1hOal8zY1NmcmVRNkxVWXhUZndjLVI5OFdHZWxWbDUxeENCUmhVZGo3Wk5NWUNjZVNnTElTa2FsQ2ZNQXVaZlRLdXlSRF9vNmQ2S2Z3WTNjbU03M29adjNOamRBZWd5ejljUHVVaGZ6aG9rTm5IVzBXTGZNZDhzeXgySDZSc2Y2Rk9JcXdQRWhOTTJQc0RlR0ZCVFJuZmNmelFtY1BOS0tNUU5qdy1uWGtlU1hkaVhNZktqck1wQTNPb3E4TEJVTUpTM3F5Wk5tY1MweGtzRU1XU1d2YTRURWZoV1dJb1EwUnfSAZACQVVfeXFMUHRaLW1XY3FuWjdJYlp1MTE5dDZpS0ZNZHYxQUZ5bk1aMGYxbkRkYnJVWDBFem5yNlpZZGUtVTAxaUVobVdKV3ZMa29ORWZld1I1ZmRSaENNVXFJZmhoOFJjLUtzUjF0Q3pZejlZRXBCS25lSVBOY1llNExXaFVuMU01Vjd1T042RFdLQ1YyM1RNZ2tMVFNMc3ZaVlJqQ0ozLUtqNTFtaEFrSFlaS1ZPcm1KUDFOWkI5ZzVrZUpLLXVDZ2JiZFNOdHhKeUtlbWhVME52LXdZOE9xOFZQcV8xNlFxZnVaWDNMNHE1TDJWVXlQX0t1UDMzWDB0SmE3MktQQUx5eDlLVmh2d0R5djBVLVY?oc=5",
+    "data": "17/02/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -284,6 +284,16 @@
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUUNIci1LR3ZKLVphb1UxT202cFllZ0Z0cy1VN24wdHVHQi14WW4zQnpDN0IxcDhzRnpTeE01V1djVlM3WnJ2Mm82N2lacm9MM09DbE8yRmd3c0VZbzFaUktVWDNJYk9UOTlwbXJ1RHpYQjY3SER0SEpWcko2bDZVUWVTaWZBZzI0U3ZyV0gwYmx4TlgtYlA4cGI5WmQ2NWIwSHZ1MmlvNHhlTFpMbV9jTE9JejUwNDktek5GM3dKY01PUDVvM3BTNlFkLXpSdmo2U0pGVXYzekh3YTBEdmxiZw?oc=5",
     "data": "26/02/2026",
     "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Paranaguá simula manobras para expansão da infraestrutura portuária",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWV5bVZCUlVNZl8wMXdrU2wyTndLNU9RU055NkRkMndKeUNvTFFXaEVWTWMwSlZjSF92ckozS2ZlclRVNnFjNTRiTUhQU1dEUHdlRGtScHVXOUFZbmlWT0VUSmVPNXl0d0NlSzJlRHE1UkRWOWJwYllrU0d5SHRDaEpiaThadzVORjJCTGJHcWVPMGM3RWZGWTNqNldHc0N6MmVDd3VZbENidEVGWFJvaWRQNms0bWhaeW1TVHRR?oc=5",
+    "data": "05/02/2026",
+    "fonte": "Administração dos Portos de Paranaguá e Antonina",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -304,6 +314,16 @@
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWlpZXo4bXBpczhuemRCREV0WWRXYjJtdXlVamdwREV4QVNCeWdzT2k1S2hvQlBRTzhYV1BIb2VCanhZRTJCVURqUVZDZFRrSjNBSkx6dUJKLTNoZDJHZzBsOF9qRExLeEZLZ2FmNk4yTUFqRFhfdEc4ZzlyTlprRFpyYTFHV0FQSmM5ZGp4cl9lSDBkS1N4VV9HU3RzdjRKRlNnS2dJZjVQRGJ0SDBsMjZBejlQOEVURXFTWEdHVjVvdDRjWm9XWHhhLW95UEc1cXRTdjk1WkNfenJlamY0UGRRd2ctWlBYVEE?oc=5",
     "data": "27/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Ministério de Portos e Aeroportos envia à Antaq projeto de concessão inédita que integra canais de acesso e hidrovias no RS",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOdUY2ZkV1S1RGS0QycHk2azNHVjlTOW1lWThWaEd3UG9XWWxTNE1SOVYteUxDYmhERlMxYmZHUmdZckFQRHZKSi12eEZCOWIySkhvYndJNzJkbXhUTkdpSDZNZ2Z0RTNYa0ZnMkRzdUh4anZBNmd4cFZHV2NRUjJkUk0xM3NyUnIyVjZ6NlNQLXl5N20yZmpzQ0xhZGdCb1BKQlRvS0szMVNOck1jOWpWNjFlTi1fZmh0aGJtbWZzVEE0QzFnd1F5ODRFcUdVMHNrdGgtZDkySFdIUklPYjdzUkFIMUpWNm5jR25sUU1ybmRlT2xudTR5QTl3YmZFcE95aTdaZzdYUF9lMjQxeWxLbVdYTlF4elFRZVlnS0VZbw?oc=5",
+    "data": "25/02/2026",
+    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -333,17 +353,7 @@
     "titulo": "Fundo da Marinha Mercante prioriza R$ 4,6 bilhões para projetos na Região Norte em 2025 — Portos e Aeroportos",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2luLTdwMmhuNjIwUngwMVpTa3JQMjN4eFowMHZkN1hFUDBRY0EwbEpDeVBjNWhBNjFJNFZwNW43cmd3OHZlYjAwM3hfQjBxU3phdTk1a0VQN1E5WUxnTUhUNXByN3diM2g1TFdIeF83SzcxMDM1a2dPdjFLRFppeF9Nbi1MbV9BYWtuaHZYd21zUzd1WHcyZllfY0QtNUdkUFRqUUFQQi1SM3RBWXV3WENZTC1QTW5RaDNpeU9GNkZmLThzT0p5WEV5LUJJV3BLMk5rT3N3UWpITTUwbHktNlFiRlpuTmhLMUwyVXJB?oc=5",
     "data": "07/01/2026",
-    "fonte": "GOV.BR",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Fundo da Marinha Mercante destina R$ 218 milhões para projetos no Sul do país — Portos e Aeroportos",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1MxQUhLZXhHaXRPb1Z0UHM3QUNHcnZad0hKcl84SUVvWUstRGlDRWJXcjVBb3VtRkNBazh6cEZlWmVvR1JUZXVDQjFvb2d2Q2JOb01zWVcxRU9wamJIc2dTbFljWHFDSlJrSjctcHhCcGlJWGZxajhqaG1rU2tfdmpJRWhrbmxvT2tTNzl1bDBmWm5vVHY3WGcwd29vV0FDMV9VZ3pGRkhEOFB6U2F1UGdBVWNkR2VZWVNBdFRXUV80VVZmOUJHQzZWalNFRTlhQzRCbHdHcUtQZGJwaUVXQg?oc=5",
-    "data": "30/12/2025",
-    "fonte": "GOV.BR",
+    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -480,16 +490,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio porta-contêineres bate em duas balsas no Porto de Santos e tripulantes saltam no mar; VÍDEO",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXFsWUpESF9DYVU4QzJYZ2RwSmZoVC1qYm9SYjAyREc4SEdmMWJxaEFjRnRGNHhhWGFOWVN1M1d4emZhc3ZPLXpkZFlTaWotMFZyaXVsRVdTUThhYkV1dWg2bUtLMHBsSEI3b3ExYmNJcWExZzVVWENRTGxEcEhGaVU1OWdYNmRHeWc2T1FyU014azJMTjVjODJjVTNES2tHaHE1YWFFN0VhdTJseWp0Q3hod2pwU1djZlJwcmk5ZVlyUVJMd1RydlVhR2Vid19KUzktUzdJd0d5NWJZRFpBZ0lsMmpDY1VMVmpNUVZOeHPSAf8BQVVfeXFMTUIwakxPMnpQeklFS3pNRFN6YlJBVmt5aFNkU294WHcyMUFSYlNaVUU0eUFmdi1tdFgyNFk0clFDNHhDRmVYOXhBa3hwYmhlVGxoZ3lTdkhDUE80RXdsa3Q0Zll3TFRQR1E3X0ViRVNmd20xUkFETThsY2RmM2VJN2pkYk9EaU45Y2lVNElfZi1ZR1c0VUY5djJzLTVaS045UHNvLTNRWHlWcEwwNEVieGJBV19pakF2NkNtRWxUekQyWm5DUmFlaHhHdWpQOTJHdng2WFBxcE1MaTZkeHNnQ24wemJENEU1bFItYkJ3NmR5NnZtcU9zbkhOMFNPdTBn?oc=5",
-    "data": "17/02/2026",
-    "fonte": "G1",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Concentração é tendência no transporte",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFBUZ1pXbFdNRV8tNmVUNWItRHVodWFuQVl2NklwNTJoNDBtTl8xaVE4ekVnb0g1dUxSSG4wbFdnWGNsQ21TdW1tY2EtMDhhcFRsRjkxM1I3a3ZabzhLRVRWVHB1dGlBaVFweGxqUGZUVDdJWTVBVklEOGF5MXMzUUo5SEI5Z1JpZVAwdlg0bHg2WEZ1QlRVNVVISkxxUjdwUm5EOWF4UW1JZUVzdkktOE9sZk13SGZXUFdpUWI4OGFWSFZK?oc=5",
     "data": "26/02/2026",
@@ -530,6 +530,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Navio porta-contêineres bate em duas balsa que atravessavam o canal de Santos",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3l0TzN1U21QeW5RbEpDTzFGTlVJR05fX0ExcVBXR3RIbUprdTZmYnBKUjVwejVGQnVzNGtiVFBZbmNNWUF5LTdtbUhmV1NXYWlTNzhoSXlIdG0ydk1sN1hjUTZDQ05mU3FrYlJIdGlYZmRFSi1tX3pyeDIxeDVidHJKbXRjUDctQ3JJNjhZa2VYbVFoUU1UYzJmYlBsUUtxY1Rra0V6VmtUbS1WZWhBbXFvYm5OVHptUzkybnJXVFM4QUV0LW1kenZjVXdyS2_SAd4BQVVfeXFMUFlmNnFUa1hjMVlRMUhHTXgwa191Qk5GUEczLVFRb09haFJiMXJmcG9FNHpmR19JbjhkSkU0b0h0dzA5WTRRQjRlYUVHUzUwSnhqa1R3RlowbGpQTU1TUTE5amZUQ1lRbjFTdloxUTktRWpBa1lLaU1QYnBLbi1HSzhDeFVhdHR0bWh1ZElKZERLQkpFb3A2MDZZdjJWakw3WTFzWFkwWHVHSFc5bWlFRGJ0QWMwcjl5TFk1bHRTTXJUVFBjQWxGTEtBbDN1M2RCb00yX25xc1VjU1pqTWV3?oc=5",
+    "data": "17/02/2026",
+    "fonte": "CBN",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Rio Tapajós: Indígenas ocupam balsa com grãos no Rio Tapajós e ampliam protesto contra a Cargill, após confirmação de decisão judicial para desinterdição do portoDepois de bloquear vias de acesso ao porto de Santarém nos últimos dias, o movimento d",
     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOckpJQWJfMUI1Wm1Td1NKQVc0QlpWWHdyUkJLVEdnRnJUenRwYldHMm1hV0xiMEMyZnI1R19wQmdXR2RtS0hnRFhqcllCd3FvR01ubS1EWGFrQ0tITHhSVFJaZTRBS3ltOGhuYlFiTVRwRDF3SFktcFJFWlMwX3pKZFJOUS1veVVOVEhwLTVoRTR3RENSejNqMmlkdnphb2wtMHNVWHBfN09yUlVpS1UtVHFxNnBpWnVGdlR4d3dhcWV2ZDhNOFZsMmpYbDRoQklGaGVPWk1NbXZ1RExKUTRHZHV6NXpiX05EOHZ2T2ZpbGQ1d1Q4SzBBWjFORTQ4U2dYOFNtaEZ6TUxnaHpVenFJSWZGVlpwZmtidnNfWUF0WEpfYWM1MUVnWg?oc=5",
     "data": "19/02/2026",
@@ -560,30 +570,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Profissão em plataforma de petróleo pode garantir até seis meses de folga por ano: Saiba quanto realmente ganha quem trabalha embarcado",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUXJOOFp1aTc1Qk9OYU9WU2pjZFhpNGluZTlQNHE2cFM4NHI3UFRVYTNhNzh3NWFpUXZWQkoxMmtHclhDMktKZ3dSdERzanhRY2FreFJvdnhWSlNIRXVCSnNpNFlyU0hhYzk4YTB2Yml3TDVQX05Lc3NUS0RnWXZyRVYyWS1BdGJya3FkR3k3OFBFQW5aOEl5cG5ZLWdaNkpoVm5xWElpQjB4aUk1YzZ0M3hKd2VvbE4tbXZtV2N1UlJRdGVmYmttU3pweGQtajdXLThpRU82RURveExfRzcycTJnbF8wUnotOGFvQmZTUjRiYXJITTJORkRsZkZkVWRqU2ZUWndXXzh4bXlS?oc=5",
-    "data": "26/02/2026",
-    "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Profissão que folga até seis meses por ano: veja quanto ganha quem trabalha em plataforma de petróleo",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ1B3aTFJeEJXWDY0V0o1M0hzeEN0bHhwcjV3NU9Ib1ltYnF0OU4xQktaU1U1bzM1MzhnY3BYc21zMDJpQTNYeUM4SGNLdm15TkhEWDFGZFhTaC0yQzF6OGFPSXBLQjA3bFJvd3lHS1lnMmIzQTNKbm5EVTE4TzdqWldkZU94bl8xNElVNldNYzJKbXpucGtvNDk4ZXRUUWJEdUo2T1Y1dVAzeG1tRkduNzM5eWJCV2ZIdE82RzEwQUo0bTdrN2t2c0J2QTZXWHJaRjNnZDlIOURTLXpHRllGQQ?oc=5",
-    "data": "23/02/2026",
-    "fonte": "Portal Uai",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "O poder do gerente offshore: como comandar plataformas e ganhar bem na Petrobras",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
     "data": "17/02/2026",
     "fonte": "Terra",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Já pensou em receber um salário na casa dos R$ 20 mil e ainda passar até seis meses de folga por ano? Vagas de trabalho em plataformas de petróleo são carregadas de benefícios e podem transformar a vida dos profissionais",
+    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOcTVKYVJLTnNHQlhSZmcyN0FTSmRyUnN5Ukp1MV8zVXdUWWEyTDRGSTZPUmVsejBlVml2aTEwRHRqTUN1Y3BROVpwanVzV3E5QjljbFVwVXU0SkMzZnpHRFE5c3JBOVNxazZuaHI4UFRGdjVWMG1IZGlVYk9yUzI5SERiTFlkc0tKX2hiSWoxQzNyZkV4dE9vVnkwbUJiaWt4WWJjdUxMamFwcG1ZSjVYVGI1Q0JJaGJJby1nQlBjclZMZkRNQmR5RzNScDlYT1lTSFNHN3laS04tZGhzc3FYU3cwVXROUU1VRFhHek12S1VkUW1SRnhHUGxNNm5rcW9lSjhCcEVGNkF6OERCQWJQS0E4LVlPSWI3enhpb2RzMzFXTmxWVGdBRGwzRzgySEF6NVZVMlNMMk1CYzhiUXBHdTd4NHJDdkdoWWhWVjZzdGpRZw?oc=5",
+    "data": "23/02/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -604,16 +604,6 @@
     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdGItSWxMWm9wYzFuakl2NVhkbkUwUC1WZUx1RVp2Rkk2TEtrUUloSmhkaC1GZGlxNV9mZ3dMbnNFSE5BRldSaVNXbzhGVjRDQmQyU09KZ2h2c18xVi1fM1FPZDk3UUktT0JzMTRsbnZNVDFPTEl4STVDTWpUZXJVY3JCdFQ4NGt3QnlkbGJMVEI2aUYwbkFNYjRhOXFOcXJjeHBEN1A1ZU9oMy03VE14OHg0WmVrazNHUlFXVGl2dkQ1WVBzdXFrZmxnNThHcldZUFU0cTBhclZ0U2tLa1BmbExGeVlxVENrTlg2Snc2VlV5djktRHFsLXE4ZmVHbjRxWHNlWVVXT1V2cGNHMTNCeW45RlI4UmloaGhCN1dEX0NpU0E?oc=5",
     "data": "14/02/2026",
     "fonte": "Monitor do Mercado",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Já pensou em receber um salário na casa dos R$ 20 mil e ainda passar até seis meses de folga por ano? Vagas de trabalho em plataformas de petróleo são carregadas de benefícios e podem transformar a vida dos profissionais",
-    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOcTVKYVJLTnNHQlhSZmcyN0FTSmRyUnN5Ukp1MV8zVXdUWWEyTDRGSTZPUmVsejBlVml2aTEwRHRqTUN1Y3BROVpwanVzV3E5QjljbFVwVXU0SkMzZnpHRFE5c3JBOVNxazZuaHI4UFRGdjVWMG1IZGlVYk9yUzI5SERiTFlkc0tKX2hiSWoxQzNyZkV4dE9vVnkwbUJiaWt4WWJjdUxMamFwcG1ZSjVYVGI1Q0JJaGJJby1nQlBjclZMZkRNQmR5RzNScDlYT1lTSFNHN3laS04tZGhzc3FYU3cwVXROUU1VRFhHek12S1VkUW1SRnhHUGxNNm5rcW9lSjhCcEVGNkF6OERCQWJQS0E4LVlPSWI3enhpb2RzMzFXTmxWVGdBRGwzRzgySEF6NVZVMlNMMk1CYzhiUXBHdTd4NHJDdkdoWWhWVjZzdGpRZw?oc=5",
-    "data": "23/02/2026",
-    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -650,6 +640,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Marinha autoriza navio de guerra do Reino Unido a atracar no Brasil após quase seis anos no Atlântico Sul",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPalBKaWdlaTVmZDdBNnEwMHFzcHd5c3N4WDhDWkJkbGZHOU1LenBmZms1WmpST1dlT0tOQmdsQThKZVJTU0lBZkpaaXRvRUJQUUdYTllsMnh4SF80SWZ0anRhWGYyR3daQWthLVhERHpIM0gyLVNkSzRpUWdsWnk1Vm8wZUtNZ092LS1EVU41dEtyTnE3MzZHZml4RnoyN3BMdGQxaWtMTFkwSURUbnMtOUMzTy1GdVYydlYxSVBzZnhSZ1pGa0ZocXYxZkIzSE4zSFVSTVJ0VWlRVm13eTVUZmY0V3RyWkQ2NW9FdTlYTGk?oc=5",
+    "data": "21/01/2026",
+    "fonte": "Revista Sociedade Militar",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Galinhas All Inclusive: voos mais estadia no Summerville, um dos melhores resorts do Brasil, a partir de R$ 5.029 por pessoa",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDJlNEN1RUtMMk16WmZrUUY1MXBkWFBnQW92QUw4Y1hkbU1YR2tZWHVBaTVVaFlZTGNkalRseVdCVGFQREhsc3NqM1dDVEZjTkUtbU1ONF96UTYwdUhxSzdod2o4VC1PV2tqWlhJVDZJelh6ODl6OXY0ZHRiREQ0c0JGUmhEVkt1?oc=5",
     "data": "24/02/2026",
@@ -663,7 +663,7 @@
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
-    "fonte": "GOV.BR",
+    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
