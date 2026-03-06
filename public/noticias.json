@@ -40,6 +40,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Autoridades abrem inquérito para investigar colisão entre navio e balsas",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkdtTlplTjlla0s0b0VUcDdmYWNhYzA5c2c5Q1M2VGItUWdaY3Jtc3Q1b2MycVJDSDYzRUM0aW81WG10NEtMV0ZWekFsdUducWhranE2U3lwSFdtWWN0V0JkZ083T0k3ZF8yWU1mcFFUYldLLXl6LXFoazM4Rkdpa0pQZWZIMWU2VUw5SXRETUFibnhoUVRSVHNnMFZTdmt5WjJF?oc=5",
+    "data": "17/02/2026",
+    "fonte": "Portal BE News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Navios têm prioridade no Porto de Santos, mas não imunidade, diz advogada após acidente com balsas",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWwwRGp5YW10NnNRNkpSRXk1QU1PMHpZVWVDSW1pSlZQc0VuSURobVRLam1UN1lPNm5QOVNnT25CMG9mWXpwUkFPSzFqYmxIalgtTTBLN29KVXRQYkdVVkFCcEJ5RzhWeENfUnkyUm9iZUdMcmNKN1FqVTkzNVNHUUlPSGZtSXJsN1Ixd3dhbkJpLXV2RDg5WjlrT3p6dzdOVzBWTU5PMURubkdwWjJXbFlnamlvOEpkRmVzRWQ4WVUtNVdNa1FhejhSSk1pSEswcktOdE9YLXRmeTR3NUE0RUk1TFlfQQ?oc=5",
     "data": "20/02/2026",
@@ -64,16 +74,6 @@
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53ZXV2ang4LU1PR0sxbS1ueElfSktPUHRIOTFzd1JpX3hNRFVra2c3QTBWUXZhSTNjWDRXY19abF84bUoyNllUNWRaQXZMaFpRdmhUS2V3?oc=5",
     "data": "16/02/2026",
     "fonte": "instagram.com",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Navio de Singapura atinge balsas em Santos, e tripulantes pulam no mar Vídeo",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDgxb21RNnVMWmw0NjJjX1Z2TkVsNXc5eUFZRTQ3UVR3WFZIRS0yQ1Y5QlVaSGtjWlp6QTBmTWV1aWRhdDBHV2dXREVEWU9wd0xmOUFNZWRYWElUSW9reDhjeHVBY1pNZGpIcTJ3a1drMXVDcUFucVZQR0lHOUplRg?oc=5",
-    "data": "17/02/2026",
-    "fonte": "Metrópoles",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -210,8 +210,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Silvio Costa Filho destaca avanço do terminal da APM no Porto de Suape: \"mudança de patamar para o Nordeste\"",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzViYmc4T1ZtLWFLSTlPaHUyb0RSLU15QkpKbEhVNnlqOHZ3MWZsYUFxd3k5ckczTkVOZy1RbU5oUlhXeEdGQ3VJVi0tQkZxZWozUFpYOXByM0JEZ2tlNGNxYk5uQXVpNDlrdHFObzVNSXNidnBsSC1XTGxqNF9NTzNTWGRLVXNpbjBwNjd6ZVJSclVtQ2RENTBjZ1pacjhNNGp3dy1jTkxoNndVVlNhV21zbEhzSmVJLTdlSGJDWkh1WXdOaXJHU3ZyV0xmZFQ3SV9DOGNn0gHbAUFVX3lxTE41eVlGeHJUaGVMV0MtU3cwamVjMC1NQkJQbE9SN2N5anlZeE5SNnY4VFh3ckpJU0RJbjZFSXg1TGN6dTM3TTNmT3phOUo5R3h6SllKZWs5RVJWQjhWdTh0el9tQ2hxX0kxbjR4cU1DUGxkWW5yRlF6NlVtdFBpRDZVMHY1andHQVk4b1A5V0stbFpVdDNkTlZudDNFVFUtRE1SMXlwNlV2SDFoZlZKNTBTMlE4STJ4UGFHV0tiY2ljVnc0SU84SEw4Q09HdWVUQ0hUWFZST2VIREhkYw?oc=5",
+    "titulo": "APM Terminals recebe equipamentos de novo terminal em Suape com participação de Raquel Lyra e Silvio Costa...",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHhDNjJvalk4VVhwUjYzMW9KVFk0U0tmeUtiYXFFRVo5eDZ0LWtnc0hFWFU4Mi03Y0gzSnhvVHNPaEdvUTI4c2F5RUxuOEJLYWFNVGVickFBMjlQUW5OcjAtbXRoeXdPSGhIZXpjVDM5N3FjbFVwcDNYeGdYWl9aRVEwcDF5ZUh4R0RnWGhfWnFfY1VXckVVSkNITTdYMkZSeGtSNFpSNTlVYzc4TXBsMVVGQTQ5QWpLTnJwRUJCN0N5ZU9FbGhIOFUzSW1VMTg2amRKZUdxSDhhLVcyMC1n0gHkAUFVX3lxTE9mR2lEay0xT3p0Z0kyZzFteVI0UlRtR0t0TDNBZ1lrV0pOUXdpM2pyTUgyVVJlb25zOHEwc05aUndpT1ZlUG83U1FfV1ptd2c2Nm5sbS1HMUNCNkNFZjJVWkJleDlUa1ZCOTZqUEtmMmRqeU1Jbmk0ZG5maS1RcGFrMUROdkRjVDJybm1TYUd4UVNJaS1XMDljQWtwc2FaRmJHa0M0M1drLTdvS2pPNHgwSDhybGhMelpETUtXLVo4MGRNdXNYeDJwMUd3OWdZTU9ybWpwTmxnUnVyZVdXTklpa2M1ag?oc=5",
     "data": "04/03/2026",
     "fonte": "Jamildo",
     "risco_pontuacao": 0,
@@ -220,8 +220,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "APM Terminals recebe equipamentos de novo terminal em Suape com participação de Raquel Lyra e Silvio Costa...",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHhDNjJvalk4VVhwUjYzMW9KVFk0U0tmeUtiYXFFRVo5eDZ0LWtnc0hFWFU4Mi03Y0gzSnhvVHNPaEdvUTI4c2F5RUxuOEJLYWFNVGVickFBMjlQUW5OcjAtbXRoeXdPSGhIZXpjVDM5N3FjbFVwcDNYeGdYWl9aRVEwcDF5ZUh4R0RnWGhfWnFfY1VXckVVSkNITTdYMkZSeGtSNFpSNTlVYzc4TXBsMVVGQTQ5QWpLTnJwRUJCN0N5ZU9FbGhIOFUzSW1VMTg2amRKZUdxSDhhLVcyMC1n0gHkAUFVX3lxTE9mR2lEay0xT3p0Z0kyZzFteVI0UlRtR0t0TDNBZ1lrV0pOUXdpM2pyTUgyVVJlb25zOHEwc05aUndpT1ZlUG83U1FfV1ptd2c2Nm5sbS1HMUNCNkNFZjJVWkJleDlUa1ZCOTZqUEtmMmRqeU1Jbmk0ZG5maS1RcGFrMUROdkRjVDJybm1TYUd4UVNJaS1XMDljQWtwc2FaRmJHa0M0M1drLTdvS2pPNHgwSDhybGhMelpETUtXLVo4MGRNdXNYeDJwMUd3OWdZTU9ybWpwTmxnUnVyZVdXTklpa2M1ag?oc=5",
+    "titulo": "Silvio Costa Filho destaca avanço do terminal da APM no Porto de Suape: \"mudança de patamar para o Nordeste\"",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzViYmc4T1ZtLWFLSTlPaHUyb0RSLU15QkpKbEhVNnlqOHZ3MWZsYUFxd3k5ckczTkVOZy1RbU5oUlhXeEdGQ3VJVi0tQkZxZWozUFpYOXByM0JEZ2tlNGNxYk5uQXVpNDlrdHFObzVNSXNidnBsSC1XTGxqNF9NTzNTWGRLVXNpbjBwNjd6ZVJSclVtQ2RENTBjZ1pacjhNNGp3dy1jTkxoNndVVlNhV21zbEhzSmVJLTdlSGJDWkh1WXdOaXJHU3ZyV0xmZFQ3SV9DOGNn0gHbAUFVX3lxTE41eVlGeHJUaGVMV0MtU3cwamVjMC1NQkJQbE9SN2N5anlZeE5SNnY4VFh3ckpJU0RJbjZFSXg1TGN6dTM3TTNmT3phOUo5R3h6SllKZWs5RVJWQjhWdTh0el9tQ2hxX0kxbjR4cU1DUGxkWW5yRlF6NlVtdFBpRDZVMHY1andHQVk4b1A5V0stbFpVdDNkTlZudDNFVFUtRE1SMXlwNlV2SDFoZlZKNTBTMlE4STJ4UGFHV0tiY2ljVnc0SU84SEw4Q09HdWVUQ0hUWFZST2VIREhkYw?oc=5",
     "data": "04/03/2026",
     "fonte": "Jamildo",
     "risco_pontuacao": 0,
@@ -264,6 +264,16 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVm9EMlAwQWhNcktJclFDSEZZTW80SnpJR0hyU2dIVzEwdGF5aWJsak5uQXJScnJiZE1xenJVZlMteEtGSF8tVFRKRG9XZ3ROQlBuUjlVV0ZvYkJ6SFZTWW1jeG5ZdEJJTHpGRnhCMnY0WHRqMnNXMU4tdFdCSU1Gb2RVX05fR3pNU19OUUhUREJabHQ4cFhOZDJGU2dnaEJoRWh0ZkgyMEZEbFZpdnJXdWVOMWt3UlM4aTZPQ3pwZnBYRmpJNE5Z0gHMAUFVX3lxTFBMWUZPRVRoZmJEZnNDNGtuZWVSVGExbERuY1dmZlFkQ1QwMjVIaDhhcmgwOHVlbno0OXdBSHlxMmZCYmFGcGJ2RDNhM3VGblZRSWMtd0Z0S2JyM2dMRUU2RTh0TUtBQ1UxTTQ5UG1zWVB5YmRGYlJJY3NJUVZlUEVqeXlRVF9BRTJOX1JEU3V1Nzg3Tkg4ajJxUlpHWGVMdkFnRm40aTNPMlhZV293UTFRaU9zZGRqallRU3Njdnc1S3FWZDM1bWpOcFpZTQ?oc=5",
     "data": "17/02/2026",
     "fonte": "InfoMoney",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Presença feminina avança no maior terminal portuário do Sul do país",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FNZjE0YlA0LU9tSXBZRHJCbXZUWlVzQ25uOWNpelNpWVNrQ05MNnptcGZ3aGRWZ2ZqNmp4bHJYNmR3dnd2aEw1MXpTVDNQaDRfZUoybHdZeFktMG5TYmpUWmpCTDduWWs2aXptOW1UeGFpMTY3YVhYWVBFd2ZqMmJUZkFWOUxvNW5iallfUzYzX2FMY1ptUGczMFRuejlUVG1LVW1rM3FVdw?oc=5",
+    "data": "06/03/2026",
+    "fonte": "Correio do Litoral",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -400,6 +410,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Seguro DPEM, documentos digitais e mais: veja as principais mudanças das normas 211 e 212",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRi1wVk9GSlJyS2JnQVY1amJudmdGdkl1dHAzOXh2NEExY1BRZ3Rma2xtLVJNWnZwTHVCcmx6Qlk3bnMtM0pfRVlna3dsUDJQWDlqYkV3M2YwWTFyQTJ2cVVtZnBBX3hMSHc?oc=5",
+    "data": "13/02/2026",
+    "fonte": "nautica.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "A polêmica da água de lastro no porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUpRR2dQS2Z3NlVtTzlJMURQQ2RDbDJGRGtyVnRqYllBMzhhdEVWTC0ybmdLWFZrcE1laEtlNmZSUVJqQ09TYVlYdE1ZVUxoNzJ1VWtjM1lxTWVRd0x4eC1DVzk5R3BYanFZd3lKUzEtR1FNdTNBcllFYjFRZFRlMjhTbHNZZmhTUjlNRFh1SlNMSTJ2T1dVY0FHNERySmhCZWtGcE1kVVJzVnlX?oc=5",
     "data": "12/02/2026",
@@ -440,16 +460,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons lança rebocador de alta potência para atender navios New Panamax",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVY2RWJFZkl5ekR4TzY5RzBCM2VVa0RLbDhsNU84Z0dOZWY1WXp2cENlb0Raa2RhelQxeDEtRmRzbDBsV1FiVXNDRV9VR2F0SXVIVTJLLVVyMXV5LXBlT3JtMzFvbVVyYmlTRWc2WURtaElaWFF4cXZKM1dJYm9pc1dGdElfLWtWWXVYVjVMTXJKNV82eGNtenEyTV93MmdqM3pnR21RNzQ4alpYTGliTjJkc29KRnd4Q1czZHln?oc=5",
-    "data": "30/01/2026",
-    "fonte": "Transporte Moderno",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Sulnorte receberá novo rebocador em março e avalia mais 7 unidades",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDJqMzR4c2FxVGNLaTgtTFBWWUM2Vk5vT3FWcm9oWHViaHZmc1VrR21lVHRldXdSWVZBakFfc19nQ2h4Qm0zbS1rSkplbVhtMENSZlR6WDlBLVdiV2t5SEFsZ1JUNjNuN2oycFlMVEMxelg4bGd2TC1ydnN2RV9sb0NadW5CZ2x4S3ZMeVFPVWVHOXZZdVFMd2FPWGQ2aC15VFBnbnRZdW1xc0xiSUhwNTBhRjluNmlEZy13aFJKRVJEejR3Vl81aw?oc=5",
     "data": "30/01/2026",
@@ -460,20 +470,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Rebocadores construídos em Guarujá começam a ser entregues por Wilson Sons",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTFQYlNTSnlSdGkxbXIzVkx0eW5vWEp3WEszQmhEY2UySzQ0WTd4NlE4SW9rX2I4WVBxZlRjT25kOVo4Wlc0aWhDZ1UwXy1SU0FtVWpIdUN4UVYzM05RQjIwUjZSWHRVN1dzUXNIbTR1QVVZVjB6enVSdzFfTm9UMzNidTBRYlF1U0dtWWdDVVk4ZjZoUS0ta09FR0ZaUXo1LUJrRU1vd2JDUkJGQVozeXI5S0pVOGhyTG5Zei1jbU5nNVVLVmU0bA?oc=5",
-    "data": "30/01/2026",
-    "fonte": "A Tribuna",
+    "titulo": "Svitzer Cassino chega para impulsionar operações no Porto do Pecém",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVNfNWRnQU5tMzNSNTFHRk9DOVV3SmZEYVhQQ1BrR3lNVTdPT05wMGhtQXpDb3FXU1ZOZHVlWVc1bW11bDhNY2piSFlmRlQ0UGlXOXVYVG5POXQ5MW0wWFFHVGZkQTl3Q2c5X3MtY3ZJMVNjOS1nUUt5MUZlbk5MM1F0OTFWRDhqeXpSTjRxd1RtZGlGa3g5a3NGbm9qRnJ2WnlKUHI4ZmsyeTZO?oc=5",
+    "data": "26/02/2026",
+    "fonte": "TN Petróleo",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Svitzer Cassino chega para impulsionar operações no Porto do Pecém",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVNfNWRnQU5tMzNSNTFHRk9DOVV3SmZEYVhQQ1BrR3lNVTdPT05wMGhtQXpDb3FXU1ZOZHVlWVc1bW11bDhNY2piSFlmRlQ0UGlXOXVYVG5POXQ5MW0wWFFHVGZkQTl3Q2c5X3MtY3ZJMVNjOS1nUUt5MUZlbk5MM1F0OTFWRDhqeXpSTjRxd1RtZGlGa3g5a3NGbm9qRnJ2WnlKUHI4ZmsyeTZO?oc=5",
-    "data": "26/02/2026",
-    "fonte": "TN Petróleo",
+    "titulo": "Wilson Sons lança rebocador de alta potência para atender navios New Panamax",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVY2RWJFZkl5ekR4TzY5RzBCM2VVa0RLbDhsNU84Z0dOZWY1WXp2cENlb0Raa2RhelQxeDEtRmRzbDBsV1FiVXNDRV9VR2F0SXVIVTJLLVVyMXV5LXBlT3JtMzFvbVVyYmlTRWc2WURtaElaWFF4cXZKM1dJYm9pc1dGdElfLWtWWXVYVjVMTXJKNV82eGNtenEyTV93MmdqM3pnR21RNzQ4alpYTGliTjJkc29KRnd4Q1czZHln?oc=5",
+    "data": "30/01/2026",
+    "fonte": "Transporte Moderno",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Rebocadores construídos em Guarujá começam a ser entregues por Wilson Sons",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTFQYlNTSnlSdGkxbXIzVkx0eW5vWEp3WEszQmhEY2UySzQ0WTd4NlE4SW9rX2I4WVBxZlRjT25kOVo4Wlc0aWhDZ1UwXy1SU0FtVWpIdUN4UVYzM05RQjIwUjZSWHRVN1dzUXNIbTR1QVVZVjB6enVSdzFfTm9UMzNidTBRYlF1U0dtWWdDVVk4ZjZoUS0ta09FR0ZaUXo1LUJrRU1vd2JDUkJGQVozeXI5S0pVOGhyTG5Zei1jbU5nNVVLVmU0bA?oc=5",
+    "data": "30/01/2026",
+    "fonte": "A Tribuna",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -544,16 +564,6 @@
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
     "data": "17/02/2026",
     "fonte": "Terra",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Negócio de US$ 5,8 bilhões cria a maior empresa de plataformas de petróleo do mundo",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczdYZkJTWlVDQ3hKcVN0S2MxUlNDWEVzZnEwcjdvdG9HcU42a2IxWUx1SW51dTBodFRvVjBxbVNodW1SdWlxOFQyWkJjaklKejc0YWczR3ZhdmZFUzh2dmJwaHRxd0FxazZweUprMWFGYjM3RTU5OUt4bkNEQ2pfbUIycGJqaFB3UDNaRVhxbVhvNnRUbWhrdkI4RUZPQldVZ05wYWk3STJRNURleF9SVHAzRndTX2hiLXJQMGJsRWLSAdQBQVVfeXFMUFNvNzhfWjF3cVFRVTliWlJTemk1NGVNSVlJQzlSQi1ETzhLWnRvOVllNV9QWVgyRmVROS1RWkxDUUg0ZlB0LW1xX0trOFpmbzB3cGNsYlRRWGpybVFUZF9tZEM4b0lWcC1BVnBaeG9wM3dhRVdYVS1FVVF5ZW1lQk9fUGhZVmN1NXZHYW13RFFTVC1lODJyTDZGdzdqMGFJRE5XY2tpNElwcUc1SDZqMGtTd0Ficnd1VFd2VjFBcGI1bjhnVS1kd2pYSmpsZmZJRURNYWM?oc=5",
-    "data": "09/02/2026",
-    "fonte": "Bloomberg Linea Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -640,6 +650,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Contêineres gigantes caem no mar todo ano, somem sem alarde, viram risco oculto para navios, fonte de poluição, disputa legal silenciosa e lembrete incômodo do custo real do comércio global",
+    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYmIzMXRWaFhwTVp6Wm80eFcyWWt1emM3OWotSHUzd0pWSmp1YXFVT090NmE4NldRMXRmVzBnYkY2RGxOc1dWdTRZM29vYUF1RzVEb0hnRzNNeVN3Vy0yQThDLVg3UTE2eFdfeTNsNXRLTnZSWUN1QTI3M2VTWG9qZk9tQUh5ZHpqaXJyUEpLRFdOMW5PTDFuUUlNYnlNU1FHWWpXUXF1YkJqTHlRUUxRZm0zTEN0WEszczBBSnZxMjJYdGJHV0pjYmNsMk56QU9adjFXVXhEUmVmaGJZYUNsUE51SEVNSEdkQlZSRGZPS1BxVTJsVDU5ZW5qdGNGaUpTUHN4N0RiZ1QwVVlmNHRsYkQxX3p0Y2plaGFXS2R5bnI3MDV5cU9zWmZLVWhkQ3c?oc=5",
+    "data": "12/02/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
@@ -654,6 +674,16 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWZlMXNkVzlxbDF0bElWNDNOTzNJOWpWTG50eUVKR1BRYnBmQnVMM2FwY1NsQ1c4aXVkaExpQS1aQThnTjlpaGM5OEhJVlN0c0RDZVFDZGh4Z2E2Yl9jdlRfUHdFRVhIWXFDSUtFTEI5UHMzcnBRX2FWUXlIZmpnYXBzd2lPa1pXMWEwMmZlc3Nkb0FsQ25YQ1VwT2dWSW9lb3hKQmszNHJ6aUx2ZGhraEVNTVVmdzhKaFE?oc=5",
     "data": "05/03/2026",
     "fonte": "O TEMPO",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Justiça nega indenização a casal que teve cabine de cruzeiro invadida por desconhecido nu",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUXVwSU1pTnl3dmZ5UkdIMVh2d2ZwUzJUSVljRWJUSXU3Zy1oRFhkbDloUFlJdFNYUmFhdFJ1TUEzTUswaGZlNGdYVzZvUmtHSnBuZ3FFSWRfV0lxcUdrNWlBX3BMZ1NVcVI1RVhXWDJGcDRaUHRMaTBnR2N5aHlKY1JrOGZEeE5fT3BBLXNEeG11b0V0akNhUFY4MG1Xem9PV2treU5WLVE0YUd0ZC1fQ1JuT29nMWJHNjVqdDB3YVJ1UXl1dDluRTJmVDJYTjRmVXZFcENscnViWjFkVDlmWFZlTHc3U1XSAfYBQVVfeXFMUGprTGZOeTZXRFdOTFBleXVyOS1oNnNQLUpEQWRpNmlSOHFfRjZtZkMyUngyeVhFejk2dWUwUzFoU3pHcHR6NDVTRVh2bm9UeXNaVG9TVXd2VnRfMC0zRnBGQno1R0Mza19Ncm9wUUZPZ3R0eGRRaktOQjExWjh0X0s5b3d2MkN1aHdiTnBUaFV4dDBpTEtlUmpjalREdUdUTGJQUGZxdm84NDNYY3RfZlNUclRYRkVWaHRwMndXM2d5VGxkd3luQmk2eFRYUXVoY1ZTNlZIM2JtdWdBTVgtWkFhQmE3Q3hWdGZFaUVCSXpTNmNaaGNR?oc=5",
+    "data": "08/02/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -690,7 +720,7 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "FPSO Alexandre de Gusmão chega ao Brasil para operação no campo de Mero",
+    "titulo": "Petrobras conclui acordo em arbitragem da Sete Brasil",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbko3elBoaUZOM2tKeDNaWEY3a0IzLWJYd0FxYUVJQ3VsVXFtVjBEYnRXRnpGbEtNdUNVMmdndjBoNmR0SlFIUkQtV01HWGtwOEtlUk52Vjloa0ZZN3FiTGFHNWFMemdMdFc3cVhlSzRFU3ZCUHZualc2bEh5b2dKZXNLZ284VXhDQ0xxOUdEN1FfaXFDOXFJY1pTLW42dC1wRmd3bUVBUTR0X0h3ejVaYnc5eExEeVBoUWlsTUV0VURwZ2dlbnh5SlFUX2ZNUzRL?oc=5",
     "data": "04/03/2026",
     "fonte": "Portos e Navios",
@@ -734,6 +764,16 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjNSVFZLYllzWDQ1WmdqajBNZkhvaC0ydkI3U0lRZ0E2YVNlM05EZDgtTWxrc3BkTS1WTi1wSkVYQTkzUWZRQ2VHaHl1OXB3WXI5eWVFQXdwTkl5YnJ0ajJSWHVsb1BCd0N0S0N0Vi1VZjZ0Tm9IaW8tSVhzczh1UkF6NXdWQ08wUGR6TDdUYWVGUWQ5Mm92am1RR0t4WURSQ1BGQWhrakZWREZyZjdoTXpfbV96WWplcEI1cDlkZGp0OWNqRHc?oc=5",
     "data": "13/02/2026",
     "fonte": "Agência Marinha",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha do Brasil coordena resgate a 1.617 km da costa do RJ, Salvamar Brasil aciona SAR e salva três tripulantes do veleiro Angel Wings nesta semana",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWTZjQnNlT25Pc0wzOVZEbExtamxvZGdFNm5lelpDV2I1RHNHSkFGT2RmRXhvTldvOUVyWmwtSmtJMTJiNENKUjVvZ3V3VlYyWkZzX0NXNnVBbmhiZzV2VTFqT0FSVVlyaGRPbnFtTm1QbXNaYkNraU1RMmlnQmhxZ1RoY19DbE51QndZbXRvR0hTV0ZTU05WM2pidmo5d0hyRFducGtvUFltWURYZHRCNGhLSEV3RGZQVmdnSDFEaC1CX2JFWmM5a1BIM0NwLUVDZXB6enZlTnFGMUZkcmtGNnpFVFM4V243T3pXSWltUW5XdGRKWUJSZTRQeVhjSW1wMjRLZg?oc=5",
+    "data": "12/02/2026",
+    "fonte": "DefesaTV",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
