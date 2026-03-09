@@ -110,10 +110,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Barca colide com navio na saída do Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTGhRa1lYd293Q2JXLUJmc0UtZ2l0N0dJalFybXNMdDdHa2dyTlNrNkRiN2dVWnlrbVl6M3dYYjd3YUR1Zk5nQ1VOVlpVcjVRYmRzU09vRmd6ZTN6VnU2eFV4dnBuMWpfZTVvaVFoVFJMb2Nwc3c?oc=5",
+    "titulo": "Colisão entre navio cargueiro e balsas no porto de Santos deixa duas embarcações fora de operação",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW9RdG5xMzNpQWZOWGZRS2ZBd3AySGR5UGVTUXlzRUpaM3B5Q1E1ZnFuYjN5cmpDVWVhX3NudUQ0TlRqZkhtOEhMNnpRUjQtWEZ0bzNaV2tCbnRDZkFRR2xfUGZ2UkQ2VGRteXY4M0UzcGljVzYyYnBvUmhjZ2RKeXN0SkVnckJYZ3V2OFJYX0c3NjJKMERhMjFpVVp0RTBFSjYtcllVOHBGekpLdDc1RmFWRDV0U0l4bXBnR0hGaGxmdVQ1ZmNGVHNzcWJOdl8z0gHWAUFVX3lxTE9UZGpVT3NCV2xWamJQaDRZTkMzWHc0VDVYdmFLdTVXX0FsenZvWFpvQm12M1Q2a2xDMzhrRXNldHdrTGZZS0xiZWlLcUxZZUVmQ1FySnM3RGF4eGtQTTZwcmlWZmZFRkhqbGRTT1pVTk5pdkxQeUdlUE92X01qMEFyM0hDbVI3OS1ZdmttTjhrSmZrZVdNVGFkSm9rVlAwOTFjNE81eEM4QVpuUk1GTUpCU1ZGTUU3cDF6VUZhSFNPOHBadHJuZnlFUEVRelJ1TEFtbnVqUUE?oc=5",
     "data": "17/02/2026",
-    "fonte": "Portal ABC do ABC",
+    "fonte": "Costa Norte",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -174,6 +174,16 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQW8yTHBoVmdZZW9uWVNmZk8ySkRJbUNvNE4yN0Q4S2VlZnNvVHM1RFZQdWtnWll3bDBkZXlld3d5WC1aTDRhVlduRkZvanRVYmFtU3BWa0N0cGpRNE8wNW5BTkdnUzh2eERwY2JENlh2NmlBU29WWjhRZmx4ZkV3RGdGTG9OSU9CNExRY2UxNEVGVGRlZ3FmMnE5OTVLeHJkVFhXZWtYOFN1eThJTHI5TS05Q0ZpQQ?oc=5",
     "data": "08/03/2026",
     "fonte": "Blog do Magno",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Suape registra alta na movimentação de petróleo em janeiro",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRENUMnE5M25INmRmNllyazU2TjV3QV9IbkxvLVhBWGwtMEpHX0NUUUhrYWZXeHJ5RExncVV3dVl6a3NKMVN6VG1MdERvbjVPQm11Y3ZSd3pNZkFMMUpvbjZqNWZ2Zjlnc2N6c0FRLUJZb25tdDlXdXVWNW5JR0lwT0tGR1FEenVQbmMybzF3ZnFGLTJuMzY5MEZfNTcyRHhFWHpjcUNHWWZsRXFWQnpzc2xOTllrM0RreGc?oc=5",
+    "data": "24/02/2026",
+    "fonte": "Brasil Energia",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -282,7 +292,7 @@
   {
     "titulo": "Capitania dos Portos de Santa Catarina abre inscrições para cursos gratuitos",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORDFjcG53NlhsRkJvQmYxenlQSEJ5LW5Td3VvU1EtYnJKQk1KLTRsMTM3Xzdna2Z3UkhleGt4aVYtUG9QT2FtU2hSZ2pDbzI1NVE5YmNQYU5fbktYNl9JaHhrQlNrN1U4RzhubDhyR3FKM3J2XzVKWGpQbTZVM1BTOU1RRVo4TXZhb2ZPZ1NMNnZLWHYwWWN1dTVZNDdqV3VERHdYSVhNSFhFemJK?oc=5",
-    "data": "28/02/2026",
+    "data": "27/02/2026",
     "fonte": "ND Mais",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -390,16 +400,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Svitzer Cassino chega para impulsionar operações no Porto do Pecém",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1N2UXNPMTF2Q1FwcjBIeFdWakdMS2hSakpQd1p5RHpTdWgwam9IYV92ZnlOX1pGYkg2MW5oRGFYNHV6aDc0QlNoQTB6a3hHLTl2TFY1NkF6VjJQS2FVSUZPWWZ6REUzc2JOdWN5VldfR2I5ZG1jTEx5QUtHcWlVQ1F1eFBVU1BpNVZaVFQwVFRpZllhRWhjV1NYTFN2eEhsRkd0ZWVSOFdReGdJ?oc=5",
-    "data": "26/02/2026",
-    "fonte": "TN Petróleo",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Wilson Sons lança rebocador de alta potência para atender navios New Panamax",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVY2RWJFZkl5ekR4TzY5RzBCM2VVa0RLbDhsNU84Z0dOZWY1WXp2cENlb0Raa2RhelQxeDEtRmRzbDBsV1FiVXNDRV9VR2F0SXVIVTJLLVVyMXV5LXBlT3JtMzFvbVVyYmlTRWc2WURtaElaWFF4cXZKM1dJYm9pc1dGdElfLWtWWXVYVjVMTXJKNV82eGNtenEyTV93MmdqM3pnR21RNzQ4alpYTGliTjJkc29KRnd4Q1czZHln?oc=5",
     "data": "30/01/2026",
@@ -460,20 +460,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Com edital para curso de ROV articulado com a Zen, Rio das Ostras busca transformar qualificação técnica em empregos reais no competitivo mercado offshore",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX1BtbDZWaHJzOVJITHVKSmE3WS1zQkx3OHYyTDdIUmpEb1ZPMEdUSzFaMHlZa2s4bkcxakl0MFhuOXNpdkdla2VzcFRPU0VlMU1JQ2pwSWZoRGM1bzRScHZaaGZDTHNSVWswQjgzRHZYSnlBWVU3cmIzc3JSZlo4cDNBWHN1YzJULWNBOEkzQ0ptUjRZeUtNYkF4SDE2UXVfbTRxMDVRTkRtUjY2enNkRFhiSnhSd1ZzeFc0a2VXdWVCcEZtM3lISDJFdHhpT2NpeWhEYzBxeENNUFcwOHBFc3Y0TTRITGVFbmk4VGliejhMWHNrTXhaMlF3eUYwTDhXZG9Zd1pXTHFZRjlhaXFzRGd3cTB5OWhtekVfakEzaw?oc=5",
-    "data": "04/03/2026",
+    "titulo": "Profissão offshore descomplicada: guia completo revela como trocar rotina comum por salários altos e longas folgas na vida embarcada no setor de petróleo",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORTlnX2c1eWxmWnluU0NxTHFvUGkwRDVzUkpmN0RLTHY1Q2dxNE1Ja0JuTEpMaEppbU1oMFdOMUJGLVN5dTVINzdXVmtDelh4RWpiWGprbjUtMVRFMWs5aXdlLThoaFNVcjNVLXhUUDd1MzMxSlQwZk04M1F5cldnOE5xWWdONGM2dXFpZUFqQl9jclM3WXZNQnZQZGtGTlk1OUtIc2FtVXc1VlRfMzVuNHpyS3hGV1pjUmNTcE9zWkpnUmJ3MVRNZC1CSW10TW43a0FlYWh5Q0xCVW9JcHNfNnA0RERNbmxmWk5ZS3RZcEdDRkF1YW1MVXN6emdHdTZQTzJXdUtYLTh3OXFGV0RZaXVXZUNOUFBLS190S3lB?oc=5",
+    "data": "20/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "O destino secreto das plataformas de petróleo: como as colossais estruturas de 30 mil toneladas são fatiadas no oceano e viram recifes de corais artificiais",
-    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTXNHVUFHN19mWndjTUZSMHRpN3VudkdiSVZ4SlQ2bXpPWWk2aF9kWkZ4ZWZ3S2NzaVdJWUNmRFlac2RTV1dBSjVNR1Y0NE5TQTJxZTl2VDNYcEl2NWRmVm9nSmdubE9WSUlXV2p3S3NETEdUSmlPeFZSODBVekdDMGhKRGtCZjQtZFkwajdabWZ4RlhhdWd2TzlaSEl3eGlTSDZGYVNJcGZDRWMwTGtjXzVmVEdrbkptNEtlVEc1ZEhLYnQ1MWlfakR2MVVzaXZjaGVoVlIyczk3cFR0M1RMZE05ck5MWVlTS3hXWGNHUjJHaTN5bVhsZkVfempxQkV2dFRTWllia3htN2hpVGUtUTY3bndaOVV3VnhRc0xWMzFDSTZ5Nmd5VERiMjNwdG8?oc=5",
-    "data": "07/03/2026",
-    "fonte": "Monitor do Mercado",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -500,9 +490,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Profissão offshore descomplicada: guia completo revela como trocar rotina comum por salários altos e longas folgas na vida embarcada no setor de petróleo",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORTlnX2c1eWxmWnluU0NxTHFvUGkwRDVzUkpmN0RLTHY1Q2dxNE1Ja0JuTEpMaEppbU1oMFdOMUJGLVN5dTVINzdXVmtDelh4RWpiWGprbjUtMVRFMWs5aXdlLThoaFNVcjNVLXhUUDd1MzMxSlQwZk04M1F5cldnOE5xWWdONGM2dXFpZUFqQl9jclM3WXZNQnZQZGtGTlk1OUtIc2FtVXc1VlRfMzVuNHpyS3hGV1pjUmNTcE9zWkpnUmJ3MVRNZC1CSW10TW43a0FlYWh5Q0xCVW9JcHNfNnA0RERNbmxmWk5ZS3RZcEdDRkF1YW1MVXN6emdHdTZQTzJXdUtYLTh3OXFGV0RZaXVXZUNOUFBLS190S3lB?oc=5",
-    "data": "20/02/2026",
+    "titulo": "Engeman abre vagas offshore com escala 14×14 para quem quer trabalhar embarcado em Macaé, RJ",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0E3YmlKSmFMd3NhNkYxZEt4cXMwOXphU01pNDZVNE1EaElKQXY1blFUWl82SmVTUkIyYlpycVlXS2U0MGYwQWN3Q01nOXFfNEZuMXUzVTBXbWtaQUpFMkFCc0hfbzlFS054V3BJNDBzdC1wRE51bm5UTFhsZlAxVVo5Vkh5VVlqYndpYkExTkVjN1NQY0RLMl9HdGxNUzNzZERfejlzczFIVkE?oc=5",
+    "data": "10/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -574,6 +564,16 @@
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxON0hKb3Zqdm1LbkxVb1g1SFdQeGJUYnRsMDZ2eUhQYmt2bFFkNnFOa1NxUC1LZ3FqYlNNVU1iY0tuNkppU3ZJbDIyQVZWS0hGZF83OFk0QzZFcTZDaGh1eW10OFRZNUp6dmRjVC1uRzMxN0VhengxS3FCMEdSRU5wMWRHcUdRM1RVOXJHMjNUa1VsQ0J2S3puWkZtM2dPOUlrR3dycHRidmp6SWRHdnF1N3dubXY3d3Nkby1QcFlSUjZUTzhNNEUxb283WGtVUkxtVW5mVlF5dFI2TFdmdVNORlluNEhZMW5sX0RaVWxkY0p0R2l1Wkd3cUttc3dDZlhaa3pKa21JaTYxSnRXSUZB?oc=5",
     "data": "19/01/2026",
     "fonte": "www.gov.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Explosão atinge petroleiro dos EUA no Kuwait e causa vazamento de óleo no mar",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWZlMXNkVzlxbDF0bElWNDNOTzNJOWpWTG50eUVKR1BRYnBmQnVMM2FwY1NsQ1c4aXVkaExpQS1aQThnTjlpaGM5OEhJVlN0c0RDZVFDZGh4Z2E2Yl9jdlRfUHdFRVhIWXFDSUtFTEI5UHMzcnBRX2FWUXlIZmpnYXBzd2lPa1pXMWEwMmZlc3Nkb0FsQ25YQ1VwT2dWSW9lb3hKQmszNHJ6aUx2ZGhraEVNTVVmdzhKaFE?oc=5",
+    "data": "05/03/2026",
+    "fonte": "O TEMPO",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
