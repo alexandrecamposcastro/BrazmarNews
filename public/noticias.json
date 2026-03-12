@@ -30,6 +30,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Um navio porta-contêineres de bandeira de Singapura atingiu duas balsas que faziam a travessia entre Santos e Guarujá na noite de segunda-feira (16), no canal do Porto de Santos. Segundos antes da colisão, quatro tripulantes da balsa FB-15 pularam no",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9URGpKT1YxQ0hrTzdTczVCNU50T0ExQnM4aEQ4cnRaVkpyRXNFWnVVSzF1UzRNMzBsZHRfUDc1TDA1dlJSeEZJcmJFOVBfRmVVYjA5V2lB?oc=5",
+    "data": "17/02/2026",
+    "fonte": "instagram.com",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Tensão no mar: veja o momento em que navio colide com balsas no porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUVGbmNBVHhGMEM1cjlRWVhRYjg2SW93OHNYY0wzRGRHaTdLTTl3TUlBYnZvX0FTakNhM0V5Zk04bDlDLXVudVRBOEN6aVBOY3hSeGlHNG9UdkhvcEFiY0RyMXlWbkNEWFNwb3B3eVdEc3J3X1RWM1FCZVE1LU9LRHJKLXctcG9HQjNCNndkUnlVRXAtc182MVZITUV6eGQtU2d2Y2FQQlRwNTgwR052TWRn?oc=5",
     "data": "17/02/2026",
@@ -44,16 +54,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0ZqVGhTRUFCcFFYNEpRRExzcmZZRGZKSFF0V1p1ZW8ycFE0Z0pvQ3MxS3FVSzJHTUZiQzY5Mm5WcWlJalBndmZCNkhYUmFVelNmNk9VZHJKQk1qak5DY1hoUWZlZnI1Sk1JLWJuUUU5WDV0TDcwZXBzbTZvZVZFQTJCY0x5WkNWbGlMTVhCR1U1UUZtNmFTbzBWWkdFdWtvUzZoOA?oc=5",
     "data": "17/02/2026",
     "fonte": "Jornal da Orla",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Um navio se envolveu em um acidente com duas balsas na noite desta segunda-feira (16) no canal do Porto de Santos, litoral de São Paulo. Durante a manobra, uma das embarcações foi arrastada, e a segunda acabou atingindo o casco do navio. Quatro tri",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53ZXV2ang4LU1PR0sxbS1ueElfSktPUHRIOTFzd1JpX3hNRFVra2c3QTBWUXZhSTNjWDRXY19abF84bUoyNllUNWRaQXZMaFpRdmhUS2V3?oc=5",
-    "data": "16/02/2026",
-    "fonte": "instagram.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -160,16 +160,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "MPor estende até 2051 cessão do Porto do Itaqui à Emap",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGlxXzhPbU83TTFXMDVHOFdOZVJyYi1SNVUzV2IyZGJENFNWLTl3ZWZhcFFLb1U0dWNrYWdYS1lWWTNkWEVLSlcyQThXb19CNTBJQ1J0dzVkLVU2aFFyNDFaQUFmVzNLa042UTg0T1g3eGNWUzIyTlUxdGx2T0lvNzZiTktFR2NQcWQyVGtoY0prY1dzc2RLQWRVTlpuOGh0aEdwYjdpVWZ0NkZfUTFJcmRNQXlSUQ?oc=5",
-    "data": "30/01/2026",
-    "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Porto de Suape terá primeiro terminal de contêineres 100% eletrificado da América Latina",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkxFOEVHM0JRbE5kOWZFcDhmUzRxbzJ6Q2VRZ28wTnVVMXN3am1Sbk5mdEQwRHlDQjNobERGb1F5eVZkeXJnYUVJalI3c0pLTjBfVmFjN2R5WEItbEtIakozb3lKWVljdFNyRS16VFZSNTd2dkVZa2phNDE0Uk5uc3llUGxFejNBWTBKY09jdUc?oc=5",
     "data": "10/03/2026",
@@ -270,10 +260,50 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Ministério identifica fraude em carga de soja no Porto de Paranaguá",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNblN2WFBzTXExcEd3NldJdXlVaktBSDg2MFMydlA2TEY4bVF3aWNaZHZSdi1nZVFHaTI1WmdvTDNZMnZZb2FhQTdzbm1PZldCVklxaUdjYzN5cTUtSURmWEp0ZUZYLTFvMzJaazBmaGZJN09FSDhGQlZsTGMyU1diVF9lU211MlVzNFVkU190ZjRCbUd5ZjNmaG5CaU9DZWZGcEVTcjA3NlFocHdaS1hVQWpqRldYeFExMkdFbE1ZUWk5NWJvRS1TMzJYbENubFJfc0JqT1VrenA1QQ?oc=5",
+    "data": "09/03/2026",
+    "fonte": "UOL Notícias",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Fraude em carga de soja é identificada no porto de Paranaguá",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVNydk4zTFVmNS1KdjV3VVFUdDRSdUxEVmRZeW9kWV9rTmJwLVhzc3ZGTl82QW96YjRCMjU0Y0J0S0RXNnZhVWljTTgyc1lVR2RyTWNwOE8zc09wbTROaGRzUFRGT2xoaElQZ3dHOUJQNVdoXzlFamdZcjdBTjhwaXZWM1J0WnFBNWZYNFFkb2FPaGVFWEQ3Y3ROa0dHMjFqYVlldXlxRFlNcndoQVFmMk04WEtpME5SY3RncU1sUHRwY1R5MmpZ0gHWAUFVX3lxTE1PT0t4dUdfOExuRWpyeEo2eDRIV0dvSTFtTlF4V1hGTlIwRHVvLVlmREZzTDlRdmVoWi1HdTIxLW9aR3l4Z1dJYlU4MklQNm9sVE1pc1hkdjFQRWo0YkVTNG8yWmtxTzNsMlZFalNROUhHSXdJaXZZcGlVVHBCdEJzXzZ6WXRPN3R4QXdTdmxBNEJWLWlLUWU4WDNaNC1qVUlBUG1FRGRxWC1VVUszUnFpWWZHYklydUpfbFlJZzV3TFhOMTBIUEN4XzJGQzBlN2RtRmJmSFE?oc=5",
+    "data": "09/03/2026",
+    "fonte": "Globo Rural",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Identificados indícios de fraude em carga de soja no Porto de Paranaguá",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkQwNnhEc0NNU2c2V05Kbng1SVo4ZHNWNmZ3SFB3UENwSzNHR1FUWWlQX0xDT3I2N0hnaU1tN3h3UzhJNnVBVTVxdC1nVm9VT1RsZ0pEdXpySWJIY2lPOGdNZlJqeThvYnZMckNjUVdzQVNUcjlEUW0zMHBwZUxOX2J6Um80MFFad1pJQ1N5Z3g0SW03TExKZUdxcWtjYVNxNjdWX0NLdUQxWE9MVXM3Mw?oc=5",
+    "data": "09/03/2026",
+    "fonte": "Revista Cultivar",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Rio Grande prepara licitações de terminal e dragagem ainda em 2026",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHljS2k1c0ZmdU9aMEhMLWY1TUdxaGZEM2JQcHBPazhaOW9ieFQzTlJWUGYxZU9pb09PNTdndTVXZGZHZUNMS3Z5bFBtVDJvR3I2UEJEakpQTXlQbG1ja2ZHa05ySDA4SG1iem5BR0V0c1pkcFQ0YnMzOE5rQmhOdXc2SEhkWU5jZGhJaU9EMXRaRG5sc0lQdWVCcDRRVnpTbjlEQl9OaHNjVlhBaW1SbmlOTzZhU04zbGRObFdCQUhqTVdjQ0JjUlhUWTR0aVFWY2E2RF9tLUstcmQ2YWc?oc=5",
     "data": "03/03/2026",
     "fonte": "Jornal do Comércio",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha Mercante abre processo seletivo com 118 vagas para aquaviários",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3dhdDVTQjVyQlliaWZTZG45c1BuMTdvSE5FQ081U0JiZmhZOU0xU0hkbzJHazZrZ2lYNzM3MDRsWUpTemFNZ3NDcmFpLXRmX1gtbzA4S2FOV0JZa2JEZDNvZk5uYWtxYk1icEt2MUIzMXdqQWV3dmVlUzdhMFZUWTFkeE5RWThXMDRzUWpYNGpybVUwWFFrNjlOUm9zR2JXR215M0dLb2dUMEJnaldOaVFzZWt5VV8tSGtUMnZ4VUpwVk43WG9LaEh4dWp2aUxaMXJ4TzR2dEVvWWfSAeoBQVVfeXFMTzVOV2l4Y0NYZFpjRElZSTdEblRqU1dzZnJsblh3THluWTRjYTBocHZteFdNSzlJQVpnd05zcHNDUjRIZ2NZRndtTjVDcU52N21LM3N0eXhuYTBOdGF4UjhyZnlfX3JPcXFPQmpweFp0NGMzMXdLb0FRSEdpeVpwVWNKLXY2dmZ2UVRqYVRyZ29aMnF6VDFfbk44VnpQbHBzWmdqNTZkeEt5SVdaUzd1ZTdrQ0tKNWJxQ1NwYjJabERTUlZBSk9IeThOSS1VSnJRM3Y4eDl2ZHpjU2VuYkUwT3JOeDZFbGEzZkhR?oc=5",
+    "data": "27/02/2026",
+    "fonte": "Extra online",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -300,16 +330,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "“Aspirantex 2026”: operação no mar orienta escolha da carreira dos futuros Oficiais da Marinha",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQendMMm0wRUJZV2dQYWhkNHJCSllyMnVaeTJrbV9haVI0dG1hSVRSMldpcUtnbUh1ZWdESUlMQVhHdUVUbGlfTno4RFFsTUFSQ05VOFdzc2h3SklHcW9Kc1JZY0ExN2VXbnBVVF9fVFczbFg1ODJtbl9qN1pXb2FjbVBDcEhndFd6aHFqRV9tYlpTYTdkNG04NjZkMUZTZHBDS25NcHh2d1lseTlfczl2STN0R2MxXzF2YnJPMjk5N09ObHRZblloUHZBUlpWZw?oc=5",
-    "data": "12/01/2026",
-    "fonte": "Agência Marinha",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Vice-governador Darci Piana realiza visita institucional na Capitania dos Portos, em Paranaguá",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa3RTVkk3Y1JHWHhmcW1MQ3dMd0dsRVl3TTFiUW5yX3R0YVN0REllX0FRbjRpWnY5dmRKZVIwSEQ5SGtpenZsdUR3UUhEdkltR1EtOTNtTVpzWVM3UGJ5M0NzWTNJanpWOVJUc2Y3cTNFSWdoeHBqZHRmOFVBU3lobW5LRWo3ZmdUODNkc2tHTWdscUtvTFpwZHAtT1hHUVg3Qk9uUU94cEZpdjllbG56RHJDZTdDNGNocm9rd1czU2FSanFPTDBsNENGcG1WMmwzUGtncWVmcTliQ25UeGdjOUtyMks0ZW8?oc=5",
     "data": "11/03/2026",
@@ -324,16 +344,6 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWtpUmtYVFZLSmdPSnNWM09qOW5aQVBUVDVJMzE0TXNFdlRoWnVHT3hBbDVvQm1PVF8wVzRWN3ZCNFF2LTdTWmhRRm8zODB2U0dLQTI2dHhobldDWk8wOW5Ndm5Zcms5LWdmZzlsWHlaTk9zX25OZVhoZDdUWGlNS0hJbkRlYUJ6Wm9IVG16aEo0cmRFWmpENHFscjJMSVNWSjk3Y0Y2X1FETzFkaHdHVHg4b0RSZw?oc=5",
     "data": "10/03/2026",
     "fonte": "Defesa em Foco",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Marinha do Brasil, Capitania dos Portos de Alagoas homenageia mulheres no Dia Internacional da Mulher e reforça expansão da presença feminina",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVDc0eUhQSTVxZ29hQ3FRMkltR2pqcVNiVXRhYlM3dkJmeVRYWkNmZ0lRWG16cmdjUEtja1Vub253cnlqaFpEc1JqNlhzMWctS3lmMU5qVWdjajFDazZLeWpScEhJejR5SFhwZFdlSzJ0OTB2YVAyamtRaUNrdzdkSlVCT1NpbmRwV0dLWFM2ZG9PUEMtSkJmSnBLVDkwSGQ2ZkE5aWhkbjhGcHlqWmNyWThjWk9wOTNiZU0zMVlMbkdtZDZGSjRocE9laEo1QzNsdjZUVTJBc0F3RlBaemd1elNNdlpwcjVTV3N2MC1aUjdIYmNERFdGTVJ3?oc=5",
-    "data": "11/03/2026",
-    "fonte": "DefesaTV",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -500,20 +510,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "TX-10.000, o colosso do mar: maior navio elevador dos EUA, com duas barcaças gigantes, estrutura de 73 metros de altura e força para levantar 7.500 toneladas de plataformas petrolíferas afundadas",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYllQbl8wVjFyRFNhVlJLZEYwQXNCVFYxdFlxdFlySy04LXY1cC0xS2RLM0FMd1VncXpzMGc3X0RicDhUT25KM1NuS21CX2R3Wnl4T0w3QjJ1Y3hpM211MklkZ1R6OUR0YkY4MmVITkpCcG55X3NmR0owMldjUGR5TS1yc2ZWOXdWU3R1V0N2aU9qSk1ZRTk3Ykxabw?oc=5",
-    "data": "11/03/2026",
-    "fonte": "CPG Click Petróleo e Gás",
+    "titulo": "O poder do gerente offshore: como comandar plataformas e ganhar bem na Petrobras",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
+    "data": "17/02/2026",
+    "fonte": "Terra",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "O poder do gerente offshore: como comandar plataformas e ganhar bem na Petrobras",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
-    "data": "17/02/2026",
-    "fonte": "Terra",
+    "titulo": "TX-10.000, o colosso do mar: maior navio elevador dos EUA, com duas barcaças gigantes, estrutura de 73 metros de altura e força para levantar 7.500 toneladas de plataformas petrolíferas afundadas",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYllQbl8wVjFyRFNhVlJLZEYwQXNCVFYxdFlxdFlySy04LXY1cC0xS2RLM0FMd1VncXpzMGc3X0RicDhUT25KM1NuS21CX2R3Wnl4T0w3QjJ1Y3hpM211MklkZ1R6OUR0YkY4MmVITkpCcG55X3NmR0owMldjUGR5TS1yc2ZWOXdWU3R1V0N2aU9qSk1ZRTk3Ykxabw?oc=5",
+    "data": "11/03/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -533,16 +543,6 @@
     "titulo": "TechnipFMC está com uma nova vaga offshore aberta em 2026: empresa está com vaga de emprego aberta para Técnico de Serviços Offshore para aqueles que sonham em trabalhar embarcado",
     "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQcWtSdVBoSURnNkFKVV9sdVZRRVZMQ0M0LUxCRzdWWG1tR1dWWVZqSzV5elU1REJ6OVhkay1CTmxEZi0wMXBIU3BjVmRwcXNObkhVX0NNUDV6Ty1sTW1oOUdLLUVOYTgyWHBOcnpCcWtBSTUxN19ydnMzNDhWR2x3VlV4YWtoUjZOdWp1SFRZSVA5aXBXekpvME9PS0I1RG5pYjBNbm1fN3l0aWFkQ01fZ2dUTU1xb21BSUhPV0ZQS0s0MFl0NnBHSEFKUlhla3JhOF93Z3JnRENaOWNDZ0FIVDVoSHFuZHRtMTZ5bmhQV1BaX3BuSXEwWmhRR08wdkVqaG9FR3ZfcGtTUEt5MF9ZR2o3Q0tFZGVfNDNnNnpweHNteElPRG80TUx6WnJISjM3U2ZJdlFCZzJvR0RtOHpGQw?oc=5",
     "data": "18/02/2026",
-    "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Engeman abre vagas offshore com escala 14×14 para quem quer trabalhar embarcado em Macaé, RJ",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0E3YmlKSmFMd3NhNkYxZEt4cXMwOXphU01pNDZVNE1EaElKQXY1blFUWl82SmVTUkIyYlpycVlXS2U0MGYwQWN3Q01nOXFfNEZuMXUzVTBXbWtaQUpFMkFCc0hfbzlFS054V3BJNDBzdC1wRE51bm5UTFhsZlAxVVo5Vkh5VVlqYndpYkExTkVjN1NQY0RLMl9HdGxNUzNzZERfejlzczFIVkE?oc=5",
-    "data": "10/02/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
