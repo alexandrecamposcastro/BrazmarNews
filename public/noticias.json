@@ -20,16 +20,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Momento do acidente no Mar do Norte: navio de carga colide com petroleiro, fogo consome embarcações",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZlZJUWNaVjhER04xbHg3NFFDd3kwR0oyNmh0ZFREU3BSa3ptd0VRVWprUkZTbFNlVkpod2RfU1dGQVNTenQ4dHNZV1lsTlctaUM2R2k0QTF6RWJGNVRHTTEzZ05ETWRiRXp5SVdPZFNWRnJfbW5PR2ZqVl9TTFFyUUtwNGc5NUwza0pBeEFmWEpDQVVERXIwSHBPNDltNDZJaURCcF84c0RIOUh1UmFURG44ZmhCN2N0OGx0R0JULTE4eEtWTERuZ3ZPLXlzWFpRWTFDb0pSbnd2QQ?oc=5",
-    "data": "15/01/2026",
-    "fonte": "SIC Notícias",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Colisão entre navio e balsas no Porto de Santos expõe falta de sistema que organiza o tráfego",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWlZQN0c1VHBlSldCRTVZWG50QWc5STRWazlMZ3pEUm43dVgyVWgwOUlRWThXamRjaUR6WUp0MlJ6R2V4Mi03REZZVlliWDF4dDB4VVJsY1RUZTkyNlo4UTYxQWdVTzdWZThTcWNKUVliY3IxV3ZrWll0R3Y4clJId2pQZ3FBanVyMnRDbGp4bVJMLWR5U3JjNmplN0lMTTNFbnNPNjg3alZfZG5lc0FyblhwMGFUaTFoZlJjU21uVDE5S0tmcWxYZXBqYkVRNm1pNXlhY3RSZjZGLUczNXBDODVWWC0xS08wRWd0NtIB-wFBVV95cUxPbHBNQUFlNHJTVHhjTXpWcHQ3UE9aUXl1dG54U0d3TTVxUllPcjFVeVNySTJPeUNISzRTOWtNUzE4eXoyVE9IVV9hTExJV0FXOVBKMVVRT1ZEYkNqTHdIdGhNcERreDNVbl9KZU52SDVvMm5IMzFPYlNVZkhuU0pnN2p3S2JweEY3VWJWalNZSTZfdUdDNlEzXzZwRERUTWtSZjc3WkhwdlV2LUFqa3UxOTFra0lDNjRfaXFPYklHQ1ZWUjd2NTYyN1dWOG1TMkRhcklTRHhPT0dMZDFRTmM1dkhfTTNFVVpWeHB3SmI4eVZXTnBjdVZ1ZEdPaw?oc=5",
     "data": "01/03/2026",
@@ -310,6 +300,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Navio Oceanográfico Prof. W. Besnard afunda parcialmente no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkZhRGZFQmIyZU5XUVplTHdxZVo5YXRFRWF1c3F6Q0tlN3hJcC1RU0k2VEtmXzBNdW9sTjdEMnBtU3RJbHYwX0d2WnNNZ2d3MmpweFNKajVTZ1BNREFLY2xPV2xOcWZzTDk5ZDBtOUZ4WVY4LW9QMUNDb1BIaUxVYl9UbG5BaFlOWFgwZlBBbUZ5VExDQlAxTjlvdG1OdzRlczd2RVI2RFZZQlZkd3U1LVhreGwweklKb3haUlpJdXphZzhC0gHKAUFVX3lxTE0yaWV3c2JQVUUtNFdHS1k5RWxqLUY2LWZBdHBiZVhDRHhpS0pKOThIUExLdVFoejc4ODNUTjk2bTh3bFVkSi16V3REM2NweDU5TnlhMV80ZlhYSVlMcC1uZmdJdkZhS2VDTTJVNHRXSlZybkNqTVhkQlRib0o4R3U2dllhYm1oeWVkdVhWdUFCUFBZLXFFamFvTUlxTHF2cWtFVUVtZDRSUS1XT1RoalRUdzhWbmNKSXFrcG9OZllDTTl1Yk9kUWhCVnc?oc=5",
+    "data": "14/03/2026",
+    "fonte": "Defesa Aérea & Naval",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Mapa identifica fraude em carga de soja destinada à exportação no Porto de Paranaguá",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYklWVEVYUXktWmpsWXBKb0RRNXRfajRJX05jTld2RUhGREs0N0JHNy1nRjVJcWloNjJCZm9KSEZSWWd3elM5SGxmdlBhUmM5TFljblB0b29RSUV4b04zWkNFNDIxbkdHdUVzQ196LTdTQVpSdmJwNVgtem1lUnBVMzRBaUpmSGxRMERYbEJkSk04Sm5MTmdjSnBsVUpDV2J4UjdUUWEyaHdNRnZzeF9icGtjVV82eWNOc1FkOHF2VDVfOHpvTEJyNE1NZmNVMVVaQzhxNElB?oc=5",
     "data": "09/03/2026",
@@ -340,10 +340,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Em 18 meses de atividade, CBL dobra movimentação",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUVRiN1ZLTnVVd1NuOVdmQWw1c25RRmIwb0tLUEw3NXdNVXh6MjFzUy14RGdYbjE5VnI5bzZFTmZ2SlkxalU1cUZuTjM5TGNfb0xkVFZBZzZaTHRjdWRocGRDdzIyMk1BdlRVNHBDcEJqTjdKMXNqdW9QLVR3ejFDRUFaa01FUFEyRUZmd0k1VXc0RUY0WGVRR2Q5X1NaRTNocHdQTkgtcWUyaE83aDBFdHpBVjVwNnBEUG95MGFhc2JQVGZZcThhcXQ0c0dDWXdXRWc5SXZDc0t3eHBGQjRYSkl4OWkta0dfQXp3bA?oc=5",
-    "data": "09/03/2026",
-    "fonte": "Portos e Navios",
+    "titulo": "Assinado contrato para novo terminal no Porto do Rio Grande",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXM2M3dnRmlicUkyZzJDS3B1Q0N3MER2ZXRpMnFxWUd0RWpLNE5tanZGLVdaTUVpU1ByZ3RnTzZHeVNfSkc4Y3lYcnBiLV91Wk05aFI1cHVzcW9ad3RMSDR3WUxNUEZKcTIteEZkM0FRVWh5emFaTGVxcTFQMENUaUFKanFpUXVUMjhBZEJJbGhGSlV4SG9pWXJ2dEtLZFN5UGFyTlViU1M5dw?oc=5",
+    "data": "21/01/2026",
+    "fonte": "Grupo Amanhã",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -450,16 +450,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Veronica III: EUA abordam navio petroleiro ligado à Venezuela no Oceano Índico",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblhvTng0dXlJdlA2azZBTGZFWEM3ZXVKMW96cEkxdmlHYXF2eW11MUYyY0JTdGM1M3l2ZFlabXBReWVOVzBBcXpILVVGRGVwMEZ4VEM2Y1l4UzdDVmJzZ0xlSm03NmNpTFVhVkc3dWRNaEp2bGI1LVFGLXJ1bkNRTDdWODU4SW9QNU04ZS1GQkJ1cThHYllBNkNXQVQ2Y0lvUVg1YUZHX2tncVQxQXp3TmhINNIBuAFBVV95cUxQM0ZyVEtQSkxFR2pad1U1VHEyOXFubmNVd2JxLVVmeEU5dDZqb3dvZHNuZWJKZXpRRDNEYVFkLTNOSHNGMXU2Y1BfWGNpcXk1R1dlcTdmVDFhdmxsSjAyRUZTSGc3TkF3Q0t2R1pxTUh5aVlhNHZmZTNMZGg1MW9ueTZid2ljdFQ2TXVvbXlQdlU0YWJ6RUZnVkRaM0IxRlZhb0pxbzhjRVV4SXAzdUtSeHdEWmN1cjI4?oc=5",
-    "data": "15/02/2026",
-    "fonte": "InfoMoney",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Navio porta-contêineres bate em duas balsas no Porto de Santos e tripulantes saltam no mar; VÍDEO",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXFsWUpESF9DYVU4QzJYZ2RwSmZoVC1qYm9SYjAyREc4SEdmMWJxaEFjRnRGNHhhWGFOWVN1M1d4emZhc3ZPLXpkZFlTaWotMFZyaXVsRVdTUThhYkV1dWg2bUtLMHBsSEI3b3ExYmNJcWExZzVVWENRTGxEcEhGaVU1OWdYNmRHeWc2T1FyU014azJMTjVjODJjVTNES2tHaHE1YWFFN0VhdTJseWp0Q3hod2pwU1djZlJwcmk5ZVlyUVJMd1RydlVhR2Vid19KUzktUzdJd0d5NWJZRFpBZ0lsMmpDY1VMVmpNUVZOeHPSAf8BQVVfeXFMTUIwakxPMnpQeklFS3pNRFN6YlJBVmt5aFNkU294WHcyMUFSYlNaVUU0eUFmdi1tdFgyNFk0clFDNHhDRmVYOXhBa3hwYmhlVGxoZ3lTdkhDUE80RXdsa3Q0Zll3TFRQR1E3X0ViRVNmd20xUkFETThsY2RmM2VJN2pkYk9EaU45Y2lVNElfZi1ZR1c0VUY5djJzLTVaS045UHNvLTNRWHlWcEwwNEVieGJBV19pakF2NkNtRWxUekQyWm5DUmFlaHhHdWpQOTJHdng2WFBxcE1MaTZkeHNnQ24wemJENEU1bFItYkJ3NmR5NnZtcU9zbkhOMFNPdTBn?oc=5",
     "data": "17/02/2026",
@@ -510,6 +500,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Rio Tapajós: Indígenas ocupam balsa com grãos no Rio Tapajós e ampliam protesto contra a Cargill, após confirmação de decisão judicial para desinterdição do portoDepois de bloquear vias de acesso ao porto de Santarém nos últimos dias, o movimento d",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOckpJQWJfMUI1Wm1Td1NKQVc0QlpWWHdyUkJLVEdnRnJUenRwYldHMm1hV0xiMEMyZnI1R19wQmdXR2RtS0hnRFhqcllCd3FvR01ubS1EWGFrQ0tITHhSVFJaZTRBS3ltOGhuYlFiTVRwRDF3SFktcFJFWlMwX3pKZFJOUS1veVVOVEhwLTVoRTR3RENSejNqMmlkdnphb2wtMHNVWHBfN09yUlVpS1UtVHFxNnBpWnVGdlR4d3dhcWV2ZDhNOFZsMmpYbDRoQklGaGVPWk1NbXZ1RExKUTRHZHV6NXpiX05EOHZ2T2ZpbGQ1d1Q4SzBBWjFORTQ4U2dYOFNtaEZ6TUxnaHpVenFJSWZGVlpwZmtidnNfWUF0WEpfYWM1MUVnWg?oc=5",
+    "data": "19/02/2026",
+    "fonte": "OEstadoNet",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Terminal de GNL em Santos amplia operação com balsa para transporte de caminhões",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVl2d3BadHdBX1E5TG5VdWNuYWJ0cXl6S0pZckRqSFcySTc3dE5hQ2pOMHZZd3ZRc0lCSV9TODc2ak1mNzN1NjE3dnlxb1lRSm1HOE5QcFJvNWtFTUo4S2lzNzJYZnI5N3lKMkNiUXZibXFBM3V1MDJ1LWlKQktBMVdGYjVNSDBvNFJzSjdLZF93N0tsQWRMOFdNOVRSNEYwTkswbW5IS1dBZVdURk81cGp5eVZ4dDI0Wms2UllkcWo2V1dKblE5WWZ2eTBQUDk5?oc=5",
     "data": "31/01/2026",
@@ -550,6 +550,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Profissão offshore descomplicada: guia completo revela como trocar rotina comum por salários altos e longas folgas na vida embarcada no setor de petróleo",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORTlnX2c1eWxmWnluU0NxTHFvUGkwRDVzUkpmN0RLTHY1Q2dxNE1Ja0JuTEpMaEppbU1oMFdOMUJGLVN5dTVINzdXVmtDelh4RWpiWGprbjUtMVRFMWs5aXdlLThoaFNVcjNVLXhUUDd1MzMxSlQwZk04M1F5cldnOE5xWWdONGM2dXFpZUFqQl9jclM3WXZNQnZQZGtGTlk1OUtIc2FtVXc1VlRfMzVuNHpyS3hGV1pjUmNTcE9zWkpnUmJ3MVRNZC1CSW10TW43a0FlYWh5Q0xCVW9JcHNfNnA0RERNbmxmWk5ZS3RZcEdDRkF1YW1MVXN6emdHdTZQTzJXdUtYLTh3OXFGV0RZaXVXZUNOUFBLS190S3lB?oc=5",
+    "data": "20/02/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "O poder do gerente offshore: como comandar plataformas e ganhar bem na Petrobras",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVNrNHNrUE9LVFlpcjFJSjExa3hwT1RSUVNmU2t4Z09EZEctVWtEa2FZNjNVUG5WSnR2aW1CWlFoVTEwU1Zkd1FadFA5d1VOalN1czZkTkEyS1lyaXd5Ql96TktvUmJLZjBDd3hmYS0xUS1SdjFsRDlzNEJ6MkNlc2FQRi1mbEN4WHdtemswb0tXNXhvd0RQVGNvTkhPbUZFX25VcEttdU9kTEZYWEpiSWt2S3VPNENRZWZVTXpZZUdaMTloNEthWktORDNlZVNXb2d2YVJtLVhXbi16Rm1mWVcyYTlSQ29LbXRNNm5ub2o?oc=5",
     "data": "17/02/2026",
@@ -564,6 +574,16 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFE1TmkyVUl6NW5LSE9pc3B3ZHhJc3picXVrYVFyWVRQM0VrSFpOTjFkNUV6LWRtRS1vMU02VVZBajhFNjg2cXdyMFNtZWUxSU1IalpsTm8zQUl0WTI2RDBpYnZGRi0yOFc3WFUxV1EtN3dfVmhZTVc4akh5ZFJyWlg5TlVKZ0cybGpPcg?oc=5",
     "data": "13/03/2026",
     "fonte": "Vietnam.vn",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Salários acima de R$ 20 mil colocam técnico em segurança offshore em destaque na cadeia embarcada, com alta responsabilidade, atuação em ambientes explosivos e forte demanda no setor",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOWHloVVZpWGk0b1lfOXhCckkzdFBJZm4wWHBSMTgzLWE2Qlg5MkU3eWFXZS14cGpjd1FhU0RxZjhaUVluYkRMTEItVTNBNjZLSWZ6V3RKWUlBX0VHWlhkNkphZE16NFBwRXJJWTJPRnp3NjlKWW5XWDdvTDNlUEt6cWQ4NVgzR3B2V0wxbDJvOVVhR2lpaDAwV0lqNXF5NGVSVXdOZ3RJUmx6eURuaFBnZXEweTMyTlVINGVlQmNGSGZ0LUZFeUxJYjFhMmxvWXZ6MXZnYVRXdC14Q1BtR01SVHdMSUZEdTZMUE8xNW1rNGNfNkpDMFI4cl8tRmpQN2h2UmZ0Qjl3eTdnZVBpMU9Sd3hMTTV5UDVNVUFHOW91RWtMeXBCRFdhZTkydjd3eVhQNXAzd1JlQzNyUDlNSnVYZVJR?oc=5",
+    "data": "26/01/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
