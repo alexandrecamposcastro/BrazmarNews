@@ -50,6 +50,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Coreia do Sul investiga causas de incêndio em navio no estreito de Ormuz",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjROVGYyYmZiVXI4dG5NTVRmQ2JvLXhwT096cTVNUGItUzhPXzVxeHdHenJ5UkZJT0NXTThWTmJ2LUVodGQyT1FLRF9jOVhQUXJGV2N0eTVrTnpxYmVUcnVZRFBGOHBQTTNLczFpYktqcXNKWWg2NkVGd01sOG8yQ0J1c0pMZDU0Y2VXWmwyX0pwb2VEUXZSTFNXQS0ydDJZNVR5eXNHNy1acTNSMl9iZ25XNTZjYjQ?oc=5",
+    "data": "06/05/2026",
+    "fonte": "Plataforma Media",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Auditoria analisa arrendamento de terminal no Porto de Itaqui, no Maranhão",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVZrTFJVa2xFQUd0dzhsRVlmV0hpM1Q5MWF1cUpZVnpqQjZLV1ctQnBLZ2VTUWZhUlNWaGxJejMtcVkwSDFTYzA3Z2VXU3BmeDY1RlNTM3pFOGpxa08tdGRyWk5CWU13ZGpLc003ZEZzNjdoX2hHWlp3S3NJNHh5aTRDQUFveS1XN0RZd3RiRGNxcnRXVzZaRGFnRWZfam5PWl9yQ2tCSXZkbFdzSTVoX3dtZ3ZINEZU?oc=5",
     "data": "23/04/2026",
@@ -140,30 +150,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio Prof. W. Besnard: Porto de Santos inicia operação de resgate",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNM01IcFZtTkR3VWZRakFuX0NpTzZRd1JMQl9vNHc4NVA1VHhZMl9TajJ1eThKRlRqWG1EYzRPbmFzSTRMMmlLRGNWSlhQWVBjMmlfbmVWUHpxemQtY3Q0eFdMS01JVjZYRkQwMUtjaEVYRVN0X05OaGJqRm5hY2hELUd5Z2RVZkhUVlF6OGRVOHdOc3U1ZU9sLVEyeE9IT3M3eGEzaDBYQ3lSS09mbjhMSk9HY1hUekVJclQ1RFZBTjc3RHRSUU56bEZiWGp0dldGQ205R1BpQTNYOURuYkxEU2pxT3Q3ZDNPTWtvVEF4YWpLSjVvYVZMMWUyZXY0cEFFM2hiTS1R?oc=5",
-    "data": "07/04/2026",
-    "fonte": "G1",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Estivadores aderem à greve geral e pressionam operação no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkV3VzhlYW95R2MxWDJyaVJKdjlJSzk1LTBxbklhenlTZlE0MDBSSE1yNWMzMzBnQlBIblhMVkhjMDd2Qk9oTTFBamIxeE9xLUQxb21CaW10Mm9ZYlQ1Si1Xal95TEZzM1h2Y1dpMlhmX3JQaEZ1Y3VEanExUUoyWVNvcXNrWDJwVmRfMGtzVENoNkRzSHNHY0tLVXNnNDJwMXp4YzIzTmFiMXllZVdNRGl3?oc=5",
-    "data": "25/03/2026",
-    "fonte": "Diário do Litoral",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Porto de Santos tem operação de contêineres fortalecida por meio de parceria no litoral de São Paulo",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaUFPSlk5bnIwYXhfclJ5eEZ4cGk5aGU4S2NOal93NVRSM2FfWFM1bUtIMy0zaDRzY1dWejFRQTB1cm44WUh5UW10LW9jU2FEX1AwUjBCNVR4clFDU1ZIUm1sUm4wbERmQU5VV2FNcDFtZG1NN3dYXzhXN3N0YmhPLVVpQjBUQzlIc0hSTU1Nckg2eTZWS3RRd1g3dVVnYnZTR1h4QVVMR1d6Nkc4VjZIZGJLT19CSmtOQ2w4eDBLWHNTT3M4NWh5c1o5OHhhQlVSQTRMal9ka0FhV2ZjS3NCTTRmVUFKRk5md1lz?oc=5",
     "data": "03/04/2026",
     "fonte": "A Tribuna",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Navio Prof. W. Besnard: Porto de Santos inicia operação de resgate",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNM01IcFZtTkR3VWZRakFuX0NpTzZRd1JMQl9vNHc4NVA1VHhZMl9TajJ1eThKRlRqWG1EYzRPbmFzSTRMMmlLRGNWSlhQWVBjMmlfbmVWUHpxemQtY3Q0eFdMS01JVjZYRkQwMUtjaEVYRVN0X05OaGJqRm5hY2hELUd5Z2RVZkhUVlF6OGRVOHdOc3U1ZU9sLVEyeE9IT3M3eGEzaDBYQ3lSS09mbjhMSk9HY1hUekVJclQ1RFZBTjc3RHRSUU56bEZiWGp0dldGQ205R1BpQTNYOURuYkxEU2pxT3Q3ZDNPTWtvVEF4YWpLSjVvYVZMMWUyZXY0cEFFM2hiTS1R?oc=5",
+    "data": "07/04/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -184,6 +184,16 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmE0ekZ2QUkzeW5xU2lCUzZpSm9rUzhsaFY3aXYtTmViRkpKTWJFSEloejZTSjVDUmIwc2xQTVI1eTBxYkl5NFpWbGFlZVJUOXhWMkNpQU1xWUlqTDRrTFhmdV9xTUtRNEVTeWlET3ZCTUpZcG1RZzcwVUJ0ajFqWTAtd1lQaTR1cDFUblg0ZlhoR1ZJMzl2VjZuSXIzQU5JdHM0YjFQdlB6ekpVdnM5SlpEeDkzMFoxekx3bEFXX0hBUjMyS2duaWx3QQ?oc=5",
     "data": "05/05/2026",
     "fonte": "Gazeta do Paraná",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "PRF apreende carga com mais de quatro toneladas de drogas que tinham como destino o Porto de Paranaguá",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUpCUFpXMGNsQmx6LW9HZEh4cDFoT0U5TDhFYXBkMXByM2dQY2R4elRfUnNJYndvOFBndnFyS29ac3RhVFJ1WWNzODhDQmgyNWMzZWZ5NHphbk0wOFZ3RFItUjVCSEFSWXM4eTNxMjQzM0tNblhfSGxrZzlqUXlmZlNvUkU5WUFmVURUNGh0WUFBRWp6aHA5SVJjd3dqSXBQWWFZcmVfSl9JQUcycVM1cnZhek5uVEx3ZEhxWG5ZRHgxdm1KbUYyeV9oZ1NrV0xralVlNFBn?oc=5",
+    "data": "04/05/2026",
+    "fonte": "CBN Curitiba",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -214,6 +224,16 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHVzQkJ1U2dmdlZtUi1vcGVPUGpodnFmZzZva05jeW1BbmwzeVlCdlVjS3hlMDlId0ZKbFNYeG9xOWhramVQbi02N2RZQVQ2OWxQNUtBTnhOZnpUQ1M2T2pjUUkwWFl5QXpoOHp2WWducl9JZGZORmRmc2FxM0loRG50X3B5dTN6UHBma2VwR3FZblZNUE1IYlZHVTVRUXl3V0s4Yl95bC1zTTNWR3FkcjNGRGozczZUcjBXcEpVMEN3MXdr?oc=5",
     "data": "24/04/2026",
     "fonte": "Prefeitura Municipal de Rio Grande",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Após incêndio em guindaste, operação no Porto de Rio Grande é normalizada",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSGF5anlXemp0WUZhMXBOV1FfQVRBT3ZHbUlPSktPeXFWLUtPdzREMGxTMnlyVUpyNU9Ca2JveGRub0pBeTM1bHZFZmZHWm9lRXF6SG5yVGZfdG1FTjdKbmhhOEVzdk9zcjc0bFV2cm9OeTFJTld6bDN6OW5Db3VDM012cVlsTG9admtydWN5cjNxREU4V2N2ODZWYm43emthSFJyM3pXQXkzZmU5Rmp3SEt5RzJFdzdUZTVudDcyLVVuT0tiMGlzVDBrTWs5aDNw?oc=5",
+    "data": "25/04/2026",
+    "fonte": "Jornal do Comércio",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -264,6 +284,16 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUVDVlpXdEo3a2VrckFjUFZfdzBSTmY4U0ZuUzRCR3NDZzZObENUY2RZaHk5bWlNMUtLckl1dk1tdDNqaF9mekhpMlA4YzRveTlvbnQwZWtxVXRib0xwLS1iZEpkVG5aSWdpYS1EZlpnMTJVbjZOS0VMamhVYjNBRnhuNDh6WDZETzdhSDJIbmFQak4xa0ZtQkF2eFFfOUhzN0E1aXBzOUcwMUZSZ1VxRk92RDhJVHNYYnlN?oc=5",
     "data": "04/05/2026",
     "fonte": "DIARINHO",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "SMPA e Capitania dos Portos alinham calendário de cursos para formação de pescadores em Rio Grande",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMmxBUGI3Z2xzanBzVUh2WHN0YVNGUU1oZkNFRjMxczVoS0luOVFuRVNkemFvSVVkSVpGTGRCU2JpeEVzX0lTVGVVNWlhS1JUSng1dTZZbFprdkRwYXRWc3BmR0N5S3VxUkRGWGVQc3Q1MFFmSVQtMFIwUjlVd1h3R1lPMFQweXJwcnZmS2Q5dDFzQzhmYWJ4cHhENVBRckNnLXJaWmxabzRJeGtiTUdMTEY5S1VqWWhSX0pxVlEyaEExbEJWdHhpLUNjVFowWng1Y0JpVEI4Y0c5Q0pwMWpxNzlYRzU3d0FRVGZ0U0VzVkdldVk?oc=5",
+    "data": "10/04/2026",
+    "fonte": "Prefeitura Municipal de Rio Grande",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -520,26 +550,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navios da Marinha encalham em praia no Rio",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzhFcTFvVkd4S2QwTldFN2dBaXNZX1V6azVZNW84cE9sbGtqR1F1VGpUWnV5VjlhMkZWby1zSWVIdDByVVIyaWRweGoxdElMd3pla2wxNXYzTGtPdFN3QVJ2c0N5d1NyUWdtT1lVWkZETndSQ1g2LXMydlFwYi1wTWRXM0RxMmNZa2tsTnl0UmhKRHhBSFZxS3hITlZLZw?oc=5",
-    "data": "10/03/2026",
-    "fonte": "A Tribuna RJ",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Embarcações encalham durante tentativa de rebocar navio da Marinha na Zona Sudoeste do Rio",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRXd0SFNiRndpVFJOZkQ1dzVYazI3bVk5N2FhZi1zb3hjU2xEcXloSmE3RDJFQUN6cDJ0R3lJYk9reFp3TkxSdVlwdzRuLWdrVkV4a1RGbE16bVBLMnp1TGlwWXc2RGU5NDJmQlBVMEtQc0tzR29uX19GM2QtbUFZa3lvNk53RjdpZU1fTDVyUUFrdnJOSmY2MFh5Y2ZHcFFxbzZ1TVpRZmR1QkFDQ3l0NVhCZXJLZmJVVG1nSVQ5dDdtaUY2ZTZ2MWU4Vi02Wm55a0VNaXRmNS0yQmlxZWdkVEp2bzR5RTFsUHc?oc=5",
-    "data": "10/03/2026",
-    "fonte": "Tribuna do Sertão",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Navio da Marinha Brasileira encalha em praia no Rio de Janeiro durante manobra de emergência",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkF4MW1BYXFtakVZVmNLLUdyWGZUeDNlZXNNTDR5VlhpRDJtZjFzVUpSUUFfYm5uM2s5RlBUUTNlQmVLSEJES01mcU9vQjRTOThjT0lqaGREd2t6ZjZvUlBrcEpOVEpqWDhVSV93cy05MTFHbFFQX2M2c1NTVG1FMjlISkltRVVPTU56VV9ocFB4NlgtMmVtOV9ISnE1TFYwZDVPZDdjQTlmTGR5eThXMF8yaGNGUXJjMzFBMUdFdjByR015WlluX1psUVptbHBfLW5icUFVSXhhZm56?oc=5",
     "data": "10/03/2026",
@@ -551,9 +561,19 @@
   },
   {
     "titulo": "Porto de Cabedelo registra marco histórico com atracação do navio Fermita",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWFWSjMxOVNBQTVRNTdPVkhTRl8xNmZRd1RobFhYbVUycmxkRGpsRi1PT2hoNlpEcTA0Z2d1VU8zRnNzNHRka1pXdUlockZHbmpaaDZraXpfRHYyV3luOHJUdEh5LVJSTXVBTGNnQlZ0NWpfQjlxeG1zaUdoMURYQnBDZGhzb01XVjFldWRHWjhzQ1ctazlpOXBYUTBINE8taGVCNU9Kb1NaMExBZnIxOA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVV3MThvUTAwb3dqUmFnRFp3UzlXMlVtbFVQVXpTMjJheXNKMXF2SUhKWVF4bU5CblNnTXNaNzFXSmR1TXBfZEJUTVpTVzh1XzZuekEzd3hfdmhTUG9WYVJuYUJ6V29hVkVJd1d5YlgxR3BYZ3B2RlVzOEdKWU5vUUpSY0ZtWGtPYlRmdFFVSEFfQnBjdU43c0h4czZnX2dxRG1BMVpwMTZDNFE?oc=5",
     "data": "05/05/2026",
-    "fonte": "Portal do Litoral PB",
+    "fonte": "Patos TV",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Santos prioriza atracação de navio com gasolina para mitigar risco de desabastecimento",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYkhFQW1VNVNURDJXMnRhZm4wdV9JUS04M1c4ZXNBamZnSDExTUF2Wlk4ZUh5dDlGQlZ2bjc1eWpROUZHNTZFQkNoT0ZYc3hPRHVWcXJiWm8xbkozZmNNLTlmdHR5VlNoMVJXdnhPbjdDWkpzeEI4TjNNcnFxdG9lTGd1elBsZlZXcnpwWktGd2tySGYzLWlKcHhzMWNTVkY3TGhnV1NGVnJjRl9ZYm9uNk00bzMyT1Rmd1hNeWVIelFtQl9YMTBQT3Zic25nS1hTY0tMdlB5VElQc3R0YlJnSTJ2cFR4QUJtZWdjUw?oc=5",
+    "data": "08/04/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
