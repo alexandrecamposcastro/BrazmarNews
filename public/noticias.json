@@ -70,16 +70,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Auditoria analisa arrendamento de terminal no Porto de Itaqui, no Maranhão",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVZrTFJVa2xFQUd0dzhsRVlmV0hpM1Q5MWF1cUpZVnpqQjZLV1ctQnBLZ2VTUWZhUlNWaGxJejMtcVkwSDFTYzA3Z2VXU3BmeDY1RlNTM3pFOGpxa08tdGRyWk5CWU13ZGpLc003ZEZzNjdoX2hHWlp3S3NJNHh5aTRDQUFveS1XN0RZd3RiRGNxcnRXVzZaRGFnRWZfam5PWl9yQ2tCSXZkbFdzSTVoX3dtZ3ZINEZU?oc=5",
-    "data": "23/04/2026",
-    "fonte": "Portal TCU",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "TCU aponta falhas em arrendamento de terminal no Porto de Itaqui",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjM2RndLYUZOWW5IOU9OZWdGbEhZSDFfbTFpMUNxeV9Lem9YSXloU2VhODZfOC1vRjNJdEQzcW5uZUtnN0ZyMGlUQ1V5SXdsRmtZai1lX2pqM1c0SmhYaEJFejB0TXQtSGFqZmhJWmVoemFreS0wYnFxalBWT2V6RnFaOFhrUEhuZjZsVWg2QWJYVU5faC1UdWVYVQ?oc=5",
     "data": "24/04/2026",
@@ -150,16 +140,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Polo de exportação do Norte do país “avança” mais rápido que Paranaguá",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3Vwa0x1bGoxOEFvQWNJMG1fWC1Ed2laS0lmWjNwdGpRTVpxZFJYU2E3Tm01TmpGMWs4NWNaelFBOVFNUTZMYnpaeHBZc3h3MmNaN2tZUzNKaWVfU0RUOGVzWTl6MDZUbVFNclJqSHhmM2RhZkJhVTc1NDYtdjhvbUlEWlNPc3ZEU2JXaDFHeTF2dkR6ci1RWDZudURQWnM4MzU5YUs0LVZ5SjB1RHBxOThNT0hCeW1XYjBQcy1LX0w?oc=5",
-    "data": "23/04/2026",
-    "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "APM Terminals entrega em Suape o primeiro terminal de contêineres 100% eletrificado da América Latina",
     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSDBpV1hoYVJHbEUycDhrNjlKdTVTengzZng3bWJGalI5MVVyOUR3S3VtaEpiaVJrMVZqOVBHUXZzUGJkbkJQUm9WcUZrQnU5azFyMXFrWVZyVlY0dmpJQUt4X0Y2bVRha2c1Z1N0Z2poMm1uWFVlNVZ3QURIYVNjRzFEZDJkemJ6eXRlSElTMXpQdnQ1b3g5eGtFeDdHUUNtUkxqWkg1dnQ4TnV2YXdEN0xIZHN4NEgtNnJsR0ZmaGJNdHFDQ0Npd0IyTjBnQ3VXalFrdG42b2RPVlc1ajI5dnY1aXdwWWpZVFY2MExOR0NHTzZ5UG94VVJ1Q0RjQdIBjAJBVV95cUxOSnBJbXlmemJTOWtkdVppdjFPVUJfVDlZMU1rcExBNGpiM2dmRmZIalhkV2I0LWk0MDk2UnpWdlJwRWJfUHlRcmRoQ1lETjgyc3RvMk9EOFZPcEE2aUoxLUpBR1Q3TkdLRDd0Vkt5MThiNnlCVWdEa1RrN3dKWFNfTHZ2UVJtZjFJSi1YR1dsVHlqNTl3djF0akFkVWNkekZQSk1RVnllTWdycFVyV043WDNqejRKTFRZeDU0WWU1MmZoZ0hYaWFrZWNhUXE2ZWZVLXlBSGN0WENYUEVwVXdEYmJaYzF6VW5DLUkzeVJPM3JsS1AzRUZGenJOdXpQQ0RIajUyRnFxYi1ZU2do?oc=5",
     "data": "12/06/2026",
@@ -224,6 +204,16 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXBHUTZNSUUxMHVXdTU3UGhRblpDYlp1T1NKTF9KV0NsYWRVdWpoSVZ2NVVJdDZyU1o2RkdnT3lUMWd3eXZKNW00WGg0VjBOWlRNMWh5VExYNkJSSENKNXduNUExRXN3RllvT2Z0RVh0Mm5jd1RIY1JmTXpXWk1FQ2tvaExCMUJWS2Z0U00yQzdBOUgyUXRYWXpRZDlVeXVGOG9lOFFGSFphLXNGUzdZemFEeDRXQThyWHVHZy1Xc2sxdGNJcXhVOF9B?oc=5",
     "data": "12/05/2026",
     "fonte": "band.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Paranaguá registra alta de 100% na movimentação de veículos em março",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1NOSDNGbXBfQkxock8wYTNEdDNCUktBTjI0MHE0Z01CSFFMb2VMSWd3dTNiOHc3a09TQXhOUURFZEw0Wm4tZmZ2VlMxZzdoVlpJQnQ3MUFTNGxCQVN6bFp4MnJlZ215a1l1T2J1MTBYR1ZZTmVOUFM3NVI5N2ZueDctSi1MamlhZjR4b2NQNURuTWs1SFVnVXJWazZ0RWE3TlZGQlg3WnQzU0VZNnpTZDdPcXBlM1BU?oc=5",
+    "data": "27/04/2026",
+    "fonte": "Governo do Paraná",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -320,20 +310,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos do Amapá reforça segurança da navegação com formação de servidores | COM4DN",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnRfckZYYWxBeDJsclRYQklncnZNUGVCUklaakl5UExSa0dTbTNEQVk0eVhkMkVmQXpoa1ZFejBvLUxWZUxBQTQ4VENGMmhLakozUjBMQnBXZkJVQ3JaeGtzN21FMlMwb1htb3RiamhEMkcwakRTRjdPZDJHOS10b1JyUF84ZWJtQmJENkM5T2Voa3FPYS03cXlOTEd4elNIRVZJbmkwNUp3WjJQcWJSbDdtM1dINTFnTDlvdXRB?oc=5",
-    "data": "01/05/2026",
-    "fonte": "Marinha do Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Capitania dos Portos de Alagoas amplia capacidade operacional com novos equipamentos",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3BPdzd1bS1yZE9aUTJYcjhZc0M5YU9EMEpfejVNRDVOelZrQlZmTHItSmt0cy1icFhDMW5mZU96NmxGTUlabFVvaXhyUmlZc0FkRnBtSW1fOURzbXBYSGVFYVZPQUxFSUpDVlU4NDBhNWctcHNrQ3NydmZkM1I1RlF2WkFmdnhZYVNBT3JweHRxUTc1T0F3Ty16WTd0eXd1NkI0M2l0Qldyeno0TTA0SHhTZUdmcW5H?oc=5",
-    "data": "03/06/2026",
-    "fonte": "Defesa em Foco",
+    "titulo": "Capitania dos Portos completa 180 anos com trajetória ligada ao desenvolvimento marítimo gaúcho",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUmk0Rkx0cTNwRFVlNE1ud3VhM2VEQ1JUN0FGSlMwYnN4SFluZXRsOWRSYXoyemZTaGppb0doeU93UTZwNDBJQmFLTWIzQlV1cnB0bGNEZGRiT19RZlRTNEZaNDl1bUNGelo1Q2FQX2pEZGhXSUpfWlR2eG16NElCUExteGt4N1ZFWlo1QkxTaUFTMm90SG5CSHdZaWxNVnZId00wMWRScXZiUEpVT214NXU2dnB5VzB3eGo1RzFDVHZ4dVQ3Q1Ytbmt6TllvUTdyR0lBSFRBekdmOWVueWYtYXY3THIwQTlnQUNGeFhCRW9ROHRVQkpDNW5sVVV6NkJUdUx1VnhodGx3RlVYZ1VQUjhOeFhfMGFn?oc=5",
+    "data": "19/05/2026",
+    "fonte": "GZH",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -344,6 +324,16 @@
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd3pVd2ticmxRelJUWEJIdmtiM0p6RjdOYzVNN1A2YldtOHY5Sm5LRVk4bFU0UjBIRElVZ01RUHdjZ2VzbHpiam1TNmpCTlFfR2Ffa29QRE1aa25VTjVMVE90NVdXa1M4UjNfckZXb09jdjdrNEUtVHZjYkdfMHhVcDBfNzZtQXE2WkZMQWF6SFNxcjRzTGktUGZQWElUaUZBa0d1MmZtOUw5MWtNWVNud0x5TGszMjlMR0Z0MDRLaDUyV3dZWGQyT0d3NVR3QTVVRnJ6azBn0gHkAUFVX3lxTE5NMWV6MzFYZzJWWE5oWUE2SF9sVFJXSFY1N0ZhRUstV0NsWFZHbVgyX1RsdXBGZEZjUnAwXzlaTlprRWIxQUZjLUxJb0ZqalMtd3hyRTJWLUFyU3M5MURzUFl1am05OWFYNzc1T1RSTEY4VHVjX0VnRVlubVJQYmNqNHI5dm9Qbkg0UjZXNnBMZkcwUUdMdzBOeUQyX3UyS2p6NVk3UjU2Rzl5aHJndXJTMDdlal9jcEFwUUVpRGxFWlZHZUlQRzZEalBaZlFmYU9fTmFfNFR6a2RlNXRva3hqZGx2Sg?oc=5",
     "data": "10/06/2026",
     "fonte": "G1",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Capitania dos Portos do Amapá reforça segurança da navegação com formação de servidores | COM4DN",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnRfckZYYWxBeDJsclRYQklncnZNUGVCUklaakl5UExSa0dTbTNEQVk0eVhkMkVmQXpoa1ZFejBvLUxWZUxBQTQ4VENGMmhLakozUjBMQnBXZkJVQ3JaeGtzN21FMlMwb1htb3RiamhEMkcwakRTRjdPZDJHOS10b1JyUF84ZWJtQmJENkM5T2Voa3FPYS03cXlOTEd4elNIRVZJbmkwNUp3WjJQcWJSbDdtM1dINTFnTDlvdXRB?oc=5",
+    "data": "01/05/2026",
+    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -391,9 +381,9 @@
   },
   {
     "titulo": "EUA diz que disparou em petroleiro e o deixou fora de operação por violar bloqueio de portos iranianos",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ05IRndYQ2JZMUF6clFheWdSQ1E0X01yLUNQWW9NUUFoa3Z2dXp0VzVSR2JTczBrNEdTWE14eEFIVzVWcDRSRjY1dEd2ZzBPMHdYOURGQ1Y5MkZqTGk4TUhtNUhhamlXVTNyNWs3TTRYOHRNdWc5VGFBbmh0b3ozQ19SOGc5cm9HTkM4UGhFZm91YktIYWItRERUdzQwWXNmalVtX3E3eGs1ZTh4UngwN2gxNEFnd1lrRTUxY1J0X3lvWndnOHF5VzEtX0NVZEFPc2toTTNxNW5PNHo2R0ZJeGI2a0I?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdllIMElDTWNIRzJLUWpzWmg2VThuX1lXWUpKSjNKYmtZLXk3U1QyZDVldFR1a2hhemVrWDBJSnk2OGJvTlo5LVlkTFZXVkdFUFo1YzBDRTBHUnZZR3ZKTEhiMGRUcUdXWjBsc3RaT1dLVXV0VUFQTDJFWC1zZHA0SUZFamRmaF9qTnY2U0llYmRENUNqQklXZG5WZU9BWjc4bGtxcnBkTWRpUjJxU2wwNGxuMVBsb3p3RUJ3bXlIbVZOZTJjd2RHU0R0ZFlNcjNPSDVBZGFqMVdFTjZIa1pvQmNHTl9ldXhfVmt3X2lwRkrSAfYBQVVfeXFMUGhQcVphQmRnbWlFb0t1MnZyZ1NlS0ttYXRabTBXb2Q5M3FsT0NUM3dEYWotcTQwZ3YtclNtWmRFeTlyQXpRcjBjOE9mMmF5V2h5UTU2YzdUZU05Z3JoRkFqSjBGcjllMmVKaGVmUk96eGRaRElvRFoyWWhpV0lpaURQa09pSVczMWVlSHVQV1hYTmNPWkUxSWtSNlJiZmtLd0xmdk5rWFBGdkp1dHlPU1djV0JCdGQ0cGJOV2pEVEtCaUpHb180SUZwM2RkVkw2NE5qRWFab2ExRnBueElzVkRmYXA2UkZOYXZ5QnpXazVxbm1qQ1BB?oc=5",
     "data": "08/06/2026",
-    "fonte": "Jornal de Brasília",
+    "fonte": "Estado de Minas",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -430,20 +420,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons lança novo rebocador para operar no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3VlYmpac0hwZ1VHZnlWTVBzdjVHaEcyekVvMzBZWXk4UlBPWE1WSmwySVR0Ym5Dc0x5NVdNUnRPbmR5YlJSR3loUnpibE1tX1BDdDdORVRjWDdVWW9GSV9qNkN0NG5qRGFRQmRyeVJwNkJmQzBoWkRKam9tUk1reGdVVnUyTHNjenVBRE9VMklYNFBmZXc?oc=5",
-    "data": "13/05/2026",
-    "fonte": "PortalPortuario",
+    "titulo": "Porto de Santos ganha novo rebocador com 23 metros de comprimento para reforçar operações",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0RCVEl2UHIyWDhObGJHM0RqbXJRaG1UdXEyQ1pZTnB1b1Zub1dfbEZMdk5TNXNfSDI2UHUzdFFuSm9HSm92NTFDYTA4QkJkbDJtOXQ2eFhORmlaNjR1bXVCZV9DLUtZVFRIY2JoVmdYYjJOWGphZFJpYUd1RWpZUXZEU1ZybU01Z25VdUk5TzhFb0hjZjR5OHZGT2JGM2RUZXgwSmJiT20zVm5MaHFybjZNN1dEQktOYUlINkRiRjlCNmNvdmUxYXdobHktNHdzNXBNODMyMjRjcUdC?oc=5",
+    "data": "15/05/2026",
+    "fonte": "A Tribuna",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Santos ganha novo rebocador com 23 metros de comprimento para reforçar operações",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0RCVEl2UHIyWDhObGJHM0RqbXJRaG1UdXEyQ1pZTnB1b1Zub1dfbEZMdk5TNXNfSDI2UHUzdFFuSm9HSm92NTFDYTA4QkJkbDJtOXQ2eFhORmlaNjR1bXVCZV9DLUtZVFRIY2JoVmdYYjJOWGphZFJpYUd1RWpZUXZEU1ZybU01Z25VdUk5TzhFb0hjZjR5OHZGT2JGM2RUZXgwSmJiT20zVm5MaHFybjZNN1dEQktOYUlINkRiRjlCNmNvdmUxYXdobHktNHdzNXBNODMyMjRjcUdC?oc=5",
-    "data": "15/05/2026",
-    "fonte": "A Tribuna",
+    "titulo": "Wilson Sons lança novo rebocador para operar no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3VlYmpac0hwZ1VHZnlWTVBzdjVHaEcyekVvMzBZWXk4UlBPWE1WSmwySVR0Ym5Dc0x5NVdNUnRPbmR5YlJSR3loUnpibE1tX1BDdDdORVRjWDdVWW9GSV9qNkN0NG5qRGFRQmRyeVJwNkJmQzBoWkRKam9tUk1reGdVVnUyTHNjenVBRE9VMklYNFBmZXc?oc=5",
+    "data": "13/05/2026",
+    "fonte": "PortalPortuario",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -471,7 +461,7 @@
   },
   {
     "titulo": "STF mantém regra que flexibilizou emissões em plataformas de petróleo",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXBzQUQtUFMtU0xrX1hBMkhqUUdUdkhFaXBGNlBjMFVQc3EwQnZsS1RHZi04M0R3WU80MWhMVDBEYi1LenpkeVpRaldfSzhfeVNtS2hGN3FTcDJINERHWjB6cktjSm44bVZ2XzNocXpJbVJCRVdJV0NJaTJnX0JnT29kVHZZeTZyT0NvNUx6blp1alY0elhuTnRTZzZhMHMwS1E4NEs3S01oajNuS3RFY3RiYnBUa0U?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEh5R1FoamhBV1NWMk51bnI1LXhlZUNYekhWMlVkR01zRDFSbXFyZWR2dUtQU0FnTklFSjByU3pKRWt0aWxMQktNT09TNFFuTEJVcG5wUXNHaExlMElmbVk1VGNsX2tHeXRreEtxaUJLMWNsXzQtR2hPN18zakEzZDlfbjg2N2VhVkltd29aSnVvRjAyRXRDeXNjZ1FQOFdWNHBaZlpObi1HUTlWQk9PTHN3?oc=5",
     "data": "16/06/2026",
     "fonte": "Migalhas",
     "risco_pontuacao": 0,
@@ -600,20 +590,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Treino de combate à poluição marinha por hidrocarbonetos realizado nos últimos dias",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMENFOEJFRnhOdVJnOGJMczlHZ1ByVTlnZTBJOG5wWVMxaUJVZzloSHJ5SGtZQnN0ZTh2THZuQ2xWMmR3dFo2SEFHM1R5bEs2aFpEWmpCUWVEcHJRS2hTa1pXanI2SXBWUFktNW1YUFc2U3NJRlcwRC1fREM5SWdLLWxDbndqSklhYmNyeXRja2NnNkhmWXFUVzRNaHZRY2NaMno3cTlVZ25tTXJMd0FQRFpINW1UVUhmT2tSdWQzbmg?oc=5",
-    "data": "15/05/2026",
-    "fonte": "Funchal Notícias",
+    "titulo": "'Maré de Gente' sensibiliza para poluição marinha na Marina do Funchal",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmc0ZGFkR1JPa2pkUFhSR2w3UjlZM0JYWDgyYWxFQTZvQmFES210dk5SRDdPSlZzV20zMGlHTE9tc0ZEbFR3RDFUMGJPOWVPb01ZMkZLMmZYN0taWXV0QS1weW9QNUpOalB3MEh0bnZGX1ZOdnRZTFBrX1MwY3RmT1NTWEtuSzdFSVhwelh4OWgydHozczFpQ2txTHE4M2NYUkN3c0Zmel9IeVVCT1VheQ?oc=5",
+    "data": "20/05/2026",
+    "fonte": "dnoticias.pt",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "'Maré de Gente' sensibiliza para poluição marinha na Marina do Funchal",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmc0ZGFkR1JPa2pkUFhSR2w3UjlZM0JYWDgyYWxFQTZvQmFES210dk5SRDdPSlZzV20zMGlHTE9tc0ZEbFR3RDFUMGJPOWVPb01ZMkZLMmZYN0taWXV0QS1weW9QNUpOalB3MEh0bnZGX1ZOdnRZTFBrX1MwY3RmT1NTWEtuSzdFSVhwelh4OWgydHozczFpQ2txTHE4M2NYUkN3c0Zmel9IeVVCT1VheQ?oc=5",
-    "data": "20/05/2026",
-    "fonte": "dnoticias.pt",
+    "titulo": "Treino de combate à poluição marinha por hidrocarbonetos realizado nos últimos dias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMENFOEJFRnhOdVJnOGJMczlHZ1ByVTlnZTBJOG5wWVMxaUJVZzloSHJ5SGtZQnN0ZTh2THZuQ2xWMmR3dFo2SEFHM1R5bEs2aFpEWmpCUWVEcHJRS2hTa1pXanI2SXBWUFktNW1YUFc2U3NJRlcwRC1fREM5SWdLLWxDbndqSklhYmNyeXRja2NnNkhmWXFUVzRNaHZRY2NaMno3cTlVZ25tTXJMd0FQRFpINW1UVUhmT2tSdWQzbmg?oc=5",
+    "data": "15/05/2026",
+    "fonte": "Funchal Notícias",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -674,6 +664,16 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVE0aWtTZDVsMWdGVkp4OXNjTGxVUVpKempQcEFNcER1bXZGX0ZWd2tNbXVhekVHeWJaZkFOYWQteUlpc3I0Q1dIUEt5UDE3Nks0OXoycFNWN2Fxc29FZUFJaVc2cU94WktMVnl1SHJTR0wwOFdqM3pPZ2VCdkRYTXN5THZqSjRJTjg3QU5TZTh3VWFJS1FpVDRuR2pSTkQ0WFlyTzBOZUZSNHRtVGN2YWNLS25kM1JpZTB2bkY3Z9IBxAFBVV95cUxQVW9yZERGQTl4YnVtWDRscmpWaXNYdzVfWDVwQVNKLWQ4a0Y0QlgzRmV0cUgwc2hncFVoSkd1U0FZVXZXZlhNX2J0RFBvMUZZTkpXNjNCNGhIbWJFLXFHRGx1ZWlMRGptNVIxWXBkWUpSUlVBdlR1NmQ0Mm1SM3NnT2pYNWVkQjlSRVgtLV9sQ3FIN3RYUG9lSFpCcEpDTXVrcUlBX0pjM2c5SWY1TGZFeGtTTXZWMUFiTkgyeElCNHJoZ0Rt?oc=5",
     "data": "24/04/2026",
     "fonte": "O Cafezinho",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Ministério de Portos e Aeroportos propõe cooperação com a Marinha para monitoramento da água de lastro",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTnJxWHlfREVRVlpSM1cxaWVva0g3Y3R0UF9Sc0lnbzduV2xvX3ZiVmFVV1VhRUxGMUw0N0l2OUk4T21tdy02c3BldzY3QlJVSldIVkhmREJuZWtxZUxSaTBXMUw3aFhsYUJPUU5nZWZlTWc3R3VvNWxlU3J5UXZ3ZU9XM2tjSURWdm5kLURIOG9WdUNPaGNfTGZWUEdhX2x5YzhrR0NnX29OLXFra015TkNWQmhPS2RITHI5ODZNeFNFck9QQVBHNW16QkU3clBmZFg0M05IdnhOeERuTk9TclpyOFBwTHd5N1VaYmNR?oc=5",
+    "data": "30/04/2026",
+    "fonte": "A Tribuna",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
