@@ -170,16 +170,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Moegão de Paranaguá atinge 95% de execução e entra na fase final",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmJJbXVnNVA1dlJROThDYzRkdFo4Y1MxS1B2Ml9oV1ZKLU42QmRUdVU0OW1Ec2FCbXNoU01SWlRqZzZES3RDTzBmUjF2c3o1dmNETlVoVkkzWWJjNmk4MV9PODhDYzc4c2cyeTFaa19vWEpleW51TVZXVTdEZk05RXhHNWdDVUxzZWtPUnpSNEtaUEtnQjJVT25YMjFaaHl6NnNNS2gyMFVWNDlvMndXbXVqRFV5S3hfaXBHUWJnUXl5dw?oc=5",
-    "data": "02/07/2026",
-    "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "TRF-4 valida multa do Ibama por vazamento de álcool em porto",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjZqS0REMHRuZWJ3bzVZcTIxenBkYjU1bnJINDF2Xy1JTlpJM1pCNGpIRTQ5RnNwT3gxclUwd21ZZHVYYzhZZkNTUFN2dGpDaU92d1FnbkRTSEt2a0hxWTBSMldoU2tUZVpfRFMweGQycHhxNEg3Skl0VjB3YjNPam9QU3F2MzVYYzdvVjBlSzBiRXdUdlR0R05VY2tvN2NNeTVqMHN4ZTZUazl6?oc=5",
     "data": "02/07/2026",
@@ -510,6 +500,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Praticagem: o trabalho que ajuda a evitar acidentes ambientais no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUc1WWVuRzgtRFloaXRmNmZXQTd1bEswZk41LURySmg3RlNiMVpXbXpYLS1XeE9qYnBXZXFheXBvdVExSUlwa2gwWXhlN2ppRjYteDRXZmZLY0ZMUEJidGUtUlZaUFl6WmE5RllsbmdPbHYtQlNmczZtRHNFb2ZkVWpCajFzUEVjTWljX25R?oc=5",
+    "data": "05/06/2026",
+    "fonte": "vtvnews.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto Piauí faz primeira atracação de navio de carga no Terminal de Uso Privado",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEk4a0pLWVhjZm1nODVtVHJJbUlmWEpENEQ1Y0hCS1VqcGhTU2w4VzBfa2hLN1VBaDhlbjVXRUlHVkJvRE1IQTVyQWU4V1JvZVlKNUhkcVBqcGFYZXZncnZlc1pSeExWYWwwN1RwcFQzbnZrSjVRQXhwSHV0YnkyQkRzLUFjekhQaGltV2VQcXIzNV80NnpoclA5b3JyYTBLQXItdA?oc=5",
     "data": "29/06/2026",
@@ -600,6 +600,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Solaris conclui cravamento de estacas offshore para ampliação do píer do TESC",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOU1TZVZlZ0xXQ1NrMDhYTzVscV8tdC1nNExIQ3NwbXFuRHFyRTQ5MG1vdjYyejRqQkQ1cTBTc2p0YTQtbW0zT2R3MllxUDQ0eXRScFp6SFRBbTJfV1labVV6VmN2ei0yanBtSHpmcnBRYlVmSl9vSmhZUkhYaEVvYzFUQmdxNjNkOFJKanN2VFdQZGtqZ1BRSXdYR1VGMThGMkxNS2RiejBiaGtac0x6dV85QQ?oc=5",
+    "data": "02/07/2026",
+    "fonte": "FIESC",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "The Westin Porto de Galinhas transforma a estadia em experiências marcantes",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFdSMnNUR0VjT19KM1ZsbW8wU1Qzc0pCWi03RE9OS0tiZXVrdXFRSUNPM1B1N041MmhKcHVXZlMtT2pvTkg0Zmx4TGdiYTh6TU5XWlJveU51QkVHTHVKN1pfdnZ2UHNNeFgtQjlxcnJqUkk4cnc3ek9mSkxRcGxvSkI2eC14S1RpdnhSV0o4d1lQUVQ0aVVkMGVwb3gwUmcwcXpFdC01YUJmQmhhZ2d5UDV3?oc=5",
     "data": "02/07/2026",
@@ -664,6 +674,16 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGUxZFVxM2FwN29vM0lWMGtmSTUzaFZZMUpVdml3c1UwN25FN0VNcWhDM2laYk9mRG1qeDZheFFMUm9abGw5eWtNRmZka0xoNzJLNE10VjlyaXN1UGZqdzZQVjZMYXh4NENJR3pCZEpMMnNaR212NTNadEx1eUhncWFOMUZqaTNqNEkwTGZtLVdoald2d3FIeXdHb29VQzhJN2VZRnFxZEJCeVVXMW9MVmM5OGtuUkHSAbwBQVVfeXFMUHBoeGdnVnRvb0VzeXA4YmhPRk41YmxBVjU1c19POUo3NU1nSHk2VHZFWUU3N1V0SlFQUktfQTVYaUxBTV9TX0hTekQ2V3kwT0ZSeDhnYXZHNXI4RkRRNFRXSmVqVEJPWEI3V253MDBITHNGUUZDaGZiOGtSSDUyLXdGQWdvSVdLTGxENkpHOWk5Ni01cXpYSWFoMGd2cDR2XzVtS0JESTR2ejhNRlRfNngzTUxUU2laOFFhUVQ?oc=5",
     "data": "07/05/2026",
     "fonte": "Defesa Aérea & Naval",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "CPES visita o Complexo do Terminal Marítimo Ponta Ubu para conhecer o sistema operacional da Samarco | Com1DN",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0xnZ0tnbEUyLU9qeEJzdzF5aDlOLTBucnlGWTBPWnM5WE8ya1BRVzhabno2ajZFMm9zeG5EeDY4OEFGWTlrdW5ZNW00NkpIQ0QwaEZiQnJNNHl2c1FOZDFmeUV6czg2M1JWU19JWXN5ZzhQMlpxQ0VLNFNaQURObXg0TkZjcUF5TU1vZ0txZmpFaU9ZMGotcHFPYXZjZ005S2ptTWZJTnpBVTNhM2cyaVNNcEZkcGFOellyTl9SVUJ6NjFZSlM4TFh3Q2VoUGpL?oc=5",
+    "data": "19/05/2026",
+    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
