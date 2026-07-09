@@ -80,10 +80,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto do Rio de Janeiro cresce 7,2% no 1º semestre",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVURNeEltTlhOQUZEUkdGZEtHOW1pQ0QxaWJCYXg1STNTX09LbzdoOVFZV25HUG9ER0MtYjVaUVRpX09vR1ZuSGpsUkpkcXFHMGlPZ01penh1U0luMjhOcmxacHNHQXFoMWxndkNQR2JwTUpSOUdIYkNZeHRWTVJSUFFUb1lDc1Z6UVFqMG40NnR4aHdjdVBDdm5kMDVVS3RXaUJYUnBjdzZnZGV6VDQ2NVQ1cVNsb0dzY25zZVQ1Z0tVNkdteVZsVGlURFNSdzlydDVkUlVYYWE3Q1Bq?oc=5",
+    "data": "08/07/2026",
+    "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Primeiro terminal de contêineres 100% eletrificado da América Latina é inaugurado no Porto de Suape — Casa Civil",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcEthUWdPcUFzSk0tR0ltcVozbklzNXBCZjFid0phNTB5MDVJT3poT1IyQ084bWh5UjlwdVA4Q0Z2RkZhdEQ4YU0yMlJvNm5ObWNKc2MweUV1cnI3RjJpMXhLMDhNNVNNU2Y5encyNVcwdHloSTdYUmV1dXhoTWtpREdpdjZQUHlHMV91eERObVdSQTI4WUhZTzFhSURqNXdKbDhFeWpFdUpkeEhMRG95YXU1bGthYjlNclZ2OFhQVGVFaG9JSnM3eENqTDM3Nng1VUcwUUZqNU14OXRCMXBQT3hwOFJleURmTm55czFIUnljMkk2?oc=5",
     "data": "19/06/2026",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -103,17 +113,7 @@
     "titulo": "Porto de Suape tem o primeiro terminal de contêineres 100% eletrificado da América Latina",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2hvUy1oaV9mVnE0X2pMNF9qdURlODBSTjhMNzFTa0VpaE81RDNGeU5ZbVQ5d3JWYmI5OUhBMGd3LXI3emo1UW9XNGhwTDdiazBWN1ZBRG81RHh0TTcwem9vTV9VOHF2VEZPTUcyTG1UVTk2clNaNThNOHVlX3VwV3pQcWFRaHhJdExRM3hsMjJ3RVdFVTgyMTE5YnNqNEdFQXJyX3pzVzE0VDc0TkZnYTB2dXZ1N0w3NFNiT2NOY3dfMXhfNm5RY3RHTnhTdWxiUGdTVVdsRi1mZkZQQ3dKUE5qZlN3MWpwTUpTcjNRV18?oc=5",
     "data": "12/06/2026",
-    "fonte": "www.gov.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Localfrio recorre ao Cade para impedir cobrança de SSE em PE",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUtmN0U0UFU4bjJFMEZZakZSRmlKNnRIM05PZldId1FrVkpvdUtmT3BobUZyWVZ6Y0NuTjlwbzdQN3FSN1o1ME5wNFRXSTIxYm1kbEF3S3FOTDBvUmF5d1dZTGxBLXFsMU5DZmhqcS1STF83MFdqeXI4X2VTR0d6YnB1aGRCcWViR3doTXdnNkUtWDhGTXdPLXQwX1RhMWVEWU5feWlROUJjRV8zYVNNZkxiZ2lNTVJCRWV1S2pRcU1Qd2M?oc=5",
-    "data": "19/06/2026",
-    "fonte": "Portos e Navios",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -241,9 +241,9 @@
   },
   {
     "titulo": "Projeto prorroga isenção de taxa de frete para portos do Norte e Nordeste",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2xLVGxlNGVUNVFXU21vQ1k5UjA3UnVWcEhvTTJxZlFTZV80NHVYbDlXLTJVdzIxazkxUWtWRk5vRTE2aURiRXFZWWhEMktpc2pLU3lTRWNTYW9LRnFxSWdrVzk2YjJMU0I2STVkeHRyWEw1RF8tVUx6ZXVGWGdfUUtoeUstTWFUTWpqbkZUMWpTNW5DZU9yM2l4ZDQxNHBGTjlHQzZMQnltTUNZRldhMFRVSXhvQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkxUYmF5cHo1d1gzSFVNRXJWUWNYU2FRUGlJVlU4bGgweUR0b3VXNEVpQ0k5VGY4SjMzdmhwWUItZlhFVW9sb29ZTGM2TXBlSmlkZG9hVnIxLU9iZ0xvNXlKUVNBaDREbDZpUTBmUlVPcy0zQ2pyUTVMTnUybXVLdzI2TkhOS2FsS3lyQ29DVFp5RlVJbkl1b0VaTDdyNmVtM0UxTTZtcTYtZw?oc=5",
     "data": "07/07/2026",
-    "fonte": "Portal BA News",
+    "fonte": "REDE BRASIL DE TELEVISÃO",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -260,10 +260,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "19 pessoas são vítimas de naufrágio de embarcação no litoral do Paraná; uma delas foi a óbito",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm92T0g3X0h6VllQbWdUT2d1RDlsUkpZcFpYcEZaVEw2RDY4LTFsOWxmb09EMEIxTmJDWU5hRjRyY3B6UlVvOEV2MFZmWXZ5RWkyNWs0TlloUEV0SHpILU82bUw4d0FuZU04VEI2QzNzTVZoLTVSaWl0U0p3M1ZVcm5faUFmVDJwZW9oaThMU2RTUWhwR05icFV1Z3pxVkpfd1ZocGxMQUdGbWhDU1hDTUJMbjFNdjZPMU90RDBjZ1p1U3lHVXFreS10Wjl3ck9hQ0pDazBVa0I?oc=5",
-    "data": "06/07/2026",
-    "fonte": "Folha do Litoral News",
+    "titulo": "Relações institucionais: TJAP participa de Cerimônia Comemorativa dos 127 anos de criação da Capitania dos Portos",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzRYZkdWN2lzVS1BcDRPTDd0WExEMjNocnNxSWQyRU9nNll1cWsyZUJvTHN1N0RGYzZIMXdjRDNDSDZvMHNmMF9zWi1majZiWDI3ZmZleXJxdGxTOEpsV2pwWGt3aW9FOEJOX1NCb3FMWDRlMHlhdHhHQ0tiOEpkSHdCNWFSY3lTTHV1OExQOExvWlNObXNRZUN0STNIaTJQeGlLeGNvQ0hzby1uc3dubXl6dXpYOWM5Yy1uSXZWbERVS0RwUFFTV3BTdjEzTEMyZHBZSzVYRTJMOTZy?oc=5",
+    "data": "08/07/2026",
+    "fonte": "Blog de Rocha",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Capitania dos Portos do Rio Grande do Norte",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjBXWU1TQnYxZHc2d09kNWRPR0JfWHRpTnZMRlJ0THp5WjJwdUxDNGdtbkhaYnlxMlZSbXBJVzJtM2xkSmFzczVqdmhYZDZRUnQ4eGRMaU1EdUJpV25uaWlfQlZ6UkM5a2ZJYlBpS1dpYTBqbXplNkxQcHJSZEVDWERjd18zUGRLR0E?oc=5",
+    "data": "16/06/2026",
+    "fonte": "Agência Marinha",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Itajaí recebe Diploma Amigo da Delegacia em solenidade da Capitania dos Portos",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEd1YkFuWVM4YXNMc1BHR0xOUTFrSkx6ZDAweDRGanptcWxhMXhVRm1VcDd5Sjh1aVBfY19uX0pDLXRqdkdHcHkzWkJKMndTT01RNTM4S0JxVTFzcUJWNnpGcTFLZWtxcW9UeFlzYW9VQ0puSHFpakpwUFJlcURaUkZoTXE2RjU2LXpyNWY1TmgxNDU1OC1LVExvWHJLck1GZkN2Q3FWS18zSzRGN1UwYzhXOFJ3U0lVQlI0UkZBRkMxRGxndXlldVFCTQ?oc=5",
+    "data": "18/06/2026",
+    "fonte": "Porto de Itajaí",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -280,10 +300,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos da Amazônia Oriental promove palestra e distribui toucas de proteção em Abaetetuba",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVl3QU9EX01QZVlEY1M1Q3htN1hGVFFVQndmMS1rNmFHNkR0RC1kLUVHU285NDl3UHp1UkJ2VU9aYTlneWVwOVRkd1BfVHgwR0tQOEtCSXdOVGFZRXFrSkZSaVpZOGtCZjh2ZmgzMUdQVnJvRnRvM3ZGdU9EbVVQS2JoQVE3VVNXSFcxVHRGQWVEQzE4MjVUWlI1aWNxR0JmclF4WlZpYWR4REl1NzlqS2FlQXFaT250bjdaOWNCZDBwd2w2Q1pkVnZR?oc=5",
-    "data": "25/06/2026",
-    "fonte": "Marinha do Brasil",
+    "titulo": "19 pessoas são vítimas de naufrágio de embarcação no litoral do Paraná; uma delas foi a óbito",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVm92T0g3X0h6VllQbWdUT2d1RDlsUkpZcFpYcEZaVEw2RDY4LTFsOWxmb09EMEIxTmJDWU5hRjRyY3B6UlVvOEV2MFZmWXZ5RWkyNWs0TlloUEV0SHpILU82bUw4d0FuZU04VEI2QzNzTVZoLTVSaWl0U0p3M1ZVcm5faUFmVDJwZW9oaThMU2RTUWhwR05icFV1Z3pxVkpfd1ZocGxMQUdGbWhDU1hDTUJMbjFNdjZPMU90RDBjZ1p1U3lHVXFreS10Wjl3ck9hQ0pDazBVa0I?oc=5",
+    "data": "06/07/2026",
+    "fonte": "Folha do Litoral News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Empresa é suspeita de entregar documento falso em licitação da Capitania dos Portos do ES",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXBMUXVRYzRpXzEzODdTVDd3RkdNcDlITnN6NVhUcldWR0sxcDlxZmJSNWxwTGF0RHBOWEMtLUJLbGRXZGFnX2JCaFRyM2pqQm5WQy1CZ0xfd1ZGcGRMb2R1c1BJaGNIRE91N09QUzNCZmd6RXEwRlBGMVFsN0hQbEJUalhtOWVMQVUyY3dVcFJ6eUJqbkloUDdybmhWRDZXSUl6WjREalZfdFpaZDhuT1IxMFpIX0lVSWxBdWV3?oc=5",
+    "data": "30/06/2026",
+    "fonte": "A Gazeta",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -300,6 +330,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Marinha abre vagas para curso de pescador em Chapecó",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ281eG1oTjYxRXFab1JXOUR6Y2hNWXJWeWktRGY2djdPcEVvNmVSS2E1X3p3OEhScVBXWXpoVVhPODFSOGdfMlh1VDRxUzBUcVZvVERMTE90WnBjM3UzSDJPdklkNGNheDRvbUE5aThPS2s4YzR4M3lyMWhoTExkbUlTck1ZSWloQmRUYU5MS1ZhRVhjV3J2d1dSSzE?oc=5",
+    "data": "01/06/2026",
+    "fonte": "Prefeitura de Chapecó",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Capitania dos Portos completa 180 anos com trajetória ligada ao desenvolvimento marítimo gaúcho",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUmk0Rkx0cTNwRFVlNE1ud3VhM2VEQ1JUN0FGSlMwYnN4SFluZXRsOWRSYXoyemZTaGppb0doeU93UTZwNDBJQmFLTWIzQlV1cnB0bGNEZGRiT19RZlRTNEZaNDl1bUNGelo1Q2FQX2pEZGhXSUpfWlR2eG16NElCUExteGt4N1ZFWlo1QkxTaUFTMm90SG5CSHdZaWxNVnZId00wMWRScXZiUEpVT214NXU2dnB5VzB3eGo1RzFDVHZ4dVQ3Q1Ytbmt6TllvUTdyR0lBSFRBekdmOWVueWYtYXY3THIwQTlnQUNGeFhCRW9ROHRVQkpDNW5sVVV6NkJUdUx1VnhodGx3RlVYZ1VQUjhOeFhfMGFn?oc=5",
     "data": "19/05/2026",
@@ -310,39 +350,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos do Ceará participa da III Jornada de Estudos Estratégicos",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aelh4TFItVlRFNGxIWUIyTWp2Y0lhQUJRcklCV18wVDBmU2FDa2JMcW4tWmFCSWhkMmxfZldwLUFKek5DZ1VvVTNPUEZseEJ0Snc?oc=5",
-    "data": "22/06/2026",
-    "fonte": "Marinha do Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "15/06/2026",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXJXMGk5TVptNUJxYnktaE05R0tLUVBXcTI2VHNFUVlabUxmUGp5N3p3XzBveW5wMTZjR0plOFlkc29xbkJjWVJOTG5BWExTUlFBRS1pd2JBZ1FHSDlwaWVIcnMzbldiQmp2TFZLUndQN1NFVkt2R1BJR1E0Q0F1Z21JQm8tc2hOdDVDR0VIUTZfSjd3S0lRTVlDQm9rRzdJQ2lmb3NLTzdKMm9XNW95QUQzRGxwSUg2YjBmYTFGem9WYkxvLU9QbnR3?oc=5",
-    "data": "15/06/2026",
-    "fonte": "Marinha do Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Capitania dos Portos do Rio de Janeiro realiza cerimônia alusiva aos seus 180 anos",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3Q5QTMxeDFqdzkyU0p0QmF4TFJwV2N3NGYzbGlmbWNWbF9yckNxV1FqbUNacnh4MFRyS2Uwb2g1WUtJOTNiQnBEcTZJSkJSdVlhNnVWZHA0c2tMTDFsOGsxWkdaWHhEZWNjOWgzaEdOVncwbmxPVHlYNm1wZGNWSC1mV1kwNFJuVjFPWkZsVUJSZTVzdUdLaEpWMFI5ZmZCX3A5MHUwa0Q4WnVGUHpBQk5KanVQSmdldG80RWk0Nml5QQ?oc=5",
     "data": "28/05/2026",
-    "fonte": "Marinha do Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Capitania dos Portos do Rio de Janeiro promove palestra sobre carreira de Praças",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JV1QyTzB2YzM1YTdENXVaUk5sVlc5b28tWldZbGliYW54MjNfaEJKNEF2aW9SeHAzSVo3NTJVMjN1V2FwemxVbkZRaTl5Nm8?oc=5",
-    "data": "10/06/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -360,10 +370,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Com participação da ANTAQ, Porto de Maceió recebe missão internacional sobre gestão de resíduos e sustentabilidade marítima",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdEc2QTdxSWtvX0NCN3ExWXBjMGs2SXd4N3pfeEFIRXZfSERhelJ5SWppQlpOekRwZjRlZHQxbDhhQU10R0dUaGM3UEVJZmlIX2wyRmlQNUhydE4yRWF4NFY5VVBpVkx6NERpb3YzSXViVGhVcGtKbkFrc3YwanFGZXNoTHJiWVZmRldleUtIcV9hVGxFcTNJNjlvYzNReVF3ck41TDRuWDJpNlNsUDNfdTVVenhaZlp3MzZZZTJmNWZEdWtVM0JWdk5ndWJOOVdZYjhaUnFsOS11WjZUaUZNSmxzYzNVNXp2RjQyV0wtQWU5VElsakowdnNWSQ?oc=5",
+    "data": "21/05/2026",
+    "fonte": "GOV.BR",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha e Receita Federal fortalecem parceria para ampliar segurança nos portos e na Amazônia Azul",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0d0SlVCbW95Q015TjUtUDJYcDFvYlR0TXRFOWYxWTd0YS0xTVZsR0taSi1WZ0xqQUZremFlOXFPRVhjNUU5MG9DMy1EZENudmIwNEEtYzdjTHR1XzV6V3YzdEhFakw3Qm5JZXhsNzR4N2RWUnZ3bnFfVV9FUV82Z0xUQ3VuSFR6Q1lWMUFrVXFDUXc5ZHVmUlF6a2dhSnZJc2hqWDZEZk5EbW1GVGtBSEc5aFBVMFB4cmxtQ3ZZdF92TTJQS2VsZlNkcw?oc=5",
+    "data": "07/07/2026",
+    "fonte": "Defesa em Foco",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Receita Federal realiza busca aduaneira em navio atracado no Porto de Santos e intercepta 108 kg de cocaína",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSnhSNXhfQkdjREw5NHhKb0xBSVVtRzUyWjhLaExoT1JZMHdxV3dfTk1RZW1xSkNjRGNEZGdILXRUUk9BVVlSV2d2OGFyZXE4dmhwRzBHNmJNMUNUYVVhOGJPQ0M5cmhJUjkyMjRnb0hhbHB2UEtyelBRLVlNZnZxelVLajc1NGJXMXhqZDdDaGZtZnNrZkk1YzJvUEp4ZWhRcFNxNllReGJHVVhIRkRMeTBvTF8zYjROdEFfOHlTZEVHb0dkY1NkU3hIaFBmRWJGUXlCVC1IVUJLcDcwSkN4VmRHbUo1bGlQSXVQN0traHNCb0R1RHBRRThSNkdMbDZpNFNGRkNkYw?oc=5",
     "data": "01/06/2026",
-    "fonte": "www.gov.br",
+    "fonte": "GOV.BR",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -443,7 +473,7 @@
     "titulo": "Novas tarifas entram em vigor no serviço de balsas e lanchas entre San Javier e Porto Xavier",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRWdSMWNWcUJoY29PNEZrQWZCcVhmWGkzSGhSMWlXUEwxcGdtamg0TG5EMW5ReFZsSF9tckxCUVJ2SmVQX0FSR1VZQXdSLVItcmJLOTRWT2V4ZllkS1RacEFFWW9lM0UzU2JpS2dSWU95Y20xNnhGcnZ4ZVpNSkZJWEh3bFJJX1hvUW5XbU45bFI3cl9WNDVXMFhxa1BHQXFXWjBoRFZXajNKbURRQkxIVTh2ZnlQWHVDR1lWR0loZWQ2ZFFTN1VIcnM2bGEtWGkwZE9KV0dzaTdrUQ?oc=5",
     "data": "07/07/2026",
-    "fonte": "Portal das Missões",
+    "fonte": "Portal das Missoes",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -540,20 +570,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Praticagem celebra 93 anos como pilar de proteção e eficiência do porto",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHE2UklpcTVET3UyYzdYSnJWOFFHT2kzLWhQQUlvaF9iM1ZPVXNrVzM2T0dNVHQ1aDRmM3Z1Smt6SldfMUh3WHhBOHhfTk5BaDVvQVh4ZTdzMWtseFdnZDJkT2lydVN4M0NwTFpFaXJoR0hrc0ZYc2JaTDdoczluVVZEelUwM3Q0M1BtUkR6N3Q4NU5MaHhmV2FUR25Lck9oS0JyRFp5aDJNTldiU1pfNklzZ002YXVoVG55cmNHVUFKT0xLLWJB?oc=5",
-    "data": "03/07/2026",
-    "fonte": "R7",
+    "titulo": "Praticagem de São Paulo completa 93 anos e reforça segurança no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJUaEp1cXpsZjN5aXFUY3RHN2tFelJfaURfY0R3S3hnLWxoc3N4UXZJTGpfN19PX2F5NlJ5Z0NsWDBHTXFMVjU4X2kyWDh1MVBsWk53b1EyQldWXzdXVW9GZDhZUVVoalY0dGNYaHdabVcydjJZT1NaNmFZMUJQb291RFVUV1NrNFQ2eG5EVDc1aWQxXy0zTzI4VzJwbXdwQ20xb1dLSVd5eTJHMlQ4b3Nn?oc=5",
+    "data": "30/06/2026",
+    "fonte": "Boqnews",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Praticagem de São Paulo completa 93 anos e reforça segurança no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJUaEp1cXpsZjN5aXFUY3RHN2tFelJfaURfY0R3S3hnLWxoc3N4UXZJTGpfN19PX2F5NlJ5Z0NsWDBHTXFMVjU4X2kyWDh1MVBsWk53b1EyQldWXzdXVW9GZDhZUVVoalY0dGNYaHdabVcydjJZT1NaNmFZMUJQb291RFVUV1NrNFQ2eG5EVDc1aWQxXy0zTzI4VzJwbXdwQ20xb1dLSVd5eTJHMlQ4b3Nn?oc=5",
-    "data": "30/06/2026",
-    "fonte": "Boqnews",
+    "titulo": "Praticagem celebra 93 anos como pilar de proteção e eficiência do porto",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHE2UklpcTVET3UyYzdYSnJWOFFHT2kzLWhQQUlvaF9iM1ZPVXNrVzM2T0dNVHQ1aDRmM3Z1Smt6SldfMUh3WHhBOHhfTk5BaDVvQVh4ZTdzMWtseFdnZDJkT2lydVN4M0NwTFpFaXJoR0hrc0ZYc2JaTDdoczluVVZEelUwM3Q0M1BtUkR6N3Q4NU5MaHhmV2FUR25Lck9oS0JyRFp5aDJNTldiU1pfNklzZ002YXVoVG55cmNHVUFKT0xLLWJB?oc=5",
+    "data": "03/07/2026",
+    "fonte": "R7",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -620,10 +650,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto Piauí realiza primeira atracação de navio de carga",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1J2anlmM3hOb3JtVU5iODh4QWlIdjN6M0ROXzViOTNQa09vNDRuUXVMTTQ3LWhVZGVJUTlrbTcwX1FqR3hWNm1Kbng1TE9taFNYc2ZhU3FsSjNQdDVhUkZvT2FSamF5VHpweEdNakR1YjhxRjVWb2tRNkZWdUtvdmoyZUE2UDZNX2tpaTVzcHdNMXFOZU0zQVgzRVRtdEExRzgxSjNFSFlMUG1o0gGyAUFVX3lxTFBSLWtELWhIWnJWVWZnRXRCbmhaUzliY210MkYtdzNrbDdWRmc2cjg4bEd5X1paVk5yY1RPckl4TElvNkRfMXlnb0FockYtWnZzRWNaUTF2UlpHT2JnZHExTi1IdmIwX2R5QzRqcHBTTVdJdTdMc2lUYzlIMDZodlJlems3NDRWc01zeVN1bmpkZjJsYzJISXp5QTctZENiZ3ZpMF9uSzZ3Y0NGWHpHRGtnM2c?oc=5",
+    "titulo": "Porto Piauí recebe primeiro navio de carga e inicia nova etapa da operação portuária",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHRDZ3Z0TE9RTkdFYnJQTDk5RjZsTEpuUV9yZDE4N1JNbmpxT0VacVRCYTBrbHV1YmNFRFh2dFNxM2tOalM3REpJOGxEVE5VM3ZGZUotRmtMTl93bGxOWG1fRzlXTjc0aFl6S1A4XzQzZ2lKQWFlYTYzcDNKcS1tQ3BXdnVOT0ctYjJoVkpJTXJyRG10c0FKVGdMUHNsUUtvZlZOdEdCXzVaUmFVTlVaZUI4NU91Y1JJdkNZ?oc=5",
     "data": "30/06/2026",
-    "fonte": "Portal Piauí Hoje",
+    "fonte": "URB News",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -640,20 +670,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto Piauí recebe primeiro navio de carga e inicia nova etapa da operação portuária",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHRDZ3Z0TE9RTkdFYnJQTDk5RjZsTEpuUV9yZDE4N1JNbmpxT0VacVRCYTBrbHV1YmNFRFh2dFNxM2tOalM3REpJOGxEVE5VM3ZGZUotRmtMTl93bGxOWG1fRzlXTjc0aFl6S1A4XzQzZ2lKQWFlYTYzcDNKcS1tQ3BXdnVOT0ctYjJoVkpJTXJyRG10c0FKVGdMUHNsUUtvZlZOdEdCXzVaUmFVTlVaZUI4NU91Y1JJdkNZ?oc=5",
+    "titulo": "Porto Piauí recebe 1º navio de carga e Rafael Fonteles reage: “dia histórico\"",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXpuTTJMRlJmQkFuVGp6R0R2MW9YSjNkc1VRNWFLZjd4OE5CbDFkelBLcFZlemZrX0syaE1Ka0JSV1FmMkp3QVlFbGZWZVVlaDQyUGxhX1otMXB6R3lrbHRvdTFIVTJJVmFiOGExcmFQbUNSRVpuZ1l5eGZkbHVtRVpxN1BqNERlcU9EQnNDQm1QV2ZEYjdNVk94Q2dBUHliOVNLTlhFN1pHN2JvMi0yQVBIWjI?oc=5",
     "data": "30/06/2026",
-    "fonte": "URB News",
+    "fonte": "CidadeVerde.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto Piauí recebe 1º navio de carga e Rafael Fonteles reage: “dia histórico\"",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXpuTTJMRlJmQkFuVGp6R0R2MW9YSjNkc1VRNWFLZjd4OE5CbDFkelBLcFZlemZrX0syaE1Ka0JSV1FmMkp3QVlFbGZWZVVlaDQyUGxhX1otMXB6R3lrbHRvdTFIVTJJVmFiOGExcmFQbUNSRVpuZ1l5eGZkbHVtRVpxN1BqNERlcU9EQnNDQm1QV2ZEYjdNVk94Q2dBUHliOVNLTlhFN1pHN2JvMi0yQVBIWjI?oc=5",
-    "data": "30/06/2026",
-    "fonte": "CidadeVerde.com",
+    "titulo": "Governo Lula autoriza atracação de navio de guerra da China no porto de Salvador",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWhnSEhEMk5WU1JXVko5bFh4b1ZnMTI4Y1ZGTDcxd2hRZHhIS0g1N29IdUVlbkFNWDA0SG81OEZhVGlzb0ZrRGFUUVpfSkVJdkY2X2ZXektKaUw3ZkZNZV9vaGk2MkY2SzlEVDJPREs4VFc4QUM0aTN1c1otek1lbmpDOW1NWTFabDBRWDE5N2JVd2FPZkdqTnozOHpWdzVfUTJEcDg2YUw4NWd6U1lsaldZTQ?oc=5",
+    "data": "19/05/2026",
+    "fonte": "MundoBA",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -710,16 +740,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de São Sebastião concede desconto de 35% para atrair novas cargas minerais e vegetais",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSDljTDVDNDBtdEZ4RFJHczlLV2pjWmVyUzN3NHJoWXBPN3R4WnFGR0hIaUVHSWpUQlhJSVl0SlF1LUlRZGZEcDA0X2tVUDlzM0xPVjdIYUVoaFdMQUc2WkEyVlVzZUg5cjFlUVBDdVJxc19mN281UU1lTmZMeVJhb1Y5MXF5Tk5TRlFQU0xkbXdyc01ldmx5S2pTYWZJUEFYU0dCNUxzM0RhRU12d1JsYU5aOGlQVjFwV0pfWjVXVDJQM25mVHoxekpqZXUtc2NpLUVWVG01TlNxTW11S0E?oc=5",
-    "data": "26/06/2026",
-    "fonte": "A Tribuna",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "PS/Açores defende reforço da capacidade de resposta da Região face a eventual acidente de poluição marítima",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFBJaDBzM19FN3RJcC1WRTFCQm9TRndweW1KckpXYVU0Z2lpZWRyXzhDQUVDTWtaTVlXX3diUzQ0Wlk1RGtKa3NOQzhkclp2RURubGREekZKY1VXVFU5RmFBNlRFVkpPaUYyci1Kel9qUXgxVkNSaFd6emU0Vm5xS0pCYnJ0NUFtVHJEcXJwdWVWcGhkZlhTaEIwNklrNHRoV3VDX29oVXVYUGs1MVd6SEhObkdYemZFekFHWXpVUFJDbWtpeDl1cC1ESWU5N2drZFYxanRpbUN5czQ?oc=5",
     "data": "08/07/2026",
@@ -760,6 +780,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Exercício de combate à poluição marinha realizados na Madeira: As imagens",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpZOUZNc092ZmYzQ21aUjBaMWpiWkhxc2Y3aTVobFBfaFBGTjMzYmZ1ZHpZRDV0UmRBdEFfUVZPc080cE9nWTJlWXNLdXRrcnBORzVlVVdqX2N2RnNab282MnFsQnlzaTh5T1NMRFhRb2N4MUR0NlBTS3QtTjg4QWN5VlV5a09sVDEtTnBqX3NLUTFTbG1zOVpPVVhES1dyMFZOMkVkdmgzUmVqUllWZGREOG5EX0ZPOHc?oc=5",
+    "data": "15/05/2026",
+    "fonte": "Notícias ao Minuto",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Maceió estuda implantar energia limpa em terra para navios de cruzeiro",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRl9DX19GUEtWMWVxSTJ5M2ItZ1VsSnVOSXZOTVhoTXREWjQ1Q0FKR2E3cEVudS02NlhjSEthN1hxRTNzZ0llVUpFRVlGR1lRdS1uYjJFYy1GcXUtMGJLTkJvRnpOWER6dTZlUXJoanVWT20yckZMeHBXX1gtU0lwUEtNTlp4YWFucmNiVkM0VEM5d0FObl9DMXZ0eG1XX0xyQ2tmV2ptVjF1aUw2WnlVRVdqT1MtczZ6TGFyNk85ZXU2elpiZWdRZDAyM2JvX0N3NHh3YS1CU3E?oc=5",
     "data": "03/07/2026",
@@ -780,10 +810,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Marinha do Brasil promove 3º workshop internacional sobre proteção de cabos submarinos",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGhSMXVkQWQ2WTJJQmFaekZkY1VOSGhHYUNQYzE5Y3J3Qk5xSmE2aVYydW9udVRaYlFzLUZJSVVFRENCbndiNl9FV1lsNndLVFlvazJsVjN4YTRPWlZXWnhVcjVCTUdSSFloalQ3MjdSZzBZNnV6TzhkcWdpRXhvMEYtbkFHeUdyWlRRTU1peWZWN3hJOElzb3IzazJlU2ZLZEF2d3M3enNrbEI3TWFZLTRlTUxTcmJjUXdSRmE2QWxzNFphY19IMFBiMUFsdWs?oc=5",
-    "data": "27/06/2026",
-    "fonte": "Agência Marinha",
+    "titulo": "Navio de guerra que virou ‘vexame’ para Kim Jong-un irá voltar a ativa após reparos",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanJFa1pGczRtZ2pJd0Q0dkcyZ0FXcC1YNVgxd19EWFc0cVAyV3p1N09vX0ZveXctdUVJbm11ZTFVNWxURnVnamN1QTlHZFZYMnQ3MFpzNkhNQ1RzN3hQcXpPTUxVb0VUcmVSOVI5T2N2Skc0ZDhyMUVzUGhYMlJ0b2R4a2QybFdYdUM1UFgxaERmVThoZ0d0THVfbTlOQW1kN25pZDlsMV9ycTB4NGpZN1M3V3pxMHJ0ZHlCd1JWMUVVNnl2Yko1Rg?oc=5",
+    "data": "08/07/2026",
+    "fonte": "R7",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -800,10 +830,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "CPES visita o Complexo do Terminal Marítimo Ponta Ubu para conhecer o sistema operacional da Samarco | Com1DN",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0xnZ0tnbEUyLU9qeEJzdzF5aDlOLTBucnlGWTBPWnM5WE8ya1BRVzhabno2ajZFMm9zeG5EeDY4OEFGWTlrdW5ZNW00NkpIQ0QwaEZiQnJNNHl2c1FOZDFmeUV6czg2M1JWU19JWXN5ZzhQMlpxQ0VLNFNaQURObXg0TkZjcUF5TU1vZ0txZmpFaU9ZMGotcHFPYXZjZ005S2ptTWZJTnpBVTNhM2cyaVNNcEZkcGFOellyTl9SVUJ6NjFZSlM4TFh3Q2VoUGpL?oc=5",
-    "data": "19/05/2026",
-    "fonte": "Marinha do Brasil",
+    "titulo": "Marinha do Brasil promove 3º workshop internacional sobre proteção de cabos submarinos",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGhSMXVkQWQ2WTJJQmFaekZkY1VOSGhHYUNQYzE5Y3J3Qk5xSmE2aVYydW9udVRaYlFzLUZJSVVFRENCbndiNl9FV1lsNndLVFlvazJsVjN4YTRPWlZXWnhVcjVCTUdSSFloalQ3MjdSZzBZNnV6TzhkcWdpRXhvMEYtbkFHeUdyWlRRTU1peWZWN3hJOElzb3IzazJlU2ZLZEF2d3M3enNrbEI3TWFZLTRlTUxTcmJjUXdSRmE2QWxzNFphY19IMFBiMUFsdWs?oc=5",
+    "data": "27/06/2026",
+    "fonte": "Agência Marinha",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
