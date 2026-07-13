@@ -10,6 +10,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Polícia Federal aponta navio grego como suspeito por vazamento de óleo",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXFXMzR2VnRYb1ZRZEpwSkhucVF1blAtN05QaGJCdVdxRXJJclBadWdDZXFHNzIxSTY2ZzBUTXZKZXd6MnVKdHBtQ181a0dpVVNfTklGX2FKVXlkYmtBZ1gyZUg3NjBlUUpZQS1KRnZmd1RGSExLUXhKWUxkZFFVRzZ2d0g5SFBES2pRMF9QTXFvNjItUzFwdWRxblNkZ0c5YkhPM0FNSm9FMk9OZ0VaMw?oc=5",
+    "data": "30/06/2026",
+    "fonte": "F5 News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Importações seguem aquecidas para a Portonave",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZzZIb09aZWJxdG5DbmZjRzFCOURBc2RMV2xKM3RnN3FyT1I3ZGtpWkFVLVgxSjVUYUktQW5nLVNXY0lCekFfUTdEZTE0REtQQV9JZUpBYkxSNzBvaV83eG1zR0JuTjcwa3llN3ZQc285RkxfZXJKb3BlODdxeE8yZEU5QmREaGMyNGZLbUd0Y0xvSmw0UUtJN2g3QnRUdkFQMUlHOHEzYmhvY19qWXNkaWhDOFpfYVFmMGNrZmVTbWo0cGVHanRZSDF4NHNITmh6bkZWMEtRSEFudk54dzh5eW9FZGlhLUxPLUVxcg?oc=5",
     "data": "05/07/2026",
@@ -70,8 +80,18 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Movecta investirá R$ 100 milhões para ampliar operação em Suape",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPem1MdW5xTEhxZkRQV3BKS3c0Znp1RE5WSUZFNXROQVZweXBkYlNEMUZlNUc2dXpHRzlWS1QwMlNzWG5tNDVLRnJfMm12VVhFLW5IUmliT3hWejhrUW1pUk9MLTlDM3ZTTGdianpIMVp6cjRFR05Mdk1UQjdGX2p4NWp3NnpYc0RENHI3R1hMY2pNY3VJR1NoSVlSLWZBTWNMZFc0VTJqaXJweUlhUmpqYmN2eVJUd2k3ZEM2Vi1SbWM?oc=5",
+    "titulo": "Suape: obra de R$ 123 milhões no molhe de proteção chega a 42% de execução",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUhGaXd3ekVMM3BYeS1vcFE0NW5IVlJhU1piaFJOTEJmU1AyLXB4SER6c0RsbU1qNW1MTzEyUEJyajJiQWdOYlk5dmNJQU9OdUVLVm9ZYnRlQmhsTlJmSGpWVzJlRlFiVlZCc2FUcTZGVDRGeWV1aXgzcE1ZTXc1WFJNZHRQSXNLa1BqMzBERFh2RGtKTG1BWjd2dnBEd0pvcFo4ODdkclR2clJxemFHSlFPVVVYX3R1VFloZHBKMUNXOHkteFVyc25sRk9UUQ?oc=5",
+    "data": "10/07/2026",
+    "fonte": "Movimento Econômico",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto do Rio de Janeiro cresce 7,2% no 1º semestre",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVURNeEltTlhOQUZEUkdGZEtHOW1pQ0QxaWJCYXg1STNTX09LbzdoOVFZV25HUG9ER0MtYjVaUVRpX09vR1ZuSGpsUkpkcXFHMGlPZ01penh1U0luMjhOcmxacHNHQXFoMWxndkNQR2JwTUpSOUdIYkNZeHRWTVJSUFFUb1lDc1Z6UVFqMG40NnR4aHdjdVBDdm5kMDVVS3RXaUJYUnBjdzZnZGV6VDQ2NVQ1cVNsb0dzY25zZVQ1Z0tVNkdteVZsVGlURFNSdzlydDVkUlVYYWE3Q1Bq?oc=5",
     "data": "08/07/2026",
     "fonte": "Revista Portos e Navios",
     "risco_pontuacao": 0,
@@ -80,10 +100,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Suape: obra de R$ 123 milhões no molhe de proteção chega a 42% de execução",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUhGaXd3ekVMM3BYeS1vcFE0NW5IVlJhU1piaFJOTEJmU1AyLXB4SER6c0RsbU1qNW1MTzEyUEJyajJiQWdOYlk5dmNJQU9OdUVLVm9ZYnRlQmhsTlJmSGpWVzJlRlFiVlZCc2FUcTZGVDRGeWV1aXgzcE1ZTXc1WFJNZHRQSXNLa1BqMzBERFh2RGtKTG1BWjd2dnBEd0pvcFo4ODdkclR2clJxemFHSlFPVVVYX3R1VFloZHBKMUNXOHkteFVyc25sRk9UUQ?oc=5",
-    "data": "10/07/2026",
-    "fonte": "Movimento Econômico",
+    "titulo": "Obras do molhe de proteção de Suape alcançam 42% de execução",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHFueG9TaTdvZGdPTjFQM2JqeTdMdTBUbnRHYnpmMy00RTB6Rks5bEFpa29sWWFtU0twQlIwdkZHdXIySVlJd19KN1JCV0hOenIxY19EWWpRNDR4Qms5a0lSVDlQc0l0S25fRXdKU29Cd05PbzE2Ukd6OVBlT2x2TFNRelVMYjFWZWRkMDBkVDBwTU5aMkk1RkxaZENPR3VYdEJLNHplb2RoZw?oc=5",
+    "data": "09/07/2026",
+    "fonte": "Blog do Alberes Xavier",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -160,6 +180,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto cresce, baía sofre: MPF aponta danos ambientais em dragagem de Paranaguá",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWFacTFuaTg5WHBDdkw0SXVRLWhwX3NaRHM2bjIwTGwwUERDWmhDRzE0X2RuZU5aX183VmZic0dyemNKWmJOMDUtanR1cmVOeWNYbzVhQXhjZzBaN1FhR1NlWkFibU83MW9DNnlfaF9CTTAza2JlNFF4SFZ1MDlTWFVRTWt1b0Jtd1RIQ3JQZ0NUSmVvMTZ5bVllZWZqNnluUzZ0YkNpZHVGaDF3aDJFQUhrbw?oc=5",
+    "data": "08/07/2026",
+    "fonte": "Gazeta do Paraná",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Paranaguá assume vice-liderança nacional na movimentação de veículos",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWZ1T0JCZmFPblp4QlltUGs2alBFWFB1VTZxMTRTTkY4bW5USUJKcDZOMURfTXBacDYxX3d0VUN3MnVIaFlFaVZBcjFHN1FyZkhpUGkyTGFLZ29VeGVuaXZtMFkxaFpnVk5yWWFybFFNREVUaVNyV1ZJbTNOXzhyMlpuUW45MHg4N1J4cm0tUTRQUWoxTzNEU1ZDN2dHWTkxTUJJYW5IcVF3ajVSTnM3eWNnQjJYREt3?oc=5",
     "data": "24/06/2026",
@@ -200,6 +230,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Brasil coloca R$ 15 bilhões na mesa para turbinar hidrovias e estaleiros: são 849 projetos, 108 barcaças em construção, 36 embarcações para a Transpetro e mais US$ 2,25 bilhões já aprovados para acelerar a retomada naval",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWkRZR0pVT19BNnZWUnVWa1Y5ZUdCaFZhVkMxaHVXbkxXajN1LUJrX3lHY0xpNjBoYzdqVl8tTnJCdE1vOE5CTkcteC1UTUtTcjFSS2VMa2RYTWNuSldDa1ZtNVVLTUctR2JsMlRQRTFBQWJ4UkxreHpSUDE1YWNYVm1qSXp4S205WUhONmx1ZFFnOFhwU1pPMnlYcXk5VmtOVktYZG1KYmtPMWh6cVllejBhMUVxVzRVWHZ1WEJxUmdLRTl1VURMTEVicXl3MVl4V3pDN3cwdnVFQ0FzalhXdFpQQmVXaW5ESmZhZURHSFRENGpGN2NVZndWQ0hySmpoSWZ5UTUtdV9JUnpydS1YY1JlMEVJZlY3aUtrNUJzZDA5T0NSbjdKU0lTT0V4ZEVsclNnTDlKc3hWTTBfQ05kQzRTazdNbjQ?oc=5",
+    "data": "14/06/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Prefeitura prestigia transmissão de cargo da Capitania dos Portos",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa01hRHlUeFNiWmRZVVN0Z3h1UjlUMDZ6TXBiRVoyX1hGTENYVWNwWXVqSmFPS2dKc0hWZW5sRG9hMWdwZmlzR1dVVnBVUG5aUVJjeld4eWNNZWMxaV9FTmc2aDNUMmk3OHROT3BNNGFQM2dQcGpud3ZSU21aZWsyRmRYcjVsT3hoRHZoM2lnQzFyYVRNOVNJZFA1OEpEYnpkZnRXR1ZsY3dRWHZCd2dDbF9PV3I?oc=5",
     "data": "10/07/2026",
@@ -220,16 +260,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Relações institucionais: TJAP participa de Cerimônia Comemorativa dos 127 anos de criação da Capitania dos Portos",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzRYZkdWN2lzVS1BcDRPTDd0WExEMjNocnNxSWQyRU9nNll1cWsyZUJvTHN1N0RGYzZIMXdjRDNDSDZvMHNmMF9zWi1majZiWDI3ZmZleXJxdGxTOEpsV2pwWGt3aW9FOEJOX1NCb3FMWDRlMHlhdHhHQ0tiOEpkSHdCNWFSY3lTTHV1OExQOExvWlNObXNRZUN0STNIaTJQeGlLeGNvQ0hzby1uc3dubXl6dXpYOWM5Yy1uSXZWbERVS0RwUFFTV3BTdjEzTEMyZHBZSzVYRTJMOTZy?oc=5",
-    "data": "08/07/2026",
-    "fonte": "Blog de Rocha",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Capitania dos Portos do Estado celebra 180 anos",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUVjNGx4Nm9ZWFFMZGFnbmJxUVVCbm9KdWRPbzRaRmh2NG14eGRBQXlVcnRTMDhCblhucVdDMDl0M0ZGMnRuY2VkYm5VUUpCWGVsaVRfQ18zbkk2aU83Q09OVnRiM0plejNEWktEZnRMTUxHakE1RG5CT1NGd2FSanZBTlV4ODhzUVN1Yi1ZYzF4cDE0M282dThJOA?oc=5",
     "data": "20/05/2026",
@@ -240,10 +270,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos completa 180 anos com trajetória ligada ao desenvolvimento marítimo gaúcho",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUmk0Rkx0cTNwRFVlNE1ud3VhM2VEQ1JUN0FGSlMwYnN4SFluZXRsOWRSYXoyemZTaGppb0doeU93UTZwNDBJQmFLTWIzQlV1cnB0bGNEZGRiT19RZlRTNEZaNDl1bUNGelo1Q2FQX2pEZGhXSUpfWlR2eG16NElCUExteGt4N1ZFWlo1QkxTaUFTMm90SG5CSHdZaWxNVnZId00wMWRScXZiUEpVT214NXU2dnB5VzB3eGo1RzFDVHZ4dVQ3Q1Ytbmt6TllvUTdyR0lBSFRBekdmOWVueWYtYXY3THIwQTlnQUNGeFhCRW9ROHRVQkpDNW5sVVV6NkJUdUx1VnhodGx3RlVYZ1VQUjhOeFhfMGFn?oc=5",
-    "data": "19/05/2026",
-    "fonte": "GZH",
+    "titulo": "Relações institucionais: TJAP participa de Cerimônia Comemorativa dos 127 anos de criação da Capitania dos Portos",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzRYZkdWN2lzVS1BcDRPTDd0WExEMjNocnNxSWQyRU9nNll1cWsyZUJvTHN1N0RGYzZIMXdjRDNDSDZvMHNmMF9zWi1majZiWDI3ZmZleXJxdGxTOEpsV2pwWGt3aW9FOEJOX1NCb3FMWDRlMHlhdHhHQ0tiOEpkSHdCNWFSY3lTTHV1OExQOExvWlNObXNRZUN0STNIaTJQeGlLeGNvQ0hzby1uc3dubXl6dXpYOWM5Yy1uSXZWbERVS0RwUFFTV3BTdjEzTEMyZHBZSzVYRTJMOTZy?oc=5",
+    "data": "08/07/2026",
+    "fonte": "Blog de Rocha",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -350,16 +380,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto do Rio de Janeiro recebe primeiro navio de 366 metros após ampliação do canal de acesso",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTVNPbktKMlM1NFF5czZGdWIyc3lkbkR0MVRWLU1tQTkyOE52anFoS0VWZ0JIcnAtN0hTSVpHQ3lKSDE1X3dJNDlfcFVTa0E1cEhUbXMxVVF6b1dqblVFZFF4X3B2YWR1UTUxOUY5Z3d4VFNWM3N1bWNGNTlNZEVTakVISWh0VFo5dW9Id1lWRE5mQzBjQnNnSVNmLU1CbGZPaVE0Z2Z1QUFSTGlMRzYtb3NKZXNtWTlNcUlKMWt1SmJsbU1PeUZtSEF4Qk9QZmpYSFVqTUNCNlhxOWNnRVhQSjIzdnc0enV5TmdMWktZNTlYbV9wNmc?oc=5",
-    "data": "15/05/2026",
-    "fonte": "Tecnologística",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Porto de Santos ganha novo rebocador com 23 metros de comprimento para reforçar operações",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0RCVEl2UHIyWDhObGJHM0RqbXJRaG1UdXEyQ1pZTnB1b1Zub1dfbEZMdk5TNXNfSDI2UHUzdFFuSm9HSm92NTFDYTA4QkJkbDJtOXQ2eFhORmlaNjR1bXVCZV9DLUtZVFRIY2JoVmdYYjJOWGphZFJpYUd1RWpZUXZEU1ZybU01Z25VdUk5TzhFb0hjZjR5OHZGT2JGM2RUZXgwSmJiT20zVm5MaHFybjZNN1dEQktOYUlINkRiRjlCNmNvdmUxYXdobHktNHdzNXBNODMyMjRjcUdC?oc=5",
     "data": "15/05/2026",
@@ -374,6 +394,16 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0U5NVZZWm5DYURaaGxKY0NqdzcydW1mMC05TzRvSFJKZmpPamFfQmRrb18yRDhnWTFwVW4yNGZQRWxId0s4bWtkZWlscFBhZW93RUt1VGJSVGJudERlckZweDE3MElhdkluQ0hfTDU4ZzBfR2xONjZLaXhUT0NXUzUtZTBJQmFqWUtBalFieXY5S3AwYWhHUEtCM2NjWl93MnI3V2ZYazJHM1BXMFpNT0hmaEMxRkh2U0E?oc=5",
     "data": "12/07/2026",
     "fonte": "CNN Brasil",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Descomissionamento De Plataformas: O Que Muda Na Movimentação De Cargas Offshore",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejlpRURmUzNlbUFtU3VNU0xGeENQal9kZUVhNDFUUEtCMzNSMnlfbFNfUVNmMGVJWnMyY1hoQ0JGT2FfZDV1Vk9MYVg5UTFjd21yUEJCd3NEb2t3T1dvQ3N4M1BMMGVGZzNkTjRqVVY0VmxlamlCSnplWFN2Z2tJRHRVWUg2U1JqaW84WXhodlJWM2VHRzJDc0NhMmtaU19leWkzTHhXMHk1U0UtV0tLQWlPR2VkWGpTLXczejV3?oc=5",
+    "data": "07/07/2026",
+    "fonte": "Cenário Energia",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -444,26 +474,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkgtQTZaQnZ6UUdwX2VrT3JaUnJyYWt3RWsxb2dVNlpQNlZLQm93ZVZvQkppUm5zbkFhc1hjaUZieTBMNDZUVGFnSGxOQ3BGZnlEejl5RGdZM0xSSzhCbGdaZmI0M3FaZXFnbXozWHlDVENScXRUckxzaXBIMzRHWloyUk5YelFYSVpNNk9zUzVRVmtXcFpIeUYxRFJSMUNsTndEMVNTQkt6QQ?oc=5",
     "data": "12/06/2026",
     "fonte": "Migalhas",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Robô chinês com inteligência artificial solda sozinho plataformas de petróleo offshore, suporta 30 toneladas, corta aço de 70 milímetros e tem vida útil projetada para 20 anos",
-    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQVHpZck5xZF9hbEoyLVotYTFTZEtTZzloQ0RockpoZF9VNUhDbHF6ZEh4WXhzZWJ2RU9sUFVQWWMzRVJxOGNIRU03aXNJQnN5STFBZW5FSXg0X2dLamFZaUltYkdCaFVxUExXbHIyNWtyUk5VczhQM2Q3WDdfUzhrdmJ3VVZHZTQ4N0VYeFFJVzZoNG5qN29GY0Y2bmdDR1JNbGxsalFhRG1ZdXNTNk03YzZ1QndKcDVfbXJrS0VqSW1WbDR5SU5rQ2RXaVptbmRRQmM3cUNpRlZLTWJUOGFjOV92d3FQRUhQaHNoR2I3R29iazZwalJGTW1BS2tjbVB6VEMzbFBhZE93eHhQS2YwcVI2YWVkQjR1UklrbWFBVVdMaVppNjBBVDlpYVJDai1zY3lkOFlzakY2dw?oc=5",
-    "data": "15/06/2026",
-    "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Praticagem de São Paulo completa 93 anos e reforça segurança no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJUaEp1cXpsZjN5aXFUY3RHN2tFelJfaURfY0R3S3hnLWxoc3N4UXZJTGpfN19PX2F5NlJ5Z0NsWDBHTXFMVjU4X2kyWDh1MVBsWk53b1EyQldWXzdXVW9GZDhZUVVoalY0dGNYaHdabVcydjJZT1NaNmFZMUJQb291RFVUV1NrNFQ2eG5EVDc1aWQxXy0zTzI4VzJwbXdwQ20xb1dLSVd5eTJHMlQ4b3Nn?oc=5",
-    "data": "30/06/2026",
-    "fonte": "Boqnews",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -584,6 +594,16 @@
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOclJieEJqNV9VbUlFZjJHbGVFaGNjWnV3WTd0MmdQUWR0NDA2QThuel9mM0VORlgzTFdIZGR5U2lsa25HSVRFYlNRQ3BzRGZJYjNVUXRiT01wdTJlVHdZakFidm01eFFiSF9adVFYNG5fNDRLOUFxclNTS09LVXV3NF9nb3FHOXkza280blpfelQ1Vy1XeGNGNFdGZmNPTTZLVDJibjZuSk1ucVhSMzJ3NTJ5MUZxaVRiNVVrOWZnZ2hYUlVmMHQ5bHVQUWluWVhyQmtNWnZJMlpGbjJfY1JJQU1VSW5kMVBzQzlXN3kwcDd4TmZrdkxwSA?oc=5",
     "data": "01/07/2026",
     "fonte": "NSC Total",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Solaris conclui cravamento de estacas offshore para ampliação do píer do TESC",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOU1TZVZlZ0xXQ1NrMDhYTzVscV8tdC1nNExIQ3NwbXFuRHFyRTQ5MG1vdjYyejRqQkQ1cTBTc2p0YTQtbW0zT2R3MllxUDQ0eXRScFp6SFRBbTJfV1labVV6VmN2ei0yanBtSHpmcnBRYlVmSl9vSmhZUkhYaEVvYzFUQmdxNjNkOFJKanN2VFdQZGtqZ1BRSXdYR1VGMThGMkxNS2RiejBiaGtac0x6dV85QQ?oc=5",
+    "data": "02/07/2026",
+    "fonte": "FIESC",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
