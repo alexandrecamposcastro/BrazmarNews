@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Conflito na Ucrânia em 1º de maio de 1598: a Rússia ataca o porto marítimo, Kiev ataca vários petroleiros.",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlhfaWV4UDdjN3JURFkwT0JzSkFrNS1JQndZMlF2T3ZnZTFaRFRMaWUwNlpTSkYwOGN1NXczclE0UzRjbEtVQ0xpOHRpRlpxSGxiUDhISGQzVUg2UGJiR1V3UXdYYXJoZFpUZWtENEVNUEx0enRQbXZQZk5PbndMTjR0eFNSNWhiai1tWlhkSDdLbzByd2pzamlscHpjYmJIVzBEX0VMTQ?oc=5",
-    "data": "12/07/2026",
-    "fonte": "Vietnam.vn",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Vídeo mostra colisão entre embarcações no Porto de Capuaba",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUE5zdWxlRmZVY0ROa1ZHU2pEMkpvYkltMXd4VXJCZm1EcGRmX0d5NVdzR2xyNzJvendTRHRCSmlfRTdFbjhhRjdtZDVmZmthRC0zTFRWTy1vV3hfbm1oWFdoUmFKdjczQnk3SVVQdTVJQ05CZmRJcXdIOC1xT1dRcFdpbUZQaGVQaThtQzctdTNKYVY0OExLUlQzbnZ3cGs1VlJj?oc=5",
     "data": "06/07/2026",
@@ -80,20 +70,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Primeiro terminal de contêineres 100% eletrificado da América Latina é inaugurado no Porto de Suape — Casa Civil",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcEthUWdPcUFzSk0tR0ltcVozbklzNXBCZjFid0phNTB5MDVJT3poT1IyQ084bWh5UjlwdVA4Q0Z2RkZhdEQ4YU0yMlJvNm5ObWNKc2MweUV1cnI3RjJpMXhLMDhNNVNNU2Y5encyNVcwdHloSTdYUmV1dXhoTWtpREdpdjZQUHlHMV91eERObVdSQTI4WUhZTzFhSURqNXdKbDhFeWpFdUpkeEhMRG95YXU1bGthYjlNclZ2OFhQVGVFaG9JSnM3eENqTDM3Nng1VUcwUUZqNU14OXRCMXBQT3hwOFJleURmTm55czFIUnljMkk2?oc=5",
-    "data": "19/06/2026",
+    "titulo": "Porto de Suape tem o primeiro terminal de contêineres 100% eletrificado da América Latina",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2hvUy1oaV9mVnE0X2pMNF9qdURlODBSTjhMNzFTa0VpaE81RDNGeU5ZbVQ5d3JWYmI5OUhBMGd3LXI3emo1UW9XNGhwTDdiazBWN1ZBRG81RHh0TTcwem9vTV9VOHF2VEZPTUcyTG1UVTk2clNaNThNOHVlX3VwV3pQcWFRaHhJdExRM3hsMjJ3RVdFVTgyMTE5YnNqNEdFQXJyX3pzVzE0VDc0TkZnYTB2dXZ1N0w3NFNiT2NOY3dfMXhfNm5RY3RHTnhTdWxiUGdTVVdsRi1mZkZQQ3dKUE5qZlN3MWpwTUpTcjNRV18?oc=5",
+    "data": "12/06/2026",
     "fonte": "www.gov.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Companhia ainda negocia devolução de ferrovias à União",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1BQcnY3ZTdOVWVqaWN0V2VPb2JXR3ZKNkR5dXI5NUdycUZZTzF4eUNhck5nb0JVR0o5LU5UeU91emhHd2wwVTV5Z09GczFkZ1pQeG1NY2tnaUlBZkpyMW5ZRHIyTkVFX2hJNnRrdV82ZFdWUFVFUGJzeXFxSEVFcExleTlmUHFsa1hEak50TUlpVE9PNVRHRGRUcXpFWnRfeGhQd1kwUWFoOU5zckxzU3haTDExNHBxeHl5Zg?oc=5",
-    "data": "10/07/2026",
-    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -104,6 +84,16 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3l4Y3A3aXRDdWh6cVM4dGFaUEYtQWptN1pMMXQzSkROSWwzaTRJM2dCNnlSUmtsYmpKdV9yV0ZPUXZyNXRNUUl6TEtEcjZDaUUxZ1lMaER3bEVUbVpFQVFuT2RiYVJPa1VlR2ZOX0ZCRDFhbTZsREs2RFlIc0tPajdyWXlPVjQxZGRJYWpTU0tFLUdvZHozTFdneEZGelJoanFWTXcwWkdNeW9kR0xseFd3YUNuRldQeGR3UUJxSzI4d05aQkhMd3dhbnU?oc=5",
     "data": "14/07/2026",
     "fonte": "Jornal Portuário",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Companhia ainda negocia devolução de ferrovias à União",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1BQcnY3ZTdOVWVqaWN0V2VPb2JXR3ZKNkR5dXI5NUdycUZZTzF4eUNhck5nb0JVR0o5LU5UeU91emhHd2wwVTV5Z09GczFkZ1pQeG1NY2tnaUlBZkpyMW5ZRHIyTkVFX2hJNnRrdV82ZFdWUFVFUGJzeXFxSEVFcExleTlmUHFsa1hEak50TUlpVE9PNVRHRGRUcXpFWnRfeGhQd1kwUWFoOU5zckxzU3haTDExNHBxeHl5Zg?oc=5",
+    "data": "10/07/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -134,16 +124,6 @@
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNamh5R1AzdmE5dUFaZVZLVTR0cld2UmZSSjBZWVRBekJ3MTVZZFI4LXFCNmFMbWYxVFJWT3ZQWWpYM1hTbEtqLTJNb3lVZ1VFLU9pWGoybjJ0blpRZ0VOWVVfcFVQVm9PdUJhVTVkYUdZZGJGUXQwUS12YWhacDlQZ0dqWi1iTU9qdEtSRGdqUGVQWDdLdF9uejVzXzVTSXVkU3p4SldKamVmYzV5SWpDUDJGdGJGV044b3dJc2xLazhzYTZJRUFGVnVxSG9IRjFGOWZNRnJhSENaX0pCdHVwbWRuVlBZLUVrT2c5a1JsZnZadXdIR2x3dTdzZ2lSbEXSAY4CQVVfeXFMTXEyQURVVEVRV0tidEZwaWxkYWw2YTJ4QlEtbDVyVTRuVDFrWUlRcEpUTTFJV2hqamE0Z3ZqTmxKOGFJRVR3blhON0Nhb2ZCQ0NCMnR0Z0huMUEwbjMweF9RTGdRWGV3aW1nQXA1Tk9tTTlBMUNqak93QXhYTzI1QTVsMGpreVowcTBiWVFhckNqYU5NSk81YWZPTTdCZWtZeTFxNFA4dHRob3VtVlRJS2tPd0xnazNvS1FMMXlrNGlWQXN1Um50Yzh6SmVMMmlQOUVfT1h5V3ltN0VkRnp4MXVUUVpFRGVBcU1HcEJLWDJfVHB3U25yVC1ZZUxDazI2SDRQZnlTX1JYVUJmanVR?oc=5",
     "data": "02/06/2026",
     "fonte": "O GLOBO",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Porto de Suape tem o primeiro terminal de contêineres 100% eletrificado da América Latina",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2hvUy1oaV9mVnE0X2pMNF9qdURlODBSTjhMNzFTa0VpaE81RDNGeU5ZbVQ5d3JWYmI5OUhBMGd3LXI3emo1UW9XNGhwTDdiazBWN1ZBRG81RHh0TTcwem9vTV9VOHF2VEZPTUcyTG1UVTk2clNaNThNOHVlX3VwV3pQcWFRaHhJdExRM3hsMjJ3RVdFVTgyMTE5YnNqNEdFQXJyX3pzVzE0VDc0TkZnYTB2dXZ1N0w3NFNiT2NOY3dfMXhfNm5RY3RHTnhTdWxiUGdTVVdsRi1mZkZQQ3dKUE5qZlN3MWpwTUpTcjNRV18?oc=5",
-    "data": "12/06/2026",
-    "fonte": "www.gov.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -240,16 +220,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Portos do Paraná e Cargill alteram contrato para pagar R$ 354,4 mi ao BTG Pactual pelo Píer T",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEc1ckNnZmVOWFdEdGNOejN0YThWWmdQSDVjZXJxNTJtMjhzY29aWHFHdkhqTVYxYnh2WXZBWjNDZFBoa0hFLXNlUlRQRWhQbkxrS0VOVTFXVlVhOVBoUXJPOW9DM2YwZW1vLUJXdjV2Mm00UnExLXM5c0R2bk5jbzdGdXhUcWkwQUswRUhES0dvczBybndDeEEwU3ozVDFUNFE?oc=5",
-    "data": "15/07/2026",
-    "fonte": "atlaspublico.com.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "O maior porto de grãos do Brasil trava no sertão — o trilho que falta está custando bilhões ao agronegócio",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQ2FVNnFqeTNSUEFOX1psa2FIODZORzBjRVgxNGpLYTVnbWdRMXJHUm1TcEs5bTJneFlGWTZ4cEw0aUVrVWp2bzlVX3J6SDA3bWl2bFNVa1AxOThTcVFZRF9TcWpNemM?oc=5",
     "data": "29/06/2026",
@@ -260,10 +230,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Portos do Paraná e Cargill alteram contrato para pagar R$ 354,4 mi ao BTG Pactual pelo Píer T",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEc1ckNnZmVOWFdEdGNOejN0YThWWmdQSDVjZXJxNTJtMjhzY29aWHFHdkhqTVYxYnh2WXZBWjNDZFBoa0hFLXNlUlRQRWhQbkxrS0VOVTFXVlVhOVBoUXJPOW9DM2YwZW1vLUJXdjV2Mm00UnExLXM5c0R2bk5jbzdGdXhUcWkwQUswRUhES0dvczBybndDeEEwU3ozVDFUNFE?oc=5",
+    "data": "15/07/2026",
+    "fonte": "atlaspublico.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Portos do Paraná batem recorde histórico de movimentação no primeiro semestre",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKR2l3eVBXeHY4cXBXVDg0cmJRWkRYbldiZlNHbGk5QlktLTYwM3poWUUydnBEY3lzQUVacXdkR20xa0lHVGhyM2NHeWxuV2RyM3N2NDhIRGxnQzBDdXhjTFFKaHhRMEdXd3l4ZXM3cnlYSTdKVFlWbkNsQ09VMFEwdlJHZGl5LW1kaXZPejlhQzdPc2dRcFM5MFBnSkF6Y1ZiNlhQUlhNNVc1QWZGOWtxRXg?oc=5",
     "data": "14/07/2026",
     "fonte": "DatamarNews",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Portos gaúchos registram maior movimentação de cargas em dez anos",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUl0ald0aGNVSlI1eERzczdDQUxudXJFbHVVeS04TnJ2TlVEY0Z6NUVNZDhTZWtHZDBKN1BGOU4wOWkzOUNzQTJsbjJmNV9Hck5WNmFaQnFicmVseWZRcGNwRUhUQ1FwaHNveGRsZ2pGM1daMWtvbkFiYW1tSm5PS2JrdDRvVmlZejZ3YTJOVjh2cGx2NFA2VDBBSHktNHIyR1RobmF1MEVlVm11NGlB?oc=5",
+    "data": "22/06/2026",
+    "fonte": "Transporte Moderno",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -320,6 +310,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
+    "data": "19/06/2026",
+    "fonte": "Marinha do Brasil",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Empresa é suspeita de entregar documento falso em licitação da Capitania dos Portos do ES",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXBMUXVRYzRpXzEzODdTVDd3RkdNcDlITnN6NVhUcldWR0sxcDlxZmJSNWxwTGF0RHBOWEMtLUJLbGRXZGFnX2JCaFRyM2pqQm5WQy1CZ0xfd1ZGcGRMb2R1c1BJaGNIRE91N09QUzNCZmd6RXEwRlBGMVFsN0hQbEJUalhtOWVMQVUyY3dVcFJ6eUJqbkloUDdybmhWRDZXSUl6WjREalZfdFpaZDhuT1IxMFpIX0lVSWxBdWV3?oc=5",
     "data": "30/06/2026",
@@ -364,16 +364,6 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ281eG1oTjYxRXFab1JXOUR6Y2hNWXJWeWktRGY2djdPcEVvNmVSS2E1X3p3OEhScVBXWXpoVVhPODFSOGdfMlh1VDRxUzBUcVZvVERMTE90WnBjM3UzSDJPdklkNGNheDRvbUE5aThPS2s4YzR4M3lyMWhoTExkbUlTck1ZSWloQmRUYU5MS1ZhRVhjV3J2d1dSSzE?oc=5",
     "data": "01/06/2026",
     "fonte": "Prefeitura de Chapecó",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
-    "data": "19/06/2026",
-    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -580,16 +570,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio de carga atraca pela 1ª vez em porto no litoral do Piauí; terminal inicia exportações",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3Z4RUxlZXhIRjJPVm1kdi1GMEVNQ2w3ZTl0cVBkX2JLV08tcDJ2RUZrZ0FYVU02Q2t5V3N5VnJTcXEyd2ttdW5jOW81Tjc4bk5nNkxaQ3FpZFM4eHlCNEtFd2dKbVREUFAyVkNpZ0R4eEpaM3NwTUt3cHRnOE9LenhXSFnSAZMBQVVfeXFMTV9ac2o3cGFYQWVKNU0zRktKREtRN3JuWTRZbEp6QWs4aHZYQi1rWUtGbFJIZUpRVmJreHYzeFl0NXhuQ2Z1b3dhYXF0UGFKZTNKazFkNl9iNUtFZjhsMHRUWHJnZHNVY1NQcDY3MkpULXY4cmxxV28xUkhRNmZYSEdaaDhnQW1XTXJ3NVYwd1R3Q3Rz?oc=5",
-    "data": "30/06/2026",
-    "fonte": "G1",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Porto Piauí faz primeira atracação de navio de carga no Terminal de Uso Privado",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmNIZGxIZXRnM0tRdllic0lnX0YwYkNRb09McmNmN052VWRKd0ZKdDI3SGhMbjE0c1hseWhpQVJWLWdQRWNRN2Z1cExZZGxqdzBpY3pkTFU0UHFWcFZNV0NRVGZsUHViQ19SNVpCNk5iZ21QVGlkbGFwaVJJejhaQ09rZ0JjRVl1UXU4YUxtYVd3Z3hqektRaktGdGd4b0JyZ3g4VERRZWNTRTROTGVBbC1MdWU5U0xYdGdaazZUaFl6LXV1MGRHNmRJbEhaSlJHS01DUNIB2gFBVV95cUxQVlRSYVZpVHg2aXBHQUxuSU8tOVdDck5kZnNhaXBvNGxhcERxQklWVWx3RWpkeW12M0d0a01yWXdWbnBibFVEcVRKVXFLS3o1anR3TFVBSjRFVGUwaHJYSjl3Nlg1eVRYdC05Y3MyMVNIYUwtdFJISmV4bnBDS2NkaS03YV9YLXNodUdyZ3VobXVib2RiMTdtaFdhbEdiYVVrSzA0UVNUd0ZzTmZyY2RmQlFhZE9aSHdLdFoyTzhCb3BCWnpRU05pSm1UaVJ4QU5xVGFQQWZheTJWUQ?oc=5",
     "data": "29/06/2026",
@@ -744,6 +724,16 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0xnZ0tnbEUyLU9qeEJzdzF5aDlOLTBucnlGWTBPWnM5WE8ya1BRVzhabno2ajZFMm9zeG5EeDY4OEFGWTlrdW5ZNW00NkpIQ0QwaEZiQnJNNHl2c1FOZDFmeUV6czg2M1JWU19JWXN5ZzhQMlpxQ0VLNFNaQURObXg0TkZjcUF5TU1vZ0txZmpFaU9ZMGotcHFPYXZjZ005S2ptTWZJTnpBVTNhM2cyaVNNcEZkcGFOellyTl9SVUJ6NjFZSlM4TFh3Q2VoUGpL?oc=5",
     "data": "19/05/2026",
     "fonte": "Marinha do Brasil",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha coordena operação de salvamento após naufrágio no litoral do Rio Grande do Norte",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWRDcjA0VmdDeHp3RTZtZ2tuV3VndmVDUGlETWtHOGV1MnVnREl3NmNDSk9aR0VWa1dsTjBxeENuS1M1eU9hWnRNSUhnZ2ZRd29iaGlUVzFJTlhLSTdDV040NmZremJiVEx4b2lDSXZCVU9fQUxIZHhOQUFpRS1nRUJER0RMemhuUzJDUzZqR0Q2NUhTUHJPenlzSW42VUJWRWlTWjBGTlhoVkdPd3Q5eDZjOHlQUmVuZFJQUFNR?oc=5",
+    "data": "14/06/2026",
+    "fonte": "Defesa em Foco",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
