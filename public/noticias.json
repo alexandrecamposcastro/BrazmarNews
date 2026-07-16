@@ -70,16 +70,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Suape tem o primeiro terminal de contêineres 100% eletrificado da América Latina",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2hvUy1oaV9mVnE0X2pMNF9qdURlODBSTjhMNzFTa0VpaE81RDNGeU5ZbVQ5d3JWYmI5OUhBMGd3LXI3emo1UW9XNGhwTDdiazBWN1ZBRG81RHh0TTcwem9vTV9VOHF2VEZPTUcyTG1UVTk2clNaNThNOHVlX3VwV3pQcWFRaHhJdExRM3hsMjJ3RVdFVTgyMTE5YnNqNEdFQXJyX3pzVzE0VDc0TkZnYTB2dXZ1N0w3NFNiT2NOY3dfMXhfNm5RY3RHTnhTdWxiUGdTVVdsRi1mZkZQQ3dKUE5qZlN3MWpwTUpTcjNRV18?oc=5",
-    "data": "12/06/2026",
-    "fonte": "www.gov.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Companhia ainda negocia devolução de ferrovias à União",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1BQcnY3ZTdOVWVqaWN0V2VPb2JXR3ZKNkR5dXI5NUdycUZZTzF4eUNhck5nb0JVR0o5LU5UeU91emhHd2wwVTV5Z09GczFkZ1pQeG1NY2tnaUlBZkpyMW5ZRHIyTkVFX2hJNnRrdV82ZFdWUFVFUGJzeXFxSEVFcExleTlmUHFsa1hEak50TUlpVE9PNVRHRGRUcXpFWnRfeGhQd1kwUWFoOU5zckxzU3haTDExNHBxeHl5Zg?oc=5",
     "data": "10/07/2026",
@@ -193,7 +183,7 @@
     "titulo": "Porto de Paranaguá investe R$ 6,8 bilhões para ampliar capacidade e conexão com a Alemanha",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1pTakhhQnBham1EajU0X3ZUSGRQcmxrTEdZRkRIcExwendRZWt2c1BhbENiUnU3Qi1fOU9zcXBJSHFqN1kyNEdPM0M1QUxaTjJJQkM2Y19nQ05vZ293VDNfWGptRjF4Vm9FTXNHWnZSRUlQZHJlajZEZ0RQU3Q2YmdMd2E3eW1faVhXTlQxbm9lMFM5UHlUMmVzMk9kYlE?oc=5",
     "data": "14/07/2026",
-    "fonte": "Mundo Logística",
+    "fonte": "MundoLogística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -204,16 +194,6 @@
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQ2FVNnFqeTNSUEFOX1psa2FIODZORzBjRVgxNGpLYTVnbWdRMXJHUm1TcEs5bTJneFlGWTZ4cEw0aUVrVWp2bzlVX3J6SDA3bWl2bFNVa1AxOThTcVFZRF9TcWpNemM?oc=5",
     "data": "29/06/2026",
     "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Portos do Paraná e Cargill alteram contrato para pagar R$ 354,4 mi ao BTG Pactual pelo Píer T",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEc1ckNnZmVOWFdEdGNOejN0YThWWmdQSDVjZXJxNTJtMjhzY29aWHFHdkhqTVYxYnh2WXZBWjNDZFBoa0hFLXNlUlRQRWhQbkxrS0VOVTFXVlVhOVBoUXJPOW9DM2YwZW1vLUJXdjV2Mm00UnExLXM5c0R2bk5jbzdGdXhUcWkwQUswRUhES0dvczBybndDeEEwU3ozVDFUNFE?oc=5",
-    "data": "15/07/2026",
-    "fonte": "atlaspublico.com.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -250,20 +230,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
-    "data": "19/06/2026",
-    "fonte": "Marinha do Brasil",
+    "titulo": "Marinha do Brasil mobiliza a Capitania dos Portos do Maranhão e garante segurança da Procissão Marítima de São Pedro em São Luís, com fiscalização reforçada",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMkk5MnVYZEtGRmpzc2I0M1diOWlMeGk1UWNLbGVscTdyc0lpTmxqT256SVVQeDYyTTgxSEZXRFNWWFdvRWhpanlPR01KZks2c2ljdlBDY3Eyd192NTU0T2x3bUItc2lnQURVQWoxd0hya1VUNTlMNUk5ZjVSS2E0R1MzTE04Zzk5OUQ4b28xRTgyNXo4RWdvV1dCcF9tM0toWmd2d1diOXlqcGNwS3I0bk1iTXVWUFljRUs2eVlzb0ZaOEtUbnVaZkszcERJQjltR3RyRFItR254azBvSDI3eVBSSzNnZEpkaVVjN2QzdzhHQmRZNWhRcnZKUWNHd082YmZBVnp0Wk51WEtaS1E?oc=5",
+    "data": "16/07/2026",
+    "fonte": "DefesaTV",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Marinha reforça segurança da navegação no Ceará durante campanha nacional",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEpXZF9JVVR1V0UxRWlHb2JZUU1HcDNlZ1FHVWVHTzdIbzFGbFRZeTRBakp2VGV4dU5VenZlajZTLXJOSFJlR3d2bFZGc0pMZWpCY3NSUlB5bWNoNFVtVVZJUXlYSEFBdVBwRnkyazdGNVRkeTNlNEYyNFoyblYyX214TmlDZ1N0NzF2RGlXZkt6M1NkYWNWeE11OE00TWNjR3IzZzZhMUhEV0p4YW5j?oc=5",
-    "data": "14/07/2026",
-    "fonte": "Balada IN",
+    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
+    "data": "19/06/2026",
+    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -280,10 +260,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Marinha abre vagas para curso de pescador em Chapecó",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ281eG1oTjYxRXFab1JXOUR6Y2hNWXJWeWktRGY2djdPcEVvNmVSS2E1X3p3OEhScVBXWXpoVVhPODFSOGdfMlh1VDRxUzBUcVZvVERMTE90WnBjM3UzSDJPdklkNGNheDRvbUE5aThPS2s4YzR4M3lyMWhoTExkbUlTck1ZSWloQmRUYU5MS1ZhRVhjV3J2d1dSSzE?oc=5",
-    "data": "01/06/2026",
-    "fonte": "Prefeitura de Chapecó",
+    "titulo": "Marinha reforça segurança da navegação no Ceará durante campanha nacional",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEpXZF9JVVR1V0UxRWlHb2JZUU1HcDNlZ1FHVWVHTzdIbzFGbFRZeTRBakp2VGV4dU5VenZlajZTLXJOSFJlR3d2bFZGc0pMZWpCY3NSUlB5bWNoNFVtVVZJUXlYSEFBdVBwRnkyazdGNVRkeTNlNEYyNFoyblYyX214TmlDZ1N0NzF2RGlXZkt6M1NkYWNWeE11OE00TWNjR3IzZzZhMUhEV0p4YW5j?oc=5",
+    "data": "14/07/2026",
+    "fonte": "Balada IN",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -614,16 +594,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejBGVUxHVEFzY2dPOEg3d1NnNjFJRFBVTDdGWnJpU3RINW94QS1Bdlk4U0JFNHJISFY1N01ETkJZakJSR3gyRmRfSzlaaW1zSk9obmcwZ01QSkhWWWhNSHp0Q2J5XzJIX2h2MmxrWFRCRTE2WlYwclpwUGt3dGhfcUEzZVo2UDRKQllIaHNNd1c3SjlhZVpxb3hIeTJxaENxN1o5Q2ZmUHpBSVdrWmgzdFRJdDEzRExXWE9HYWNoM3J0dmM?oc=5",
     "data": "27/05/2026",
     "fonte": "NSC Total",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Polaris e Vale montam plano para retirar combustível de navio encalhado no Maranhão",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTllOTVNVV9HSXloZ1k5blBIQlI4SjgzaHlBMTh6cTgxVEtNOHI0QUpBckg0VjBzeW80YUxOQ1VHc2o4Vkd3bDQ0bzJUN2VaMVBGUjFmZ2tnZE5rNjJhdEVzNHU4b3QycHlUQU8wVUhraXByZ2lnLXA4c3pWOURXcEM1Rkk2WXJwNzZfNFJIQVhHd1o3WG9BQ2MxaERkNHRYYURtYWhsU19BeDFvVmFyVThnelNRcUJKXzdYVUd1VlJjalV6OTJOY2ZBb1ZKWFVnT09BTQ?oc=5",
-    "data": "02/06/2026",
-    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
