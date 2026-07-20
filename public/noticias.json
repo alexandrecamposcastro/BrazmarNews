@@ -40,6 +40,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Ataque russo contra navio mercante com bandeira da Guiné-Bissau faz pelo menos seis mortos",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdnN1T0tuZC1kVkZIcUF6cndmU21TN3RJZjlkd1RTcFpqa3RIRmdIWFJiSmxiVkt1Qkw2WWx3Qi1BX0pwNGpzTmZzb1F3Tmg0eGZ0VGpMN2pLREZDN3k2Y2ctUGdNci1QbmhranRZbGttXzlJRDFSNGhrUmw1Q19GVnZiT3NDaW94Y0JvTFlEcm5MbkoxbmpfcEVoaXFKR3FXNHVERHVuN3lLbjZ1elo4OEpndUtQQ0ZfaXUyZ1ZrLXdkUnhpZkIwcGU1M2tOQ0xQQTM0QTlzRGNOcXhoOWc?oc=5",
+    "data": "20/07/2026",
+    "fonte": "Expresso",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto do Itaqui reforça parceria com praticagem do Maranhão para ampliar eficiência e segurança",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZzZIb09aZWJxdG5DbmZjRzFCOURBc2RMV2xKM3RnN3FyT1I3ZGtpWkFVLVgxSjVUYUktQW5nLVNXY0lCekFfUTdEZTE0REtQQV9JZUpBYkxSNzBvaV83eG1zR0JuTjcwa3llN3ZQc285RkxfZXJKb3BlODdxeE8yZEU5QmREaGMyNGZLbUd0Y0xvSmw0UUtJN2g3QnRUdkFQMUlHOHEzYmhvY19qWXNkaWhDOFpfYVFmMGNrZmVTbWo0cGVHanRZSDF4NHNITmh6bkZWMEtRSEFudk54dzh5eW9FZGlhLUxPLUVxcg?oc=5",
     "data": "05/07/2026",
@@ -190,6 +200,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto de Paranaguá está entre os projetos aprovados para receber financiamento naval",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWxya29HSXZNN0JqaTlmaWgzdmxWSTY2QnFlanVkNzhxZ3lxdUk4RFJud3J2S05NdUNqSXgta2QyZWJTSHlRd0xyOXNXUHNrRHZlRVJGelFHcE5vR1JRWHpDczRoby1RelU4aHRtQU1KUXd5Yldzd0lRYlFDRF9qWWhqX2trMHZBMlBfaERvblRQQWRCODhFckpnekVhLUs0andSQ2dRUkZOZnhZY1UtUGNKTDhVYTFPdlZZOFQ5MTfSAcYBQVVfeXFMUDNQMk9pQ2U1SG5nQk5WaWU5bkNpUVpXNFNxZ2g0OXRYU2dvUkdsR1Nqam9DRkstbDNfVFVFY2s3ZGtvT2lWV3ZoeFBHRE9neFlxbTFBckltemw2VlhjMEUxVWZkUExoRlJ2c2dvanBCUGhPTWlXMmpEV0xBQnE4RjUxTUZCaFR0c0lTbGtTblNWcHkxLWd5YVV5OU9oRU95bmlRTVhzYmctQ181anRvWXpaS1FLaEw0X25ITks4WnRBTlVOXzZB?oc=5",
+    "data": "19/07/2026",
+    "fonte": "Bem Paraná",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Paranaguá investe R$ 6,8 bilhões para ampliar capacidade e conexão com a Alemanha",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1pTakhhQnBham1EajU0X3ZUSGRQcmxrTEdZRkRIcExwendRZWt2c1BhbENiUnU3Qi1fOU9zcXBJSHFqN1kyNEdPM0M1QUxaTjJJQkM2Y19nQ05vZ293VDNfWGptRjF4Vm9FTXNHWnZSRUlQZHJlajZEZ0RQU3Q2YmdMd2E3eW1faVhXTlQxbm9lMFM5UHlUMmVzMk9kYlE?oc=5",
     "data": "14/07/2026",
@@ -270,10 +290,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Relações institucionais: TJAP participa da solenidade da passagem de comando da Capitania dos Portos no Amapá",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa01RTTQxYk5NdkFfczdFSkZmQ2pCWnNzelJndnZ1SXJFNjVLYWc1MHRuUmw1eVpVNHB2Y0tJbWYzbHU0NlNscWsxTC0xWjhjbXhpY1I1OXBmdUV1eWZSZEZzQ28wbEQ3RnhlYXItMmlMU2hVdkd2WGFvOVZZZXV0YXlBUWtKWXRpSGpYZzFUeW1lWFZkcWlVZ2dGcXQ0U1NNWlFuT1JBNjdua0pTOVFURllydEoyNXdFTllhb3ZDVDIwTEdBdWtFLS1vdklfUFMtU1pRbURjQQ?oc=5",
-    "data": "17/07/2026",
-    "fonte": "Blog de Rocha",
+    "titulo": "Maior navio de guerra da América Latina atraca no Porto de Santos; veja como visitar",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDVQRXJDRm5OZlZsaTVSM2R0VzJQUUFleE8wa1ZKZ2plSURqX2FQSXEyUTJ2LWYtM201SU5VbDlWcGJUTVFYRmdVdk5vblUwTXpKUjBZNTRUUFJMZXRFTkhCTE9GNFpjUHJ2MnA1SGlUSzNUNU02aTJMc296RTNfOU1mTnVHaHNGTWgtTzBIYmlwRlFWWUVpdERFdkF2ZW1lNDlVbDlKTWQ4cDJFX0h1MVNGSXFMeDdzN0xxa2xmcFFLUXE5dGdZcVdULUQxQU1sVUl5LWxPXzVzQWRTaTZLYjhQOU93V2NaT3laeA?oc=5",
+    "data": "16/07/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -324,16 +344,6 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ281eG1oTjYxRXFab1JXOUR6Y2hNWXJWeWktRGY2djdPcEVvNmVSS2E1X3p3OEhScVBXWXpoVVhPODFSOGdfMlh1VDRxUzBUcVZvVERMTE90WnBjM3UzSDJPdklkNGNheDRvbUE5aThPS2s4YzR4M3lyMWhoTExkbUlTck1ZSWloQmRUYU5MS1ZhRVhjV3J2d1dSSzE?oc=5",
     "data": "01/06/2026",
     "fonte": "Prefeitura de Chapecó",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Maior navio de guerra da América Latina atraca no Porto de Santos; veja como visitar",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDVQRXJDRm5OZlZsaTVSM2R0VzJQUUFleE8wa1ZKZ2plSURqX2FQSXEyUTJ2LWYtM201SU5VbDlWcGJUTVFYRmdVdk5vblUwTXpKUjBZNTRUUFJMZXRFTkhCTE9GNFpjUHJ2MnA1SGlUSzNUNU02aTJMc296RTNfOU1mTnVHaHNGTWgtTzBIYmlwRlFWWUVpdERFdkF2ZW1lNDlVbDlKTWQ4cDJFX0h1MVNGSXFMeDdzN0xxa2xmcFFLUXE5dGdZcVdULUQxQU1sVUl5LWxPXzVzQWRTaTZLYjhQOU93V2NaT3laeA?oc=5",
-    "data": "16/07/2026",
-    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -410,16 +420,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Artigo",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRElKMC1QbWtVaEc5YUlPS2c5LTd4R2VkM3VqTW9zb2VQOG4zVzZzNmtuSmo2Zk5kRW5yQmQ0WGNQeW5SMk1XR3U1cllNeHpIbEFrQnJEM1Q2Ti1GMnEyanA0X2QyczE4YmhkNmVfNy1KN2E0ai03NjJlWTNhdklCRG81UW9zbS1wVTVneDEtanRqUkJkRjhwdXlWeVR5UHFXMzluNnIxZ1JlWGhkdnloTDdUSkJ4Q1kwRHFBc2tad2dab2Z2a0VvZFdrbnBvZk5GNTNCZS1GbEhMd0t6a1Bv?oc=5",
-    "data": "22/06/2026",
-    "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Kuwait diz que drones do Irã atingiram fronteiras e plataforma de petróleo",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0U5NVZZWm5DYURaaGxKY0NqdzcydW1mMC05TzRvSFJKZmpPamFfQmRrb18yRDhnWTFwVW4yNGZQRWxId0s4bWtkZWlscFBhZW93RUt1VGJSVGJudERlckZweDE3MElhdkluQ0hfTDU4ZzBfR2xONjZLaXhUT0NXUzUtZTBJQmFqWUtBalFieXY5S3AwYWhHUEtCM2NjWl93MnI3V2ZYazJHM1BXMFpNT0hmaEMxRkh2U0E?oc=5",
     "data": "12/07/2026",
@@ -430,10 +430,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "STF mantém regra que flexibilizou emissões em plataformas de petróleo",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEh5R1FoamhBV1NWMk51bnI1LXhlZUNYekhWMlVkR01zRDFSbXFyZWR2dUtQU0FnTklFSjByU3pKRWt0aWxMQktNT09TNFFuTEJVcG5wUXNHaExlMElmbVk1VGNsX2tHeXRreEtxaUJLMWNsXzQtR2hPN18zakEzZDlfbjg2N2VhVkltd29aSnVvRjAyRXRDeXNjZ1FQOFdWNHBaZlpObi1HUTlWQk9PTHN3?oc=5",
-    "data": "16/06/2026",
-    "fonte": "Migalhas",
+    "titulo": "Artigo",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRElKMC1QbWtVaEc5YUlPS2c5LTd4R2VkM3VqTW9zb2VQOG4zVzZzNmtuSmo2Zk5kRW5yQmQ0WGNQeW5SMk1XR3U1cllNeHpIbEFrQnJEM1Q2Ti1GMnEyanA0X2QyczE4YmhkNmVfNy1KN2E0ai03NjJlWTNhdklCRG81UW9zbS1wVTVneDEtanRqUkJkRjhwdXlWeVR5UHFXMzluNnIxZ1JlWGhkdnloTDdUSkJ4Q1kwRHFBc2tad2dab2Z2a0VvZFdrbnBvZk5GNTNCZS1GbEhMd0t6a1Bv?oc=5",
+    "data": "22/06/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -454,6 +454,36 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTU5UX2IyQjBBbGwyY1U0cUhDZjJDem5nbHBWTHlLd1RkbFlBU0k1dVdOYUVfT2VXaTlpNFlmVHUxMUF5U05SeVBVVmNWTWVMdHZLNzFhOG1GQld0MGo0LVozSVV5elhBRXZvN09fUnJTZmd1Tl9UczFPS21MRnJ0bzRTOVZwNU5NRDZWV3VzOUhUQVIzTFZQb0s0WUNkVlA5NlVmbHZuOU44LW1mVWxkYjRsZmtIcXdtQ1hrWlN1UQ?oc=5",
     "data": "22/06/2026",
     "fonte": "Correio Braziliense",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "STF mantém regra que flexibilizou emissões em plataformas de petróleo",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEh5R1FoamhBV1NWMk51bnI1LXhlZUNYekhWMlVkR01zRDFSbXFyZWR2dUtQU0FnTklFSjByU3pKRWt0aWxMQktNT09TNFFuTEJVcG5wUXNHaExlMElmbVk1VGNsX2tHeXRreEtxaUJLMWNsXzQtR2hPN18zakEzZDlfbjg2N2VhVkltd29aSnVvRjAyRXRDeXNjZ1FQOFdWNHBaZlpObi1HUTlWQk9PTHN3?oc=5",
+    "data": "16/06/2026",
+    "fonte": "Migalhas",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Petrobras fecha contratos bilionários para expandir frota de navios em novas plataformas offshore",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1ZNbXV1NWV3TnpGZ1RSek9xSTlwOVM1UkNIWGU1QXlLWDZXY3NpZUsyeGpaWTB0d1ZQaThIMERGVWFKRG96emJuVkltR2htWUVrdTRIOGNRQTFtZjZ3RGlqNWVpN2FDSzBDZE9LdEYtcG5Fa3JkcmJiYnlIMU5hWDlrUVI1YXU4ZHlqd1ptazNDSkc0V2pPa1F2cXY2WS1sR0tyT1RJMXA4aUtMdEhzSDRROUl2azlKdFBQVnRPamVkb1pEZVBERy13U1BkUQ?oc=5",
+    "data": "05/06/2026",
+    "fonte": "Revista Fórum",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "STF julga flexibilização de emissões em plataformas de petróleo",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkgtQTZaQnZ6UUdwX2VrT3JaUnJyYWt3RWsxb2dVNlpQNlZLQm93ZVZvQkppUm5zbkFhc1hjaUZieTBMNDZUVGFnSGxOQ3BGZnlEejl5RGdZM0xSSzhCbGdaZmI0M3FaZXFnbXozWHlDVENScXRUckxzaXBIMzRHWloyUk5YelFYSVpNNk9zUzVRVmtXcFpIeUYxRFJSMUNsTndEMVNTQkt6QQ?oc=5",
+    "data": "12/06/2026",
+    "fonte": "Migalhas",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -484,16 +514,6 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXczRVR2THRvNVQ2emd3bkFnTElKNFJiSWNzMzZWOFFFVlVaNFhSRzBWNVctWlpmQk5BNHc4RTlySXBnUFlVemtVY00xbVZraU1IUmpSVDJNcksweF9Kb3dyV0t0eW5YSUNzN2JtYzdJOWVyb2s2TExhOTBoSFhiTENvdTlSSkR2VTRzLWdQQmd5eDM2NkxXdERSU3Zwbmc0VnJqTlpUR1ZGaVY2SHR4Uk1YUWdjQWFsY2tjcGFLRG9fbnBrblJsdg?oc=5",
     "data": "01/07/2026",
     "fonte": "R7",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Pequeno perto de cargueiros gigantes, esse barco usa tração, propulsores direcionáveis e força precisa para controlar manobras delicadas",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZjBLVkp1X19GUTRLZVdSaXZ0WHNHMWVseERvMFF3a2Y5WDNuaG9peEJuMXhTeGd2bXZkU2VRUzZmV1JkR1l3RjR0M1VoV3NKeENNbEpucTR5RmZXakhrQ0VhOVdKekhNMzZBUXQySGhNZjRySVhlZ1RFTVJ5eG1hX2lYTlNoNXV0ZFFZcE1ZWmpPZmZLYkVJckNFbTVlYlhqNEF1dnNROS1tNXdqRTR6dm85UWhqUFZraWNjSW44ZGt2cTRTUG9aWGl6U2dLR0o0b1Y0OHVqOHZMY1lkSXpmeFpIY19MdTJFQWV2SzdPbFNHbmxtWmJfRHJZMzhvekkzOWtrQThQU19qSWtBa2lpbTNXaw?oc=5",
-    "data": "04/07/2026",
-    "fonte": "O Antagonista",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
