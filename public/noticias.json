@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Embarcação afunda no litoral do RN e tripulação é resgatada por navio holandês",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWi1ta1BRNXROM0pxVFBIX2pYZ0duSVhfbVRSeVlNNEk4NmtLcUl2UUhGRWNtbmRHY3kxckNURW8xLUF1OGYzNUk1ZEJmajNhTmdWWm4wOFQ2ZjdwNjhMSms3dW1qdzNhUVNzZHJuekJOMGFDTXV1WTcxUVloT0duYzROYmYzN1Q0ck9ERzFfY1hEZU9TbWR5QlMxNGZEZ3JLNEpmSUFFWEswU183MlRsNFI0YzZJQllTczZwRGFBSk5aZFh4ZkNRVg?oc=5",
+    "data": "14/06/2026",
+    "fonte": "Tribuna do Norte",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Ataque russo contra navio mercante com bandeira da Guiné-Bissau faz pelo menos seis mortos",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdnN1T0tuZC1kVkZIcUF6cndmU21TN3RJZjlkd1RTcFpqa3RIRmdIWFJiSmxiVkt1Qkw2WWx3Qi1BX0pwNGpzTmZzb1F3Tmg0eGZ0VGpMN2pLREZDN3k2Y2ctUGdNci1QbmhranRZbGttXzlJRDFSNGhrUmw1Q19GVnZiT3NDaW94Y0JvTFlEcm5MbkoxbmpfcEVoaXFKR3FXNHVERHVuN3lLbjZ1elo4OEpndUtQQ0ZfaXUyZ1ZrLXdkUnhpZkIwcGU1M2tOQ0xQQTM0QTlzRGNOcXhoOWc?oc=5",
     "data": "20/07/2026",
@@ -54,6 +64,16 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnZiS19pV2ljN01WTjZja2pCRElHdHgxckZ1RnpxSk02Q25rS2pLM0RWY0tGZTN4Nk16ZFRISkxjMlZDRVJFMm81V2VvbjdzcFEzMS1hNWZ2ejNlX3R2aHBpWmhTZEMxR08tcTFDNWNTWmozaVZzQ0ZHalFWcjVPSWtNaGMtUkRQZEt6UGwybzNXb21jbGk0Q3lpamE3dnlFVHR0QlpOZEprTDNWbEp5YS1ycWpjSnNQczdabjBJNmJUX0dHY3BR?oc=5",
     "data": "14/07/2026",
     "fonte": "Jornal Portuário",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Aumento de ataques de tubarão é consequência de inauguração do porto de Suape, cujas obras afetaram a vida marinha",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNamh5R1AzdmE5dUFaZVZLVTR0cld2UmZSSjBZWVRBekJ3MTVZZFI4LXFCNmFMbWYxVFJWT3ZQWWpYM1hTbEtqLTJNb3lVZ1VFLU9pWGoybjJ0blpRZ0VOWVVfcFVQVm9PdUJhVTVkYUdZZGJGUXQwUS12YWhacDlQZ0dqWi1iTU9qdEtSRGdqUGVQWDdLdF9uejVzXzVTSXVkU3p4SldKamVmYzV5SWpDUDJGdGJGV044b3dJc2xLazhzYTZJRUFGVnVxSG9IRjFGOWZNRnJhSENaX0pCdHVwbWRuVlBZLUVrT2c5a1JsZnZadXdIR2x3dTdzZ2lSbEXSAY4CQVVfeXFMTXEyQURVVEVRV0tidEZwaWxkYWw2YTJ4QlEtbDVyVTRuVDFrWUlRcEpUTTFJV2hqamE0Z3ZqTmxKOGFJRVR3blhON0Nhb2ZCQ0NCMnR0Z0huMUEwbjMweF9RTGdRWGV3aW1nQXA1Tk9tTTlBMUNqak93QXhYTzI1QTVsMGpreVowcTBiWVFhckNqYU5NSk81YWZPTTdCZWtZeTFxNFA4dHRob3VtVlRJS2tPd0xnazNvS1FMMXlrNGlWQXN1Um50Yzh6SmVMMmlQOUVfT1h5V3ltN0VkRnp4MXVUUVpFRGVBcU1HcEJLWDJfVHB3U25yVC1ZZUxDazI2SDRQZnlTX1JYVUJmanVR?oc=5",
+    "data": "02/06/2026",
+    "fonte": "O GLOBO",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -150,16 +170,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Super Terminais encomenda mais 3 guindastes para expandir operações no Rio Amazonas",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek43Q29NbEt4SDZZb2NRNVJxTFIyLS02cFd4QzNNcHZOVXNoQUUtOGFWcHNyeW5WWHFKelZxaHZ3M1duTXcwTEMxbm5wSTFUSmdnNzZaeHdTTTZvM3hiVGM0ZjhzRXhocXhEdElrd3U0dXh4a1BHaHJyQXh3Q1NzTDdKazNzcHM1blJRdVFHRld5Smt1dHB0T19wbUw5STdPRC1KSm9qem1Ua25pM29Mbl9mOHE1YWNBdVE?oc=5",
-    "data": "24/07/2026",
-    "fonte": "Portos e Navios",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Navio encalha durante manobra de saída da Barra do Porto do Rio Grande",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0xFdzlxdlFCWmdvVnM1ekZHR3MtbFJUTTFwdFBrR3RxU0lmcS1nelY5em5QajB2NTF1VEdHRW1VVVF5Uk5lYkxhRFlBaTU3RzY0ekdiS2loTkxUYXZCOVJrM3pQT24tTmhvcWNpdm9WMHpGdUNPQkxCRWpmMFFCYkxvSEhpYVRJOFdUcTE1RC1BM0RzSURScE9LblJzNVZmb1FfSEViclAxb01wSldzTTlYOS1vLVM4RUxNYlUtRjA5d25Ucmt0WGZLdFFZVHllYUNFdnB5ZnA?oc=5",
     "data": "24/07/2026",
@@ -240,20 +250,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitão de Fragata Thiago Muniz assume a Capitania dos Portos de Alagoas",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDhnUXdHaUVRZHBSUXZERkdkYS02V1ctUnczTE1VZDNPeUZZR0czcmRqTXQ2aTQyekl6QWIyZlEtcjhITDZXVjF2aDB3QTJEUWs0MmtqX0xQcXRLVkhvX2tST29GdW1sdFpWM0hSTG9DOENsWENLVWNnN1czTzdEOGN3V3V3RXVPNEx6eEd0OHRqSnhjODRZR1F1d1c2Zk45am5WUGRScTV3b2x6YTlWT01OSdIBuwFBVV95cUxPZy1DMVVaQnF5TWtMZXpPbmYzNmE2XzBDd25ydjJoTFV2VVVwLUlqN1NEN2tOdVVMWklxSTFvQXlyZ0Y5U2dvX1VpMkdod0tacVNycndTN0ZUUXpNTXpJcGdPOVlId3FLcUJDakZlY0tZdVA4S2xibnNKdmlxUG1pMG9KU3lnRmNybGlRQ0FYUHV3dksyU2VMdjJBVGtEX2IzNi1xRUZ6allCUEQ4c3YybWxuUkYzbWVNWXE4?oc=5",
-    "data": "24/07/2026",
-    "fonte": "GazetaWeb",
+    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
+    "data": "19/06/2026",
+    "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Capitania dos Portos do Rio Grande do Sul celebra 180 anos",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQm9IS3Ntak03V3o0bVhWeDBkRmhmb3ZUb19HdWF1ZUlhbmliMUc1aV9VTEdsVjRZSG9UQUtNMUcyMTFLX09JUG1PM3NiUkxheHc?oc=5",
-    "data": "19/06/2026",
-    "fonte": "Marinha do Brasil",
+    "titulo": "Capitão de Fragata Thiago Muniz assume a Capitania dos Portos de Alagoas",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDhnUXdHaUVRZHBSUXZERkdkYS02V1ctUnczTE1VZDNPeUZZR0czcmRqTXQ2aTQyekl6QWIyZlEtcjhITDZXVjF2aDB3QTJEUWs0MmtqX0xQcXRLVkhvX2tST29GdW1sdFpWM0hSTG9DOENsWENLVWNnN1czTzdEOGN3V3V3RXVPNEx6eEd0OHRqSnhjODRZR1F1d1c2Zk45am5WUGRScTV3b2x6YTlWT01OSdIBuwFBVV95cUxPZy1DMVVaQnF5TWtMZXpPbmYzNmE2XzBDd25ydjJoTFV2VVVwLUlqN1NEN2tOdVVMWklxSTFvQXlyZ0Y5U2dvX1VpMkdod0tacVNycndTN0ZUUXpNTXpJcGdPOVlId3FLcUJDakZlY0tZdVA4S2xibnNKdmlxUG1pMG9KU3lnRmNybGlRQ0FYUHV3dksyU2VMdjJBVGtEX2IzNi1xRUZ6allCUEQ4c3YybWxuUkYzbWVNWXE4?oc=5",
+    "data": "24/07/2026",
+    "fonte": "GazetaWeb",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -494,6 +504,16 @@
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd2E3NmswUHBoLXZSQTJTRVdaQk05TEN0bm12azVMZG9yN2NpS0RYQWI0Q2ZkTTg5SzdkcDdWcUFudFZsUkFpZkhkMDZrRkx3ZWItOWFYanBoX3VkNGd0bTk2bDR5Qi0yanR5ZkF0bnJkQ1FFby1sb0lwS0xXeno1UXhUVGRLQUhrdWV1NEI0NUNEWU1oNUVUZll1X1JyeHVnM19xZ2tESkdwM3BpXzFvbnc5LVBHNmgyeTZFWlVlVmdjVVgwdVdGN25OZGUxT3FRQzJUdkJ5azlCVVVIZFFHa3JxMkJGbm9lMGtfaWd1STgwWENodHVV?oc=5",
     "data": "30/06/2026",
     "fonte": "NSC Total",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "O buraco negro dos contêineres a \"Demurrage\" que ninguém consegue explicar",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRU9hU0ZxRS0wRkJ4d2h3X1NEMEVycHhMell0WTNnVFIwaHRsbi11ZnRpdGQ3Z0RGLUp5a3NPSTk4c0h4UDByQzhId1EzQ3hRZDZUUUtHcFVLSkRUaUYyN0JGNmpEVF9LcUsxQTVQR1J4a3NFYUxISUtuekxudHFTVVRqZ3RHVVhSVjBFa3V1dklJRHlucUpPNmZlTnJVamRyU3BVTVlIVHJRYTVyY2ZYeV92U0s?oc=5",
+    "data": "06/07/2026",
+    "fonte": "Jornal Portuário",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
