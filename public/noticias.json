@@ -150,16 +150,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Ventania paralisa o Porto de Santos e suspende a travessia de balsas",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmJzX0hEdS1xZG11bFc0dHZwTFI4dzU3VjRGaE5Bck9LdUkwR3dLQVZncHU5SWRROEtzbk43QjlMb3ZvSFRPakpOS2FrNFJzM0JLRklocjhEY2VVU0xmRWo1YVdjdGhmR3RSS2MzcVpTWkwzMHFhRDVINWpNWGNuQ3lDVncySmpBY3BDRjh0Z2k3Vk53Rm8zWmNob2NnRFMyT2VaVC1YbTlmX2VtQlhySWJMRkNnRW9oWVNRVEtBMmJnODJmUzJKdXNrVElzXzJibUJhUTNmYlJCWTBFUUJ0bDFVeGpHYmc0MDFGSNIB-wFBVV95cUxNSHByQzV2TUFhSk92Z0cyYl8wVGdEZlRVdU45My11LXZiaXJDa2pXWGNYajh3UHVqVVVfZVlZb01jUFU1QTZLb0RLRDh6NVY4b2JJOUdCU3dJWnB4QTNzcV80NFl4aFNQdzROZkhhOW1HdVRTVHNBRnJBVTdYeTRQN3ZIUTV6RHl4MF8zVlhxV016V3VWVGlNaHRjWXFpMGFscC1WbmNOR3o0UDczOTZ3WG5jRHR4NG9vSEF5UERDSHV0dnJtYnVjWmU4NTJqN3J3aDBxM1NVMFRMbFZVWncxUWJULVU0LTNMcTQ2d29sMGE1b1lUeEpvLXNTcw?oc=5",
-    "data": "22/07/2026",
-    "fonte": "G1",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Armac inicia nova operação em terminal de granéis no Porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRldOU0tncVR6b2MxbkF3RWkwZEZHR0V5Vm1jdFZiMVVrdklyNGNVdVhVTlc5N3JiS2Z4S2I0MkpxOWlkWmFuSkNhdTYteWlPZ2xDbEFQZXE4UkNnRWx5SEVoUzcwMVVsMzJ4TGtkbVB0YTZFcGIyaTJxMXl3UGFOU2ZKRHBwVDVpY1EyNUZFblhuTHhzZmJjUEdEc2cxSjJoTThCSC1ROHA2Vi0wNG1MMExNTU5BTDNGbFU1Z0JZTGJxWUU?oc=5",
     "data": "19/06/2026",
@@ -174,6 +164,16 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNElfU0htVXhGbGFYVEk1U1VnQ0F5WGVRczd1Mm83aWxqQjBEcnVsSHhmT2JQUDNIUjBjUWJJQ05DWlNTWW1MMFZ3Wkl2NDhLT1laTUJ6VVMxaUtXZlg0RnFWeF9wQ1RMS0ZKMm5UNXYwUk1MMkFQUmE0S2ZSaE1sU0psWTRJeWF5czFZako5TUJLR1VfWG9lSU9vTXZzOXNtM2p0STdkOFhnZXFsb2JINXhIZ19HckFuRlhzeEJROUxWN2s?oc=5",
     "data": "03/07/2026",
     "fonte": "CNN Brasil",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Ventania paralisa o Porto de Santos e suspende a travessia de balsas",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmJzX0hEdS1xZG11bFc0dHZwTFI4dzU3VjRGaE5Bck9LdUkwR3dLQVZncHU5SWRROEtzbk43QjlMb3ZvSFRPakpOS2FrNFJzM0JLRklocjhEY2VVU0xmRWo1YVdjdGhmR3RSS2MzcVpTWkwzMHFhRDVINWpNWGNuQ3lDVncySmpBY3BDRjh0Z2k3Vk53Rm8zWmNob2NnRFMyT2VaVC1YbTlmX2VtQlhySWJMRkNnRW9oWVNRVEtBMmJnODJmUzJKdXNrVElzXzJibUJhUTNmYlJCWTBFUUJ0bDFVeGpHYmc0MDFGSNIB-wFBVV95cUxNSHByQzV2TUFhSk92Z0cyYl8wVGdEZlRVdU45My11LXZiaXJDa2pXWGNYajh3UHVqVVVfZVlZb01jUFU1QTZLb0RLRDh6NVY4b2JJOUdCU3dJWnB4QTNzcV80NFl4aFNQdzROZkhhOW1HdVRTVHNBRnJBVTdYeTRQN3ZIUTV6RHl4MF8zVlhxV016V3VWVGlNaHRjWXFpMGFscC1WbmNOR3o0UDczOTZ3WG5jRHR4NG9vSEF5UERDSHV0dnJtYnVjWmU4NTJqN3J3aDBxM1NVMFRMbFZVWncxUWJULVU0LTNMcTQ2d29sMGE1b1lUeEpvLXNTcw?oc=5",
+    "data": "22/07/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -224,6 +224,16 @@
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOENOaGw2cDlyQkNmNEZiZDVxMjBzYW5wdlFNTDhOeFhKcmJncFFDelRmd0lONzM4SjRMa200a3U0OXFJZFNjU01kVHdkZlV1bTB3NDNnYlpUem1UMGFwSnpzVG1OQk15OGxJbDd0d0FMMWJuSkZwLWU1eDQ2SDJZcm01d041eGdySl9HWDZ2dlloLUFTYTJBZ0EtUGZnRnUxQmkzYTBrdG9iYUQwS3NwNUNsZUJsZVJ4TFNhOGJnMkViTjZMU3B5bWhSRFh5bkcyN0hDcHY4cHZ3eUVmekJFRWE3UmhkUHBoLUNwQ090WWtOVlNoSW9sNjJmb3k?oc=5",
     "data": "28/07/2026",
     "fonte": "GZH",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Navio encalha durante manobra de saída da Barra do Porto do Rio Grande",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0xFdzlxdlFCWmdvVnM1ekZHR3MtbFJUTTFwdFBrR3RxU0lmcS1nelY5em5QajB2NTF1VEdHRW1VVVF5Uk5lYkxhRFlBaTU3RzY0ekdiS2loTkxUYXZCOVJrM3pQT24tTmhvcWNpdm9WMHpGdUNPQkxCRWpmMFFCYkxvSEhpYVRJOFdUcTE1RC1BM0RzSURScE9LblJzNVZmb1FfSEViclAxb01wSldzTTlYOS1vLVM4RUxNYlUtRjA5d25Ucmt0WGZLdFFZVHllYUNFdnB5ZnA?oc=5",
+    "data": "24/07/2026",
+    "fonte": "O Litorâneo",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -344,6 +354,16 @@
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kb2lsRkVOQWNYOGRibnhvU205ZFlLM1B1MmpiWEptazZ1YnRWZFNZY1c5Um1yQnl4aXM2RXUxSF96X1BudVA5dW9xMGJoQzhmV2h4WDhHa0hCSWpLQVh6TWlpOGRpTnZZTm1EMHdPZTBfZjg?oc=5",
     "data": "01/07/2026",
     "fonte": "mattosfilho.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Acidente real no Porto de Santos inspira audiência arbitral no Summit",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUJCUmtRVmozVUhoLVQ2R3NQYkpYLUdqQ3hHTGN2ZmhxbmdnS2RkOFZXZ1BFY181SGl4a1BES05UM1ZnZ0xwVmt3c2lLNkljZktINzN2NEl0NTc0dkdTOEdhNXVhR2l4MVZLa3dPNmVWUVVtQTJOMUtLeXA3TFBmaEN4alR6Y25laDR4WDI3UVFKaXZjQTd2LUQ4YzBDWllFUkozemk2bDZUaGVQZk1fYm5aMTdNSVB4ZmJFTm1NTQ?oc=5",
+    "data": "18/07/2026",
+    "fonte": "A Tribuna",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -600,6 +620,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Navio quebra-gelo de 128 metros dos Estados Unidos deixa manutenção, sofre falha grave durante testes no mar, perde condições de navegar sozinho e precisa ser rebocado até Seattle, enquanto reparos extensos ameaçam missões científicas no Ártico",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSHRWd0hrdXpwYzlTZWhfcVpmNF9pLUxhZHV6X0FmZXZGdzlnSDdZdjZRMHNqcjZYY0tKNkVYWTV0dFBoZU1RazhIS0NHTFZKT0FqdlJwY3ZVOFR3bElON1VDekl0TGFmYVlWZDVrdDdsSndIVE5sbVZvMm9CNVJzalFfX3Nfb3Zyc1QyVC1pOG53UlV4STZFbEtXUDJWcm1pTl9yRHVxS0lON09VQjZjMGJNVzlXdmJveml3Sm0xYU14VlgtOTVzT1FIa0cwaFdEYlUyYTZXekRacWpmS1phc2JCMVZRbUhmS1FfS1E4cG1kUVFaWmttcnZaSWhvQ1hQUXBJcGtvRzZOV2k4U21NRjNYRnhwQXBiNTZwY2VxSFFxUWZrMkJnUF8yMDlhdnlDQ2pHdEhMY1JScjNjTDBEbmFPSHN4ek0?oc=5",
+    "data": "26/07/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Ao sair carregado de grãos de um terminal no Canadá, navio de 225 metros encalha diante da cidade, atrai multidões, precisa mover água de lastro e recebe ajuda de dois rebocadores para voltar ao rio",
     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNY2NtVkljSTNmdUZOR0YyclQ4ZEgtdFlJUURpbTZsT2paQ19jbXc3OEZ4b2swXzA5TmNEd3lJYXpoUThKbzQybVNoZ0cwd0dMZUN5djNBTWVPTkI4UWtwLUtSRWFKRlk3ekkyNUhLUlhyRExEc0dOMXZIUURCb2RsbWV6TnhvN1E4YTJDV3NWRHdma3JkZV85WDAwMkdOQjZDX2hvaF8yV052REo4aF9mN0UzWnkxTXcyT2RSVklVRndsTXd6TlR2YjBFWmU0MVgwUXNjSTRZLUxGTUNpLUhFNU56SWdwblJZV0NPd2gzbVRrZ1ZJZHdSODlZOUgzbEZhYjMtSHdhbHFqYU1QUHppYXo0UEN0VS1UcUFKendsNGxGT0Z2T2dGNWJmUjk1bjB2aml3b2JkUkFLZjNxa2tvY1oySjM1ckU?oc=5",
     "data": "26/07/2026",
@@ -634,6 +664,16 @@
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMkk5MnVYZEtGRmpzc2I0M1diOWlMeGk1UWNLbGVscTdyc0lpTmxqT256SVVQeDYyTTgxSEZXRFNWWFdvRWhpanlPR01KZks2c2ljdlBDY3Eyd192NTU0T2x3bUItc2lnQURVQWoxd0hya1VUNTlMNUk5ZjVSS2E0R1MzTE04Zzk5OUQ4b28xRTgyNXo4RWdvV1dCcF9tM0toWmd2d1diOXlqcGNwS3I0bk1iTXVWUFljRUs2eVlzb0ZaOEtUbnVaZkszcERJQjltR3RyRFItR254azBvSDI3eVBSSzNnZEpkaVVjN2QzdzhHQmRZNWhRcnZKUWNHd082YmZBVnp0Wk51WEtaS1E?oc=5",
     "data": "16/07/2026",
     "fonte": "DefesaTV",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Marinha coordena operação de salvamento após naufrágio no litoral do Rio Grande do Norte",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWRDcjA0VmdDeHp3RTZtZ2tuV3VndmVDUGlETWtHOGV1MnVnREl3NmNDSk9aR0VWa1dsTjBxeENuS1M1eU9hWnRNSUhnZ2ZRd29iaGlUVzFJTlhLSTdDV040NmZremJiVEx4b2lDSXZCVU9fQUxIZHhOQUFpRS1nRUJER0RMemhuUzJDUzZqR0Q2NUhTUHJPenlzSW42VUJWRWlTWjBGTlhoVkdPd3Q5eDZjOHlQUmVuZFJQUFNR?oc=5",
+    "data": "14/06/2026",
+    "fonte": "Defesa em Foco",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
