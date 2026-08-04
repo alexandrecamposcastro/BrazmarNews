@@ -1,19 +1,9 @@
 [
   {
-    "titulo": "Embarcação afunda no litoral do RN e tripulação é resgatada por navio holandês",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWi1ta1BRNXROM0pxVFBIX2pYZ0duSVhfbVRSeVlNNEk4NmtLcUl2UUhGRWNtbmRHY3kxckNURW8xLUF1OGYzNUk1ZEJmajNhTmdWWm4wOFQ2ZjdwNjhMSms3dW1qdzNhUVNzZHJuekJOMGFDTXV1WTcxUVloT0duYzROYmYzN1Q0ck9ERzFfY1hEZU9TbWR5QlMxNGZEZ3JLNEpmSUFFWEswU183MlRsNFI0YzZJQllTczZwRGFBSk5aZFh4ZkNRVg?oc=5",
-    "data": "14/06/2026",
-    "fonte": "Tribuna do Norte",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Corveta russa afasta navio alemão durante escolta de petroleiro da ‘frota sombra’ no Báltico",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQXBmMkJTMWZRN2R5SHFqSnUyQm1jbXBwWVV3dTcwX3Z3OGFGYlZwcHVSWGZTZGhYWUdfSlVpS3BsUUFsQ1dsWjVCd3RacWFUTjl5cjNpd0dsVWZNblhKTy1PWngyU3NrWjRqYlBZRmlIRkJZRU8tdlA2am9ybmlzUVNCLXZ6RVk0LTNiNGlOVFJsRVNFeDlrNVliWkZTX1NqMW84VEc0eGdYc1Fybkp6RGRGLXRJYVF2NGZHMlJ6Rm4xUGd1R2REellJa2M?oc=5",
     "data": "02/07/2026",
-    "fonte": "Poder Naval",
+    "fonte": "naval.com.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -64,16 +54,6 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWx2Z3didGRJTFpLY1pDNmRtZEF6SFBGUi1zb2hFZkdFSTB5RzBoZUlXQ3JYa2t5dE1aSXI2dXBPT3gyWVkzcmhKUUZPbEhnNm4yRk00LWNvMFJQRElzNlNYZXFpbWVJai1sMkF1a2VQWkxaUDNjZXgwb1JYQ2dGRHFNeG1zNXFhWEZBS1diQy1yenBvNmQtcElPTVVJRUdkZXJjSUNOUVMxbURBNEx4d3dkRTJNd0Q0ZUIwQURHYm5LdDhqYm92QtIB1wFBVV95cUxORVBHZTNhaUU5cFloTGwyNDIxcGtCOTZmVmd0bS13dkZJOGVOR1VYemFvTGZVOVU2Y091WGc3em9Bb0pPOGlQdS1BQlFCdjBfSUY5MmpNX0F5M01uVXlmUTl4RVVGam9XUzNQX2hfZlV5OS1WVmJzYzQySGhpc24wR2VaUWtrd2Q3NFhMMkJ3UGNlaE02LVlOVDZaR3ZNN0NfVTFqLUMxS0JDNEFtNzduU1kxZUE0dEJRaHVqM3JvUVR3S09CYm1jSk5RQmJmZHZDdC1kdHNOUQ?oc=5",
     "data": "27/07/2026",
     "fonte": "G1",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Trabalhador fica ferido após acidente no Porto do Itaqui, em São Luís",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFRjbzROeW1iSUVWWjNac1pKOVpkSnRuSkMtSXRvNFRPQWFDNklNOUlWSG0yMWI2bmZSUThCOHZWMGhVeTBCc0FMQWRuV25OQ1BtS1RxYVdrckZCOUpEVlFTVDhwQkN2X3FkNzF5bXgyelBSaFJ6V3l5UlBEQ0dOek9ha0tUTk5WTVVPV0NtcmZobTQ5RHFfemxDUmVOUHZ5U0owdDhVOW82czlFVC1UNWZyMElJQnBIMVNTZDZ3?oc=5",
-    "data": "27/07/2026",
-    "fonte": "O Imparcial",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -170,19 +150,19 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Nevoeiro invade litoral paulista e Porto de Santos fica fechado para navios",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNElfU0htVXhGbGFYVEk1U1VnQ0F5WGVRczd1Mm83aWxqQjBEcnVsSHhmT2JQUDNIUjBjUWJJQ05DWlNTWW1MMFZ3Wkl2NDhLT1laTUJ6VVMxaUtXZlg0RnFWeF9wQ1RMS0ZKMm5UNXYwUk1MMkFQUmE0S2ZSaE1sU0psWTRJeWF5czFZako5TUJLR1VfWG9lSU9vTXZzOXNtM2p0STdkOFhnZXFsb2JINXhIZ19HckFuRlhzeEJROUxWN2s?oc=5",
-    "data": "03/07/2026",
-    "fonte": "CNN Brasil",
+    "titulo": "Ventania paralisa o Porto de Santos e suspende a travessia de balsas",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmJzX0hEdS1xZG11bFc0dHZwTFI4dzU3VjRGaE5Bck9LdUkwR3dLQVZncHU5SWRROEtzbk43QjlMb3ZvSFRPakpOS2FrNFJzM0JLRklocjhEY2VVU0xmRWo1YVdjdGhmR3RSS2MzcVpTWkwzMHFhRDVINWpNWGNuQ3lDVncySmpBY3BDRjh0Z2k3Vk53Rm8zWmNob2NnRFMyT2VaVC1YbTlmX2VtQlhySWJMRkNnRW9oWVNRVEtBMmJnODJmUzJKdXNrVElzXzJibUJhUTNmYlJCWTBFUUJ0bDFVeGpHYmc0MDFGSNIB-wFBVV95cUxNSHByQzV2TUFhSk92Z0cyYl8wVGdEZlRVdU45My11LXZiaXJDa2pXWGNYajh3UHVqVVVfZVlZb01jUFU1QTZLb0RLRDh6NVY4b2JJOUdCU3dJWnB4QTNzcV80NFl4aFNQdzROZkhhOW1HdVRTVHNBRnJBVTdYeTRQN3ZIUTV6RHl4MF8zVlhxV016V3VWVGlNaHRjWXFpMGFscC1WbmNOR3o0UDczOTZ3WG5jRHR4NG9vSEF5UERDSHV0dnJtYnVjWmU4NTJqN3J3aDBxM1NVMFRMbFZVWncxUWJULVU0LTNMcTQ2d29sMGE1b1lUeEpvLXNTcw?oc=5",
+    "data": "22/07/2026",
+    "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Ventania paralisa o Porto de Santos e suspende a travessia de balsas",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmJzX0hEdS1xZG11bFc0dHZwTFI4dzU3VjRGaE5Bck9LdUkwR3dLQVZncHU5SWRROEtzbk43QjlMb3ZvSFRPakpOS2FrNFJzM0JLRklocjhEY2VVU0xmRWo1YVdjdGhmR3RSS2MzcVpTWkwzMHFhRDVINWpNWGNuQ3lDVncySmpBY3BDRjh0Z2k3Vk53Rm8zWmNob2NnRFMyT2VaVC1YbTlmX2VtQlhySWJMRkNnRW9oWVNRVEtBMmJnODJmUzJKdXNrVElzXzJibUJhUTNmYlJCWTBFUUJ0bDFVeGpHYmc0MDFGSNIB-wFBVV95cUxNSHByQzV2TUFhSk92Z0cyYl8wVGdEZlRVdU45My11LXZiaXJDa2pXWGNYajh3UHVqVVVfZVlZb01jUFU1QTZLb0RLRDh6NVY4b2JJOUdCU3dJWnB4QTNzcV80NFl4aFNQdzROZkhhOW1HdVRTVHNBRnJBVTdYeTRQN3ZIUTV6RHl4MF8zVlhxV016V3VWVGlNaHRjWXFpMGFscC1WbmNOR3o0UDczOTZ3WG5jRHR4NG9vSEF5UERDSHV0dnJtYnVjWmU4NTJqN3J3aDBxM1NVMFRMbFZVWncxUWJULVU0LTNMcTQ2d29sMGE1b1lUeEpvLXNTcw?oc=5",
-    "data": "22/07/2026",
+    "titulo": "Marinha realiza exercício para simular cenário de guerra no Porto de Santos: 'Temos que nos preparar'",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaFY3VHZOYUlDNGx6UlhvcUlQcDRzckw2UmtvTnRoZDFYemMxS18yOGw0WTBLbnB0RlpvN1d5TE1lYzdoUlYtajFrSVlDNTR6OGtBZzhBTFBqR3Y2eEJBMEhFMDA1M0xBaXlnWHNLVkJ3VFlxYmJSYmxuVUZpaXFXck9BT2RoZmtSSU1aTjZScXIzTjhfOTkzYXJvWUZ4VHJVWHpmZTZBNE5CTTlnNE1ENDVuMVhTYkxiWGgwank2dGhsSlF6U1NLUUFLWXB3T1ZMN01JN2RXV2hXOEVWM3hBUnloeFkxVmJCYnV3YjZfVEhvaGPSAYICQVVfeXFMT1dZeTd4dWFJaldrS3V0ZmlaQ2V5dU9yQzY4SjBaVlh0NGFvM0wtZll0UFE5SWJFZm5BQldMSWp3N0paci1vZkxsMnhTR2FORC1HaGZOTThxV001TUFGRXdTX2xMN1FWYWJQWWV2NzZpZnV5VUwzcThFQXJxck8xYnRKenhTbmxYTnIyX1VnSEhCR0hhMVQyMWVKelhwWUpZT0xmc3F6YmpUMlgyVXoxWEl2YkM3U1hwLXFrS0hkbmxBcFRoRk9zRDF1bzh4Rm1WSHpLZENNWXBsM0hNM1U2a2c3dXBGXzlrdi1VTmdfWTBBM3JKZTFVWUo0b1VuWFRpLWNn?oc=5",
+    "data": "19/07/2026",
     "fonte": "G1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -303,7 +283,7 @@
     "titulo": "Capitania dos Portos de Macaé abre inscrições para curso de formação de marinheiros",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGdreEpKaWZ0R1I0M1o2V3YyUEk0X1RtTjlzRTJFcGtBVkw5ckR6Wm9WbUVzUUR4UEt3VEp2LVR4emxuRmZSMXNZcmprS19CTExqS2w4YzZLQWdJWS1FUE52NGQ3ZG53NHNfWVc1bGFlalVKRHlfcXJyeGNOUjlpSDk4Zko3TUZQamZ6NTdWclNHOUhZQU1YQjlKNWZzbVRSZ2w4NjVONllsNFNEcVBWa0tJcUk1YXh0TFE1ZmU4NTBHY1BNbWZjdjEwc0Y?oc=5",
     "data": "13/07/2026",
-    "fonte": "francesnews.com.br",
+    "fonte": "Francês News",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -323,7 +303,7 @@
     "titulo": "Secretário Radamés Passos prestigia celebração do Dia da Marinha na Capitania dos Portos",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNanZNbWJVUjljVWhCVHVPWnBJNE5tWlNWRDZNandNUXFpWGpZdG1tR1Ytanh2VXpqcldjUzhzQmczbjNHZm1hV0ViVXRXVkI2OUJvMFkydEpqV3pHV1NpTklIRUM0aHdEOTUtTjhyeExyUTNvMjJDSzRHbGEzUlUtQjdrMXZXZWtyODQxclpJcWFTdFU0THFlUUpOX3RKMTFPS1dLYmI2b21xS0pSN3F4eWFhaW9jQWlKQWs1SmpXOE9HMTFXcWRsbllRdHNmY2tVbkc1enFR?oc=5",
     "data": "10/06/2026",
-    "fonte": "aracaju.se.gov.br",
+    "fonte": "Prefeitura de Aracaju",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -380,18 +360,18 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Acidente real no Porto de Santos inspira audiência arbitral no Summit",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUJCUmtRVmozVUhoLVQ2R3NQYkpYLUdqQ3hHTGN2ZmhxbmdnS2RkOFZXZ1BFY181SGl4a1BES05UM1ZnZ0xwVmt3c2lLNkljZktINzN2NEl0NTc0dkdTOEdhNXVhR2l4MVZLa3dPNmVWUVVtQTJOMUtLeXA3TFBmaEN4alR6Y25laDR4WDI3UVFKaXZjQTd2LUQ4YzBDWllFUkozemk2bDZUaGVQZk1fYm5aMTdNSVB4ZmJFTm1NTQ?oc=5",
-    "data": "18/07/2026",
-    "fonte": "A Tribuna",
+    "titulo": "Petroleiro da \"frota fantasma\" russa abordado pela Marinha de Itália",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMm5OU2k0eUVQaGwzSTFQN2oyaEYzWTNfQUR4bjVPOXZnZTJBazFaWUFRYU1tN3NIc3VMc1oyeGdyR1ZuekU1X21DMkJscENvcU1xOWJSSzE2czZwb0VxY0pmdnF2RzhleHV4amJ1b0dnSS1KS1VKNTF4ZHV4dC1iWF9nTm1McEhsSHZTakF0UWZoVnBIaC1peUFocWI2WTRXQzJEbzVHaTZNQkVjOUhIMA?oc=5",
+    "data": "03/08/2026",
+    "fonte": "Euronews.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Petroleiro da \"frota fantasma\" russa abordado pela Marinha de Itália",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMm5OU2k0eUVQaGwzSTFQN2oyaEYzWTNfQUR4bjVPOXZnZTJBazFaWUFRYU1tN3NIc3VMc1oyeGdyR1ZuekU1X21DMkJscENvcU1xOWJSSzE2czZwb0VxY0pmdnF2RzhleHV4amJ1b0dnSS1KS1VKNTF4ZHV4dC1iWF9nTm1McEhsSHZTakF0UWZoVnBIaC1peUFocWI2WTRXQzJEbzVHaTZNQkVjOUhIMA?oc=5",
+    "titulo": "Vídeo. Petroleiro da \"frota fantasma\" russa abordado pela Marinha de Itália",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEJiNE55eWgzVWNwbEh1MW1QYjFWVFlhYXFNYk5QWGFOM0JSc1JtSXQweDF3VTJwZ2NQOE4zLS1fMHBWSG45UFVncnVhblh6LWtBWXZRMm9TcEFlSFJBOVpMa2NPbFJPU1RNay1naDB1RTRHbXozZDZQYVg0SXk4RjdOREpJMkt1WGc2WW5zNV8xeS0zNWVFa0tnRFlCRFpSaDhESzduRXo0Z00?oc=5",
     "data": "03/08/2026",
     "fonte": "Euronews.com",
     "risco_pontuacao": 0,
@@ -450,8 +430,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Plataforma offshore DK1/10 resgata pescadores.",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HQ2UxckNJU2M1MXcwOU9DZ2JZazBzUTZ6bS1aM3VGcEFocUEwOTdSdzhDbjA4a1BWV0V6Z2pNRkZJOXhRUUJqSng1ZVVaTWtOcVNha3RvVWtjMWhObG9WOVZsR2p6ZTRQ?oc=5",
+    "titulo": "A plataforma offshore DK1/10 resgatou prontamente um pescador que sofreu um AVC no mar.",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1BvOFdRZkxaQnJyYjRtTk5UMFpiQ2R6SUhKQTBwdXFvRHpPakRZYkF0QWw0dDVnU3JkNmdsdzBaZkpPNGJFX1o0czFMTXpxOThKSmlrS2I1WlVQYTJLdWNBX1JOUWdwMVhScmpPbVk1a3R2clZxVktzWFYtbFIzSXpqamprUDJ4VmNhLU51YTM?oc=5",
     "data": "03/08/2026",
     "fonte": "Vietnam.vn",
     "risco_pontuacao": 0,
@@ -483,7 +463,7 @@
     "titulo": "STF mantém regra que flexibilizou emissões em plataformas de petróleo",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEh5R1FoamhBV1NWMk51bnI1LXhlZUNYekhWMlVkR01zRDFSbXFyZWR2dUtQU0FnTklFSjByU3pKRWt0aWxMQktNT09TNFFuTEJVcG5wUXNHaExlMElmbVk1VGNsX2tHeXRreEtxaUJLMWNsXzQtR2hPN18zakEzZDlfbjg2N2VhVkltd29aSnVvRjAyRXRDeXNjZ1FQOFdWNHBaZlpObi1HUTlWQk9PTHN3?oc=5",
     "data": "16/06/2026",
-    "fonte": "migalhas.com.br",
+    "fonte": "Migalhas",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -540,6 +520,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Porto do Itaqui atualiza norma de atracação e desatracação de navios",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdndrQ3ZoLUUxOW9YOEtYNVBsbmpLYk5JeFhQMkw4ZEJPRFM3Wndab0xHSW95TnRfMXVYeHRGb1FKWGpLTUxmZm9LelpMcXY1VDNqUWJwQTJkUkxCdzlWNUFMUFdhd0dpeFRIeVpYcnYwS3o4REJZWVNiZm84R1ZkNzNzNzhKTE90Mmw1WjZ6X0xoMVVfUVF1czJESno?oc=5",
+    "data": "03/08/2026",
+    "fonte": "PortalPortuario",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto Piauí tem 1ª atracação de navio de carga no Terminal de Uso Privado",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2J0WlFFOC1OZVJCV1p4X2RPTEl3ZkZnakNLU20yNXhqcG0wUXNzZXNnRmxETWpDcFkyblRtMWdObFNCQ2VKMEtqX1ZtRTdiaUpBNjhCcVN0V2o5LUtDQXlUMlpucGw4TWNJTl8wRlduYzljY2Y2ckt2RmFIQnYxZE93ZGVXNzY2Y3lhal9qSmFSbGRvM1MybGsyTmtpZUlRVEJfNHhCMU5xX0lqQXJQTzNlUG1VQ1VWQy1PNkRnNmxPWjN4V09HSVVQTWRaWjBw?oc=5",
     "data": "30/06/2026",
@@ -563,7 +553,7 @@
     "titulo": "Porto Piauí faz primeira atracação de navio de carga no Terminal de Uso Privado",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1ZxcWlrbml5VmZuOGZlMjM3UUpiVktPUlppY3ZrMFdJZTFwYTcydGswVDZicUtaXzJ2Z01DcC0xeDNJZVVrblNWRXI2YjhPbXdZcEFTcEI3cW0ySVVMR3E3RGJRN0cycTNiN3hVZWtRQ1M3U1pYSmc5aUV1SmI3VDh4ajhCR3NsblZTN2tBNHVzTW1nUkZkcXdfdmlsZmdBam8xWVM2Z1QzQWtFdXc?oc=5",
     "data": "30/06/2026",
-    "fonte": "Hora Piaui",
+    "fonte": "horapiaui.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
