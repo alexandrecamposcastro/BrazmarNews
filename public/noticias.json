@@ -20,6 +20,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Mancha de óleo ameaça reserva marinha em Omã após petroleiro sancionado encalhar",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmdRZ2I1OENEeUN5SGhvbEJwaWdKSkR0bVFaZEFYWTFLM0RlbzU5STBvSTRyQjZCemh4bERrVnh2Nzhpc3JaMlVRTG9DRkpvYnRqVUNPTVRtWTloYUpNRUtGSVU1ZlBHQ3d4b3o5eWFFX2VqbEhxWWVXN1BWcm5wa1daQWEwZXdJTzQzY2cxb0ZZQUVyUEtQTHhKQnFBb1RJMUNRb1NxbTl3MC1BVHhVMnBuMA?oc=5",
+    "data": "12/08/2026",
+    "fonte": "Brasil 247",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Navio petroleiro explode após atingir mina naval no Estreito de Ormuz",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkN2YUx4Vm9LLU1sazlwZ04zeEt5R0J5TjM1Zmh4RmhVcjBxZi1BRUo3YUMyeXFXd1FyRFJJX2o2WkNZSWtYOU14MnFSLWpqUWhJLW5aVGk2ekZRSk91WGd0RjlNQVFmcjJuVEIwTHVHLVFoV3I1OXJPUkFOcW1UaUdpaVdHWWFxcTUzSFA2ZGItbzJzNEprMGRycmRkUGgzOHhhR2c5S0Z4aGlXU01SOG1oRQ?oc=5",
     "data": "26/07/2026",
@@ -43,7 +53,7 @@
     "titulo": "Vídeo mostra colisão entre embarcações no Porto de Capuaba",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUE5zdWxlRmZVY0ROa1ZHU2pEMkpvYkltMXd4VXJCZm1EcGRmX0d5NVdzR2xyNzJvendTRHRCSmlfRTdFbjhhRjdtZDVmZmthRC0zTFRWTy1vV3hfbm1oWFdoUmFKdjczQnk3SVVQdTVJQ05CZmRJcXdIOC1xT1dRcFdpbUZQaGVQaThtQzctdTNKYVY0OExLUlQzbnZ3cGs1VlJj?oc=5",
     "data": "06/07/2026",
-    "fonte": "folhavitoria.com.br",
+    "fonte": "Folha Vitória",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -63,7 +73,7 @@
     "titulo": "Navio colide com embarcação no Porto de Capuaba",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2hTUUZsN2k1ZFdLWXNtU3k2bGotUDhwdjZRbzNYVlotZG5oNkxSSnlMQ2NLSFB3N2dPeFhZc25oLTNRZDlrUmktRWljQ0UtaGpKYUFlaG1RSXZvNi1sRHAzWWozWFZ0aHQ4ZjhrSS1JV0VtcDk1bXNtR3ZOMWlFM0tMNVk3TWRtaWJWbHU4d0tNQXVfRW9lcm91STBYUWhySExHM3Y3S2dlWlRvWHBF?oc=5",
     "data": "04/07/2026",
-    "fonte": "folhavitoria.com.br",
+    "fonte": "Folha Vitória",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -150,30 +160,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Portos brasileiros registram crescimento na movimentação de cargas no primeiro semestre",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS1BsRnZtRk4wcmd5SXJWOHBmWEJyYzlOWnpTajlqLUVMcUIxaDB0VUliRHVad2xkbEJSbG9vV0VNZ1kwS0RwemhGOXYtdUtXdnY5U21uTjhuUUxhY3hUb2o5RGJZcEZxdkVCcnh2a0U2cHl4S2ptZ1RKZnZKNzZoMHFsYUZwREJjVDc2SUt0Tm1aTjhWQzQyWkVSMXltNXh2Yk5Nem5HQTR6cWtnYmNGckN5LS1QVkEwZDl6NG9oVkplX2hvSER5UEJkbVM3U09oMElTZzlYazlkcHlj?oc=5",
-    "data": "05/08/2026",
-    "fonte": "Tecnologística",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Após inaugurar TUP, Maersk tira carga de terminal público em Suape",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGZrSEtqdjFUcEUxWVZKS1lKMDAxRVBBNWctWkxRZC1Odnh3MVpidFdzOVFPOHpqVGRRV05nd09EeVJGam9MQkhoUXBubFZmeDZwb2ZGYkVaRzhBQUFVVDNOdll4QVNWejJMYk1OWGZvV0Z0LXlyM0szekt2dE8xcjF3Qzc5eGZkTUVVZ25sY3FzT1EwQTJnb2dtejM?oc=5",
     "data": "05/08/2026",
     "fonte": "Agência iNFRA",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Suape tem menor índice de atraso em contêineres entre 12 portos",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZU1teW81Snk1Ymt2Q0F6NVRhS29EM1dmVk94ME5Lbm51emZPbDBvaTlzSnhOUHRVQzg2a29KWW1FMWxsZ3FreHJsc21sVFRqNXZja3BjR2ljZ2NjVHJmXzA5dU1MdE52VzBoTFRIZlZ3TFk4bTVQZGhaQkNMaTRRZkZqdlpaa3EyV2tVeWw1bVVpdWxsLWUtNU5OUHdXeDJ5U3pwY0VrUQ?oc=5",
-    "data": "05/08/2026",
-    "fonte": "Portal BE News",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -230,16 +220,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Armac inicia nova operação em terminal de granéis no Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRldOU0tncVR6b2MxbkF3RWkwZEZHR0V5Vm1jdFZiMVVrdklyNGNVdVhVTlc5N3JiS2Z4S2I0MkpxOWlkWmFuSkNhdTYteWlPZ2xDbEFQZXE4UkNnRWx5SEVoUzcwMVVsMzJ4TGtkbVB0YTZFcGIyaTJxMXl3UGFOU2ZKRHBwVDVpY1EyNUZFblhuTHhzZmJjUEdEc2cxSjJoTThCSC1ROHA2Vi0wNG1MMExNTU5BTDNGbFU1Z0JZTGJxWUU?oc=5",
-    "data": "19/06/2026",
-    "fonte": "Tecnologística",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "O maior porto de grãos do Brasil trava no sertão — o trilho que falta está custando bilhões ao agronegócio",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQ2FVNnFqeTNSUEFOX1psa2FIODZORzBjRVgxNGpLYTVnbWdRMXJHUm1TcEs5bTJneFlGWTZ4cEw0aUVrVWp2bzlVX3J6SDA3bWl2bFNVa1AxOThTcVFZRF9TcWpNemM?oc=5",
     "data": "29/06/2026",
@@ -284,6 +264,16 @@
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3NUTUFrNU5CVjY5VWUyeThLNTZOX0lVVWVjY0NqNEFtTUp2Wmt4YVRkODBIWjBnbG1lOTRGaHY0dTllUnVoTXRVYWdvZzhSUG5ubllxZWdlLVJ0bmFWN09GclNtaTlZdGFRQl9xVFlyWmtIWmRGYXF1SVRzb3g3bmRQVWcxRmRCakE2YnExOA?oc=5",
     "data": "18/07/2026",
     "fonte": "radiocaicara.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Obra bloqueia trecho da Avenida Val Porto, em Rio Grande; veja os desvios",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOENOaGw2cDlyQkNmNEZiZDVxMjBzYW5wdlFNTDhOeFhKcmJncFFDelRmd0lONzM4SjRMa200a3U0OXFJZFNjU01kVHdkZlV1bTB3NDNnYlpUem1UMGFwSnpzVG1OQk15OGxJbDd0d0FMMWJuSkZwLWU1eDQ2SDJZcm01d041eGdySl9HWDZ2dlloLUFTYTJBZ0EtUGZnRnUxQmkzYTBrdG9iYUQwS3NwNUNsZUJsZVJ4TFNhOGJnMkViTjZMU3B5bWhSRFh5bkcyN0hDcHY4cHZ3eUVmekJFRWE3UmhkUHBoLUNwQ090WWtOVlNoSW9sNjJmb3k?oc=5",
+    "data": "28/07/2026",
+    "fonte": "GZH",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -440,16 +430,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "A plataforma de petróleo mais antiga do mundo virou uma cidade no mar ligada por mais de 200 km de pontes",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXhrUmNwb1FhNS1UaUdHRmNIU2QtU18zRDRpQ3Y3a3NlWjNnX1ljbzNtNnA4SkFmRmZ5cE1fS1RhbDdSVHlPVFQwNFE3X3FKcXVmdGUwdkd5TVBhMnZ6Tko3RndKNmV0akNYWmpfd1ltNmJ2Mi1sUFd3eVZ0ZkExRjZKbmdHdmh5UXN4UWxtTjJxTEx6am5EcXRTVHVlaERlaTZ4bDZzVVV3dm5fMG5mNGRYN281TFd0QlRsek5YeEJNTTNfTUY4WURuYncxdmszeVk5OUNPLVg4MjRBMFpZd0tRRml2WmhqelVhWHNjSQ?oc=5",
-    "data": "03/08/2026",
-    "fonte": "Olhar Digital",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Artigo",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRElKMC1QbWtVaEc5YUlPS2c5LTd4R2VkM3VqTW9zb2VQOG4zVzZzNmtuSmo2Zk5kRW5yQmQ0WGNQeW5SMk1XR3U1cllNeHpIbEFrQnJEM1Q2Ti1GMnEyanA0X2QyczE4YmhkNmVfNy1KN2E0ai03NjJlWTNhdklCRG81UW9zbS1wVTVneDEtanRqUkJkRjhwdXlWeVR5UHFXMzluNnIxZ1JlWGhkdnloTDdUSkJ4Q1kwRHFBc2tad2dab2Z2a0VvZFdrbnBvZk5GNTNCZS1GbEhMd0t6a1Bv?oc=5",
     "data": "22/06/2026",
@@ -553,7 +533,7 @@
     "titulo": "Porto Piauí faz primeira atracação de navio de carga no Terminal de Uso Privado",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmNIZGxIZXRnM0tRdllic0lnX0YwYkNRb09McmNmN052VWRKd0ZKdDI3SGhMbjE0c1hseWhpQVJWLWdQRWNRN2Z1cExZZGxqdzBpY3pkTFU0UHFWcFZNV0NRVGZsUHViQ19SNVpCNk5iZ21QVGlkbGFwaVJJejhaQ09rZ0JjRVl1UXU4YUxtYVd3Z3hqektRaktGdGd4b0JyZ3g4VERRZWNTRTROTGVBbC1MdWU5U0xYdGdaazZUaFl6LXV1MGRHNmRJbEhaSlJHS01DUNIB2gFBVV95cUxQVlRSYVZpVHg2aXBHQUxuSU8tOVdDck5kZnNhaXBvNGxhcERxQklWVWx3RWpkeW12M0d0a01yWXdWbnBibFVEcVRKVXFLS3o1anR3TFVBSjRFVGUwaHJYSjl3Nlg1eVRYdC05Y3MyMVNIYUwtdFJISmV4bnBDS2NkaS03YV9YLXNodUdyZ3VobXVib2RiMTdtaFdhbEdiYVVrSzA0UVNUd0ZzTmZyY2RmQlFhZE9aSHdLdFoyTzhCb3BCWnpRU05pSm1UaVJ4QU5xVGFQQWZheTJWUQ?oc=5",
     "data": "29/06/2026",
-    "fonte": "gp1.com.br",
+    "fonte": "GP1",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -573,7 +553,7 @@
     "titulo": "Porto Piauí recebe primeiro navio de carga e inicia nova etapa da operação portuária",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHRDZ3Z0TE9RTkdFYnJQTDk5RjZsTEpuUV9yZDE4N1JNbmpxT0VacVRCYTBrbHV1YmNFRFh2dFNxM2tOalM3REpJOGxEVE5VM3ZGZUotRmtMTl93bGxOWG1fRzlXTjc0aFl6S1A4XzQzZ2lKQWFlYTYzcDNKcS1tQ3BXdnVOT0ctYjJoVkpJTXJyRG10c0FKVGdMUHNsUUtvZlZOdEdCXzVaUmFVTlVaZUI4NU91Y1JJdkNZ?oc=5",
     "data": "30/06/2026",
-    "fonte": "URB News",
+    "fonte": "urbnews.com.br",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
