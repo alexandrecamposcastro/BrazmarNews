@@ -120,10 +120,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Com restrição a incumbentes, Antaq aprova edital de leilão de terminal no Porto de Itaqui",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVFoOG8wSWduazBkb1FwT044c21MSjltU1NiYW85VFpxeGZqTjFsT3cyVmxhMFRZeFRia2RnUXpNcU8zQ2pWeFBtYnY2dkN1bXlpQUJxd1dzaVdJd05sdVlHUlQ0THhmdWVaYmFxUHhQLUZQeTNKbDB4cnRqU0h6UURSc0hQbnk4dmhGWWlRaFBHRGZLNGFtMWRKM1JpazJoNERtT0N2Z3RWckNxUHBVSWNNekJSR3VPdDM1dE1mc2s2V0pOQm93MW03eXNBTDhlcDEtelZFOWR2dURCSU1IMg?oc=5",
-    "data": "13/08/2026",
-    "fonte": "Tribuna do Sertão",
+    "titulo": "Leilão de terminal no Porto do Itaqui terá restrição",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFRCTUN2QThJelJHSVlFbks5Z2JpZ2hObHFid2NqSFo4SlFaVVhBUzZ4azNsdDFvT3JSY3dSc2xmLTZaa0NCNExZUE1WVjhMLVFlXzliZXVVOTFXdDZGNmowVlQzblJteHAxcnNEX3pDem9rNVBTSERJenRONzNpb0tob2NqaHRhLUlCOFE3a0M0VHh3MDcwM2czOTEwLWsyNk16Z3JqWjNKQ00?oc=5",
+    "data": "14/08/2026",
+    "fonte": "A Tribuna",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -270,6 +270,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "CLI coloca novo shiploader em operação e amplia capacidade de embarque no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm5GSFNqYTZ6cFpUZWZ5S0lHYUlTQVpPSDNxUnJtUVgxZ3ZZbzFnVkRPcGRpN04zNUwzTWlkeDJscDJFdXVzTUNiSko0V1ZUNWhxNG5QWGl4Mlg4bFZPeGthUE9zclZvaEVYNGpHS05SNGxfM3ozSThsX1pveHVpS3Z3czMwUC1mT0Z3bXN6WUU4aXdFbjFVTE1hTlpsdXpMNVA4TnFJY0NxRUpTWElMMnRpdjRaTDJveWNUaVZRaHNXbHZMQjc3dA?oc=5",
+    "data": "09/08/2026",
+    "fonte": "Jornal Portuário",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Porto de Paranaguá investe R$ 6,8 bilhões para ampliar capacidade e conexão com a Alemanha",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1pTakhhQnBham1EajU0X3ZUSGRQcmxrTEdZRkRIcExwendRZWt2c1BhbENiUnU3Qi1fOU9zcXBJSHFqN1kyNEdPM0M1QUxaTjJJQkM2Y19nQ05vZ293VDNfWGptRjF4Vm9FTXNHWnZSRUlQZHJlajZEZ0RQU3Q2YmdMd2E3eW1faVhXTlQxbm9lMFM5UHlUMmVzMk9kYlE?oc=5",
     "data": "14/07/2026",
@@ -333,7 +343,7 @@
     "titulo": "Petroleiro da \"frota fantasma\" russa abordado pela Marinha de Itália",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMm5OU2k0eUVQaGwzSTFQN2oyaEYzWTNfQUR4bjVPOXZnZTJBazFaWUFRYU1tN3NIc3VMc1oyeGdyR1ZuekU1X21DMkJscENvcU1xOWJSSzE2czZwb0VxY0pmdnF2RzhleHV4amJ1b0dnSS1KS1VKNTF4ZHV4dC1iWF9nTm1McEhsSHZTakF0UWZoVnBIaC1peUFocWI2WTRXQzJEbzVHaTZNQkVjOUhIMA?oc=5",
     "data": "03/08/2026",
-    "fonte": "Euronews",
+    "fonte": "Euronews.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -343,7 +353,7 @@
     "titulo": "Vídeo. Petroleiro da \"frota fantasma\" russa abordado pela Marinha de Itália",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEJiNE55eWgzVWNwbEh1MW1QYjFWVFlhYXFNYk5QWGFOM0JSc1JtSXQweDF3VTJwZ2NQOE4zLS1fMHBWSG45UFVncnVhblh6LWtBWXZRMm9TcEFlSFJBOVpMa2NPbFJPU1RNay1naDB1RTRHbXozZDZQYVg0SXk4RjdOREpJMkt1WGc2WW5zNV8xeS0zNWVFa0tnRFlCRFpSaDhESzduRXo0Z00?oc=5",
     "data": "03/08/2026",
-    "fonte": "Euronews",
+    "fonte": "Euronews.com",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
