@@ -120,10 +120,40 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Primeira interligação do Moegão com terminal privado será feita neste domingo",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcERGZHRMMGhjQ09USU0zeXp4LXlreEZoSncyUjIzeG5hT2JKbTdZdWVqLVRsR1Zobm5NNnRDMWJfVEVwX2JycXpaTDBROS1XMHoyVENBR09sWEY5VWJMazJpc2ZxclI3Q0RWcmtXckY1TmhJTXRDNGd2ZWF3S29tdUVmTGtjaUlIbkVCdEpKak9wbkdkcnBCTmJTcXp4ajZFamtkNmREMEFkd1lZRi1WNU5CbVpkQWdZbmU1bFFwcw?oc=5",
-    "data": "09/10/2026",
-    "fonte": "Administração dos Portos de Paranaguá e Antonina",
+    "titulo": "Incêndio no cais 12A do Porto de Santos começou numa esteira de terminal que atende a Nita Alimentos e reuniu Bombeiros, Guarda Portuária, brigada vizinha e rebocadores; APS diz que a operação do cais não foi afetada",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTjA0eVhoY3hsZ1FLTlBYelpYZmZCazQ5ZTdNNnZrNVczVl90eHF0bGNwaUxraUQ0VWVCMEw0VE9GYU01dWVHc29zZ2p3NFVSVFYxY29YSWpWdkkxbm5Kbm56WDZVaFdHeG92NWRXVllQNUhuYlI3N1FGMm9PSlZ5aGVFbTc1YTRrY3Z6eWM5UTZNdw?oc=5",
+    "data": "24/09/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "PF apreende carga contaminada e prende homem no Porto de Paranaguá/PR",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFcxZ1dZejBLM3cwMU02YXJqZWVPVTdWT0VhbDRBY2FGMHR0S1FoVUhVZnhjdzFpdTJ6U0pQSXJCMVQwc2xza2o3QndCdVM0ajlHR0VvbGtQM1Z1YnhxdGM2MmtoSHRWVE9qclZVa3hCSnJQYmFoVmRkU1N5aTBuTWtfZWxlT1FFcFhXcnVxemMxLVJoTGM4c0hxbw?oc=5",
+    "data": "10/10/2026",
+    "fonte": "rdmonline.com.br",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Paranaguá liga primeiro terminal privado ao Moegão",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW82UlltMlU5QWhFQnJxa0x2d19CQXRWbkJWY0VGZEhLTVJMWXcyRUF4SkdfcDlOYlRmRHU5VTBqMWM2ckhOQVhLeUxneWtxNXlHWHUwS1VRVnozdU03SU00QjExeWxlRUwwSkxWRUF4eWJKdW9UMDQ2UG4zVWtXLTF2VDE0ei13eGhpTy1FZlAwYU84STA4Mmd5bFJwR1Fo?oc=5",
+    "data": "10/10/2026",
+    "fonte": "Agora Litoral",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Obra de R$ 650 milhões no Porto de Paranaguá terá primeira conexão com terminal privado",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk53SVp2UDRaTUNYTWs0S2p5bE1sLUJJSkxHdnlYX3c3OFVJSjRmcWFmNXZVMEJ4Wm9vem44OFB2SGx1WWpKVG5vSTdwVVl0Zzg3aDZJZDhVLTZPUFhfWUFqUlcyalJsTjJHZkFRaDBoREVaMmR6Q09pU0VOTjdOYjlkUnBFTVdBVl9XX0xHbEFsZm9rMVMwa3REek5IMXVuVFJSQ3UtNkQwN0Jk?oc=5",
+    "data": "07/10/2026",
+    "fonte": "Litorânea",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -510,16 +540,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Portonave retoma atracação simultânea de navios após ampliação do cais",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXZTYVBGX3A3aFN4ek5CWWN0a0dlT1FZZUZESUJ1aWI4SVkxQW1WVll4NFBkbkhjSHdmQXlBckM1MFBLZ1B1SngxYkxpS0N1d2h2eHFFRVExaWlqTkVBODNQR01salJ2NEtsanNxWW5mTUF5c3FiazNOSGhBQTd2alVabkxHbzhqamVfS1FtZ1d0dmo0ZEFib2lxVlM1UUZj?oc=5",
-    "data": "19/08/2026",
-    "fonte": "Portal BE News",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Portonave retoma a atracação de dois navios simultâneos com a entrega de mais 250 metros de cais renovado",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1IzNWNnbUVBNG1OMlowQXVsUDJobzJiYjAwX19TSFMwVHRJeFg5aGVhcFlPVmhtYUdJVzVNNy1WRGxmSnNHM1VuRXhvWlRjZEVSRjdxb1RIQ2FxWXBhMmdsbTV3b1FaajZ2SXhTRVhhZ2p1bElGX2xFWWVqRXBjcWRibkRXdG03MGpvamJkbVN5VzdoTnJCbE1Gb2xYb1VjYWZBaFY0dDYxS1lkZXdORVNWRzNpcElFb3dsU094RFJsVFptanNWaHRfMlhGQQ?oc=5",
     "data": "18/08/2026",
@@ -580,6 +600,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Justiça suspende seleção de estivadores para o Porto de Rio Grande",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcVcxbFZrUmVtY0NlT2E3MnA4bGVuVVp5ejJJUTk5M0V4WFBwM2FFR3BFOGg5NTRnX0MwX0hJUmUtRVZqWWRKdHp2OUw2Mklubl9hZW5HQnlMZ3I2WWd3UllHRDJNZklHUEJWTnJDczhSMXZFZ0FCbGdSWG1DMWtlYkk2bDRMSkVPdnJvNno0SktFdkZKQ3dmZEhzTWZKNUdDZVpGOElKVmZRTE1iM1gwNVlXaGswTzQzdmRwVWtNRnhmaTloQVhLdzE3bXBGdUV6bEZxejZCZXl5cDZLYlRybmo2ZmRPTncwdU8zc0ptdmY5MVVTS01aandkT2w3TGh6ekNmVmVBeWNydUk0Rk5rSWN3SkxLVE1r?oc=5",
+    "data": "28/08/2026",
+    "fonte": "GZH",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Incêndio em navio de carga deixa 25 mortos na China",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmVNclozcmlzMHEwY3hJemNjd2lwSi1LZ2ljVXhuVDZpTmVIa3daRVRCWERCZERoT0p6RmVTaDNZWVNzYURFYmlQeU1zN2ZrZmxhUkV6X29zWWhRZVpla2xZdnNHOU5VZkEwVHpiTW9ZSWsxbUVGRHl6WVlsdDVOUV81Znd3MnZwT2l2RFFGOU9mNjVxcTBZcUQxQQ?oc=5",
     "data": "09/10/2026",
@@ -634,6 +664,16 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0daYkhES1ZsMnZyMHM5cDF3QmVfeHJxS19lU1hwcFkyZ1UtR21nTEdUQUpJNldaS1owUFQxZEhtTTVSSUdRaWZ5TTBYWVNkUmtsYkRURnJOS3ZSdXRQN1ZweEFZNEppMHpZR3pnLUhUTjh2OWQ5aEkwYTJUeGNaVkFPVzZrc3M?oc=5",
     "data": "01/10/2026",
     "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Navio GNL Ártico Alexey Kosygin Possivelmente em Reparos em Instalação Chinesa",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVENMLVo3dFZmcmpUc2lZVUIzN2EyUTlsZVdLR2lmUGNxZmhxN3EyVzhIcGQydU52dXVCWjVidlloX1VfenFSdkdDdnI0dlFFQzBNNVRwQUxHQjNvSWdtMnE4Z1d5bkVjazViQXdRQ0xJQVpuS2QybDdPY3dnZzNQSGlPMlp2MUQ3cEprdDVDLU1XZnFCS0VYSF9iY3B2N0V1ajZRM201bmtkclhpbmVoTkJEV09ta3c4Y0E?oc=5",
+    "data": "01/09/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
