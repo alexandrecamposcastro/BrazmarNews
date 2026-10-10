@@ -90,6 +90,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "BNDES e Caixa têm proteção em recuperação da OSX",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2JPWGFLVE1lZ3VxcVIxd25hMVNBSkUtTndLYlJiZFZyZmRQc29NQ1Uxb0dDTmttbzZFSUZleDhncll1WjQxVjFSa1VVRThubVBoby1iU0x0eG9WYWtwRlREZ29PVzNwNjlvMHJMWW1MN2lOUnZWNEZfMnQwbTc0MEJCaHJZbTloMVJEZk1xbXB4WmR3bUhLN1RINHJCdTQ5bDNMQjNvZ2NSZFpkMzNOdG9PMExodVU0ZGN6YWxBaV9qUTRacW9JZ0VtNEhDUWRyMlE?oc=5",
+    "data": "26/08/2026",
+    "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Navio traz equipamentos gigantes para terminal e exige operação especial no Porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYUdEVk5pemx5MlMwei03d0hEV1NDa2kzQzdCRl9LWnpZWV9VelAzZzhZNzF5YWw0bkJKcDNrQXVIdzViQ3FwdGlySnV5SXBDZUs1cVgtRjNIWVNxT3JMRW5XWFRlMEZMT2pSVnJUMU5sSFlrY1VvWWZLTEtORU1iMHdrRk1SZHdsUEp3WnZjMjFmZlRWbUgycHp6LV9CT1cxamVrcEFZVFN4TnZfU2oxSHBsNUhnaWRuVUtCMk82NU10dzNxNV9Va0RfLW5MdWx4ZUdybEZMQVhYVUotV1Vv?oc=5",
     "data": "29/09/2026",
@@ -134,16 +144,6 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMlZGdEo5XzJRWUUwbUJrS29EMjRoZEQydTNESE5jTFA4Y3RfS0VYZVhsMW4ta3VPUy1lLXltVVhXR3FnN1hQYy1zM3BxRzRXZ1VKMEZrMmJGZjdMQmxEemt1dVZYUWx0ejJMQ3Fka3UyR3FlUFpUSU9tdUh0aE9VaHhqcUhfUWVuMjRjUTdZNy16R1BoLVZ0RXI2dW44NVhackZ0c09SNkpzYTB3dEE1bjdCSnR4a0dreFo3MmdvOGNVdE5zRzhvRGwwZmNoZFZndm9R?oc=5",
     "data": "11/09/2026",
     "fonte": "www.gov.br",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Terminal de contêineres recebe R$ 290 milhões para ampliar capacidade no Porto do Rio Grande",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmNjUm5tVmNLRXlpdEJVYVV6UkRqbGZNWEM1ZXMxVDJabGdhT01vZV9PTEx0X1ktMlNUX29mOVZTbnRwaWItT2lUOVBDZXNOSnJCQzZJb0ZsV3hCQ2RkR1laU19aeVVkd0xhOHBXTnhjQWxHbFJkMDhLZGlSQjJlNDF6MnhON3BRdW9DSnN2RHVneGZSZUNqdmxSS2R3cFZLeFJydF8yeUpCQVdTNHNBb242WjN5Y0NIQ09CS09xTkVzem5rd1lTS1pqYTZwTUp4SXdLMEln?oc=5",
-    "data": "23/09/2026",
-    "fonte": "A Hora do Sul",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -290,10 +290,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
+    "data": "25/08/2026",
+    "fonte": "Portal BE News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Sulnorte anunciou a chegada do rebocador SN Caraíva",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDJNeDlCc0FfZmJKTXJtMGowSVB1TTlpak1ndlVmUFhQNHpfc3FDSkRJWEg3aGxZeDJNeVpndVU5WnduRHJLQVM3N002Y2xjeDZqLVdsWGZWdlJpd3Y3ZnBUZk5YWF9Lb3YzenVVNFgxWkhNNjI1OVdNTnFTYndVVTVlT3ZGdw?oc=5",
     "data": "05/09/2026",
     "fonte": "PortalPortuario",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
+    "data": "24/08/2026",
+    "fonte": "Tecnologística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -320,20 +340,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
-    "data": "25/08/2026",
-    "fonte": "Portal BE News",
+    "titulo": "Portuária Corral inaugura rebocador híbrido Don Víctor em Valdivia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVF1QUU5cUpwSkk2cEdGTzNld2ZTR2MxYlZyeFIyWG9pTlpVTUVqYk9YS2M2TGR0c0lodWF6Y2h2MXdVNDFsaWh6MGx4OS1oeUdnMkVhR05DUTJzTWc4STZIR1dmZl9POW5RYm5ta0staFZTbmctV1Zwbmk4cVJlOTgyZzY3MXVVTFRhcTlxVGdxXzlaMDlMbkZ3ZUpwRlc5S2wtMGVueDlBRXotRjR4SnItMkIyVTQ0dHkw?oc=5",
+    "data": "05/09/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
-    "data": "24/08/2026",
-    "fonte": "Tecnologística",
+    "titulo": "Wilson Sons entrega rebocador WS Ariel no Rio de Janeiro",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDY5cDJKVV9DRzZJaGE3dEo2Skw2V3I5cEFrTW4tRFZzSkVVamFLR3o3enJmNVBzYWJiVTRxMDU4MGU2ckJiNXY5NWtHZVNYNWEwRHRmRW11T1c1eUtfV0w3TUl0N2RYb2ttdWotNzhGVFJOYWtzY0Y2LWUxMEd2WGNJUGdzdmtnS0RRUlhicURmWUc5Rm5sVkZBQkk4ZVNUaUhKN3ZDcy1zU1E4?oc=5",
+    "data": "20/08/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -350,20 +370,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Balsa elétrica percorre 296 km entre Suécia e Noruega, levanta o casco sobre a água e usa bateria rebocada por caminhonete para recarregar",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQklxZFhEUFd4QVVTV1lCXzJlZWE1azEzUGxqZnFLSTUtQWFmOEFQcEZweGdib0JZNW9vRE5jM2VkM0NfS25zUi1WSEFFVVdzTVdaSDBYbDd2ODlPTWlaU2tiOHBfeFlmZVZSSXpwZ3RQMUtZRkhWRGlpbTUzUjZ0bG01UV9ubE9EY29YT0NSUkFpVU5kZnFqVDN3RFhNYUZkcno3bzRzMHhwc2pQbmQ5Wk5lZC0wa09YSkFhOTBNVHpUNjVXVUptd0cxRDJlWXBiM0g2Y0FMbDEzR2NqTmFRam9uUllmVXVyQkthQzRyU1hFU19rT0p4eUZ4RFhLcDBQRzQwQ3BQVUQ3QQ?oc=5",
-    "data": "25/09/2026",
-    "fonte": "CPG Click Petróleo e Gás",
+    "titulo": "Uma balsa utilizada para o transporte de veículos pesados afundou parcialmente durante uma travessia no Rio Amazonas, nas proximidades do município de Parintins, a 369 km de Manaus. O acidente ocorreu na manhã desta quarta-feira (19). Imagens regi",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hY2UtbkN5NEVjRlVTeEI3MUd5UFYtWlhxUDVUOG9CUDViUmJZQkRveVZmSUQtUVNlRTJpUlZUek80UVhwb2VvN3lNckh4QVY5R3p0MC1B?oc=5",
+    "data": "19/08/2026",
+    "fonte": "Instagram",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Uma balsa utilizada para o transporte de veículos pesados afundou parcialmente durante uma travessia no Rio Amazonas, nas proximidades do município de Parintins, a 369 km de Manaus. O acidente ocorreu na manhã desta quarta-feira (19). Imagens regi",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hY2UtbkN5NEVjRlVTeEI3MUd5UFYtWlhxUDVUOG9CUDViUmJZQkRveVZmSUQtUVNlRTJpUlZUek80UVhwb2VvN3lNckh4QVY5R3p0MC1B?oc=5",
-    "data": "19/08/2026",
-    "fonte": "Instagram",
+    "titulo": "Balsa elétrica percorre 296 km entre Suécia e Noruega, levanta o casco sobre a água e usa bateria rebocada por caminhonete para recarregar",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQklxZFhEUFd4QVVTV1lCXzJlZWE1azEzUGxqZnFLSTUtQWFmOEFQcEZweGdib0JZNW9vRE5jM2VkM0NfS25zUi1WSEFFVVdzTVdaSDBYbDd2ODlPTWlaU2tiOHBfeFlmZVZSSXpwZ3RQMUtZRkhWRGlpbTUzUjZ0bG01UV9ubE9EY29YT0NSUkFpVU5kZnFqVDN3RFhNYUZkcno3bzRzMHhwc2pQbmQ5Wk5lZC0wa09YSkFhOTBNVHpUNjVXVUptd0cxRDJlWXBiM0g2Y0FMbDEzR2NqTmFRam9uUllmVXVyQkthQzRyU1hFU19rT0p4eUZ4RFhLcDBQRzQwQ3BQVUQ3QQ?oc=5",
+    "data": "25/09/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -410,16 +430,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Conheça o navio gigante de 96 metros da Bram Offshore que reboca estruturas, ancora plataformas de petróleo no Brasil e já operou com cargas de 120 toneladas",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOGZNc0lnWk5mUzgwaHl4em5FNmw2R2wzX2ppNGl2NkM0em5ZYVJ2aExJR0pGYUtMTWNiU1VjeVEzeVBzdFVFdVZFUWxZRWVMT3FjM2lSbzNZcThjSUVHb3Z6a1JCTjdZU3k0RF9HdXVnUXhwT3laRXBDNW1VcTE2ZU5USXdUNnpiTXNfOFVEdGRlVzlMNjk1NXVXVmo3eXE3ckxJVENFZVNQUEYzQ0wzRXVRcmFhV0tXT1k3aV81bC1xWjhodmQ1blRqVllsUHVzbVJWaWo2YmVqNzFrbm9keC1FNEVuelRCOTBuSFUtQkE3QU45VmRpN2ZTczdhNUFNU3U5MzRiVm5UNUxEU3dZVkcyNHY1LVZlRy1ROXRHcWxaZw?oc=5",
-    "data": "09/10/2026",
-    "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "O salário de quem passa semanas em alto-mar trabalhando em plataforma: quanto pode receber um profissional offshore",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWHY0NXJ5eXhLSnZTNHN6ZW9PX0FlRUYyUGlJV2RUUG1Zc1VHRWJmTnZoampXX3JKaE5pckRLaGV1R3JZbGRiTFJBYW9pa2hxbDJXVVhvenl3NnJDRWdkQzBOSzhVblJOeDFvX3VyNGtnSEwyNW1aQW81RDN2OXdDMHdyZFlrVVFEdk4zaW5RcTE2UXZCaERjZHdvdEowY1J6bHMwekpmd3NvWWkxR1BsTDlzV3pka1Q2bHJZZnFmQjlZVFNnOEJabXFwcTd2eVA5Sk81NlFxcGpyQ1B6Z2ZZRVpFdkptZkpCV29qcVlB?oc=5",
     "data": "04/09/2026",
@@ -434,6 +444,16 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3ZIMFZicFN6cXh3NHBwem5wV0dwRjJKYWJSNmdCMTJpaWQ2cUV5bks2cm1SUDdaNktOT3Q2WmNlbk04U1VYMnFIeWx4eHdMRUpsZjhLeVhSMnowR3dRYWhQMDFlQkxNYUpEMEJyQUFEcFVsaDNEWGRwemNqWUg5TkZCOG5QRjh1MlV6TkVn?oc=5",
     "data": "27/09/2026",
     "fonte": "Vietnam.vn",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Plataforma offshore de 125 metros e capacidade para 560 pessoas tem contrato confirmado para operar no Brasil em 2027",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3B1UDdUR1FWOFY5YXRWcFV2ckl4bGo3a1JMdG9fNUxBVTBkOU5mMHhiUlVIbFlzaVkydHNnQzFxX0lSOVp6LUc5bGNjcjBMX084cTJ0YVdWYUl6S3BUeVZiMVNuQ2lTR0tudFpLYlZac3luZHBRSXNsSm1IbmQ5Z3doTFZ4aDhmT3lGZl9xU2ZKQUpsV0VSaXc3b2RSMVg5WC1SX2pHQ3JndnVabFlWRVBNWDBESFhIOVVTaXdtUEJjeVFzUVBnWEJXV0I0Y3pxbUhmb0dYX3h5bFpnUklTYkJfZ3ltLXk5VVhOem0wSQ?oc=5",
+    "data": "08/10/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -490,6 +510,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Portonave retoma atracação simultânea de navios após ampliação do cais",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXZTYVBGX3A3aFN4ek5CWWN0a0dlT1FZZUZESUJ1aWI4SVkxQW1WVll4NFBkbkhjSHdmQXlBckM1MFBLZ1B1SngxYkxpS0N1d2h2eHFFRVExaWlqTkVBODNQR01salJ2NEtsanNxWW5mTUF5c3FiazNOSGhBQTd2alVabkxHbzhqamVfS1FtZ1d0dmo0ZEFib2lxVlM1UUZj?oc=5",
+    "data": "19/08/2026",
+    "fonte": "Portal BE News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Portonave retoma a atracação de dois navios simultâneos com a entrega de mais 250 metros de cais renovado",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1IzNWNnbUVBNG1OMlowQXVsUDJobzJiYjAwX19TSFMwVHRJeFg5aGVhcFlPVmhtYUdJVzVNNy1WRGxmSnNHM1VuRXhvWlRjZEVSRjdxb1RIQ2FxWXBhMmdsbTV3b1FaajZ2SXhTRVhhZ2p1bElGX2xFWWVqRXBjcWRibkRXdG03MGpvamJkbVN5VzdoTnJCbE1Gb2xYb1VjYWZBaFY0dDYxS1lkZXdORVNWRzNpcElFb3dsU094RFJsVFptanNWaHRfMlhGQQ?oc=5",
     "data": "18/08/2026",
@@ -504,16 +534,6 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFkyVTRXajRrb0hyUjhjWEN4YVZibmRYZFdsWlZhQ1lLN2lJREVGN1l2THBndk9qSXV0YlRpX3BxT2RvMHU5Vks0SmNNd0tYUHFWRHBrNDJHYUZ0bG1qU2tEYzR0OU1LOEZpZ2o4UENMTEF6dzlhcl9tdHVpTy1fUWlGUllNaWY1NGwwajhWYTRPSWZJSVpXdw?oc=5",
     "data": "20/08/2026",
     "fonte": "ClickPB",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Ultracargo reduz em mais de 80% custos com espera de navios no terminal de Vila do Conde",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDZrWjh6alUwd0ZrVHVGd2phS0VyMFdvM0NQOWNxYUtNM3hQU1c4cHljU2s1OG1mT0hPU21NUEpXeU1pZHpTUWZBVW0ycnFFSWo2bHpPeDItTjh4ZTIyRTF3ZmNIYVR4TEVyNnpQZGRXRGJ0eXU0UDRoeTRIOWRYUTZ3d2E3dThNaHZ2UDdFYnpoc2FBSXdoa0tiaW1KamFMa01IeFBJUmgyelk3OTd1dnJhYTBmODRTVlI5WlZGOG1GRWJ2SHZEZy05d2ljdXVKUUluOXozQVJxcHF5ZDFtQ0hjNDVxNVZSXzFOVVR3?oc=5",
-    "data": "12/08/2026",
-    "fonte": "Tecnologística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -614,16 +634,6 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0daYkhES1ZsMnZyMHM5cDF3QmVfeHJxS19lU1hwcFkyZ1UtR21nTEdUQUpJNldaS1owUFQxZEhtTTVSSUdRaWZ5TTBYWVNkUmtsYkRURnJOS3ZSdXRQN1ZweEFZNEppMHpZR3pnLUhUTjh2OWQ5aEkwYTJUeGNaVkFPVzZrc3M?oc=5",
     "data": "01/10/2026",
     "fonte": "CPG Click Petróleo e Gás",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Navio GNL Ártico Alexey Kosygin Possivelmente em Reparos em Instalação Chinesa",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVENMLVo3dFZmcmpUc2lZVUIzN2EyUTlsZVdLR2lmUGNxZmhxN3EyVzhIcGQydU52dXVCWjVidlloX1VfenFSdkdDdnI0dlFFQzBNNVRwQUxHQjNvSWdtMnE4Z1d5bkVjazViQXdRQ0xJQVpuS2QybDdPY3dnZzNQSGlPMlp2MUQ3cEprdDVDLU1XZnFCS0VYSF9iY3B2N0V1ajZRM201bmtkclhpbmVoTkJEV09ta3c4Y0E?oc=5",
-    "data": "01/09/2026",
-    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
