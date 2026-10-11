@@ -1,15 +1,5 @@
 [
   {
-    "titulo": "Naufrágio de navio na Indonésia deixa 129 desaparecidos e seis mortos",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHNaV0hGSnVuSHdFLUxNUnhCTTAyR2dsM05CV2k0RklEWG1vUmVYTC1tUjllWm1EeWQ0UURZdjJkMURLclRpYUtiOWhvRlVhRjhsd3lHVkdvajEwd1ZaY3BmcEZ3NUFJZm12VWRyTjVmOGZVRHI4QlVfRG56TXFDMFEzNDNNRm9ReEUzNG1WZTZyN1Q2aDhkZ1dUaGxWSFRfZkVjbXhfVQ?oc=5",
-    "data": "13/09/2026",
-    "fonte": "CNN Brasil",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Homem morre prensado por contêiner em navio durante acidente de trabalho em porto de SC",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGprU2dkd3pabFM0b1JZczVfVmFveTctMnpzT1RUZlc0cFo4N2xrNzYwRTJLZHJwenhJeldCVkwwOFZXVXJZLXFBOVVoVmppVzZqb05iS0llX2lWeVg3YVA0Slh2NHZTZEtMaGF5WWsyZkc1Y19JUFl6TmJTNVlUWWRwZ3A3OGtESk1iRVFRUkJJbjFNaWt6dVNtSWhYZzJuVlBMMGM4MVp4SDk2TjdMSHNVRVJlazNIUkd4Ng?oc=5",
     "data": "05/10/2026",
@@ -24,6 +14,16 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDcxeDZCbjdYckNMSnBnSTA2MXFrdElzX3Zaa1F3SkowY01pemRpUXBaQjZpa2pCSzEwYV9BY0xva01paUw3Z21oV1JuUUdsWmpqa3lpMjdVemNpYnBjZHdEYjZuZUtfeGNOZ1BlNS1ncEFoMVRJWVFzb1AyTVdNdzQ3YXFJdmJuMmIxaUJ2dzBQVXNqVC1hV3hjbkRkdHFSblBqSHA1WS04aGFMdkxzZ29DUnNIRnFidTRaVElDSkw?oc=5",
     "data": "06/10/2026",
     "fonte": "NSC Total",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Embarcação naufraga parcialmente após colidir com leme de navio no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1podk5iTWJUVEZQUlE1NUFkRU1CT0tQRHd6dmFkanBQcUV5QXlXOVAyU2FTYVk2RGdWSHVtejVJTFg4T2hqQTFVQ2JETHhXaTRFeEY5cjl5aHg0NGxRQW5leWctS3NwLWFDbW9uRTVoY2VwVURvdzF6YkNLTml1OEkyYW00aDA1MnRnbndmN1Y4Ri1JWkx1Sm1FMkJJVkdLQllNcGRGRzJ0cGZhM0pjTFQ1cGhFaGYwX2VETzBlazVGVzZUOVE?oc=5",
+    "data": "15/09/2026",
+    "fonte": "Santa Portal",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -250,16 +250,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Antaq visita armadores em Santos para discutir logística de contêineres",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzB3Z1BxdFlPR2ZOMW9IR0N4aC02UElVbUhlbTd4aWgydTNvYnhITlM1Tnd1MlNHNS1HSWhJVWVkNlhXQndZV05TMEZJU1BJbWdxZ3FjdU1sNVE5OEFuNkZqc2dGQmlYSzRHVnlIbXBnV0Yya1VBM0laNVZiS0Jmam5pYlNhLS1YeWdCQlVDdGtaQTJYeWczcHNWRmNPaUtmVXc?oc=5",
-    "data": "26/08/2026",
-    "fonte": "Portal BE News",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Receita Federal encontra 16,5 quilos de cocaína em contêiner carregado com frango congelado em terminal portuário de Paranaguá",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS2lsbjZnUGdzMzFidmNpSUZNMVdJM1JXX3RQcmNoeWI5SDdFeTNFc1lDMVdBT1RwTnlCUGJtRWNYZEhxN25fczlET3ZxTHFkSnozWGlqTjRsZmxlcGg0aW1CWjhyWE5SVC1PS051WFpnRHBmVHhBbWdJQVk2OFdSQWNOM0tSdldmSTAxRW9SYzNKSFl4b1RHa01yRE9FWVFIRUFPd0dHVUsyWG84N1JaM0VYSUJnbDgwSWp3MzhVUFlSdjJFcno1bTNNN2ZRQTQ2VmtJakI0Z29hUjB4cnluSFZTcGFlMWhhVkJESU1qUkVfXzJsWnhTcm5aQ2xhazh6UlZJaQ?oc=5",
     "data": "19/08/2026",
@@ -310,30 +300,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
-    "data": "25/08/2026",
-    "fonte": "Portal BE News",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Sulnorte anunciou a chegada do rebocador SN Caraíva",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDJNeDlCc0FfZmJKTXJtMGowSVB1TTlpak1ndlVmUFhQNHpfc3FDSkRJWEg3aGxZeDJNeVpndVU5WnduRHJLQVM3N002Y2xjeDZqLVdsWGZWdlJpd3Y3ZnBUZk5YWF9Lb3YzenVVNFgxWkhNNjI1OVdNTnFTYndVVTVlT3ZGdw?oc=5",
     "data": "05/09/2026",
     "fonte": "PortalPortuario",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
-    "data": "24/08/2026",
-    "fonte": "Tecnologística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -360,20 +330,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Portuária Corral inaugura rebocador híbrido Don Víctor em Valdivia",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVF1QUU5cUpwSkk2cEdGTzNld2ZTR2MxYlZyeFIyWG9pTlpVTUVqYk9YS2M2TGR0c0lodWF6Y2h2MXdVNDFsaWh6MGx4OS1oeUdnMkVhR05DUTJzTWc4STZIR1dmZl9POW5RYm5ta0staFZTbmctV1Zwbmk4cVJlOTgyZzY3MXVVTFRhcTlxVGdxXzlaMDlMbkZ3ZUpwRlc5S2wtMGVueDlBRXotRjR4SnItMkIyVTQ0dHkw?oc=5",
-    "data": "05/09/2026",
-    "fonte": "Data Portuaria",
+    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
+    "data": "25/08/2026",
+    "fonte": "Portal BE News",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons entrega rebocador WS Ariel no Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDY5cDJKVV9DRzZJaGE3dEo2Skw2V3I5cEFrTW4tRFZzSkVVamFLR3o3enJmNVBzYWJiVTRxMDU4MGU2ckJiNXY5NWtHZVNYNWEwRHRmRW11T1c1eUtfV0w3TUl0N2RYb2ttdWotNzhGVFJOYWtzY0Y2LWUxMEd2WGNJUGdzdmtnS0RRUlhicURmWUc5Rm5sVkZBQkk4ZVNUaUhKN3ZDcy1zU1E4?oc=5",
-    "data": "20/08/2026",
-    "fonte": "Data Portuaria",
+    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
+    "data": "24/08/2026",
+    "fonte": "Tecnologística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -460,6 +430,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Petrobras avança em expansão internacional e negocia exploração de petróleo offshore em Gana",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTJTOWhMQ25RSHI5N3l6S0Zyb3ZRWm5QQzFNWkZrZl9HbklaUXcyQVBjbHdZR0RoVDFvNVhpUmtNZlFyNmhSaGo2S0NxRUpWVm4weDdGQ2l1UWsxekYxTGx5R0xZbVlQTmo4elVUTUExSDA4d1BQRktxNUdNekFmb1o1UVdaZ1ZXQVVoZ3RGVlNjZ1BQV2QySVJIOXVXZ1RxZzAweVd5VkVkbXFEX2w4V3JoRHJPXzhTdlp3M3Nuc0Zka1dtOGtr?oc=5",
+    "data": "21/08/2026",
+    "fonte": "Brasil 247",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Atlas divulga vagas offshore de nível médio no Brasil para técnicos, eletricistas, operadores e oficiais com opções de escala 14×14",
     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMU95ZFZ5QUNlQ2RkSGl3aGJRaXl6enZCc3dXVndpS012aTAtOWZVZVVKQjVvTW8weExlLTVrdXVKdm9tOFNJWkt4eTQ4Y180SVY2WU9ISWdTUGJKQW4zUEZveHJ6LWRkeGt1S0hGRWlVeUtKdXVwM0g1SS1GcmtxT3cwT21QYzBzanpQemplMTIxRTllMUxjSjhqZFBTeVA1bC1nU0dILS1DekY5a3hLRkM5Z21LY0QySWJUU0tHNlFic3JFLXNOajFsNjlJRXNOcDRHbWFORi03elpEMGZ6TlcxbU9rMTJVVXVGTHU4N1FQVm9QMWJnN2xVNE1qZw?oc=5",
     "data": "10/10/2026",
@@ -470,10 +450,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Petrobras avança em expansão internacional e negocia exploração de petróleo offshore em Gana",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTJTOWhMQ25RSHI5N3l6S0Zyb3ZRWm5QQzFNWkZrZl9HbklaUXcyQVBjbHdZR0RoVDFvNVhpUmtNZlFyNmhSaGo2S0NxRUpWVm4weDdGQ2l1UWsxekYxTGx5R0xZbVlQTmo4elVUTUExSDA4d1BQRktxNUdNekFmb1o1UVdaZ1ZXQVVoZ3RGVlNjZ1BQV2QySVJIOXVXZ1RxZzAweVd5VkVkbXFEX2w4V3JoRHJPXzhTdlp3M3Nuc0Zka1dtOGtr?oc=5",
-    "data": "21/08/2026",
-    "fonte": "Brasil 247",
+    "titulo": "Expansão do offshore amplia demanda por soluções de acesso em plataformas e navios",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbHJGU0ZvcFRLUHdwMFE2WldsVktreFVuRU13TlNodFg2azA2YjZ0ZS1RcEEzMVZnS2drS3hVTHNuSnBnU3pDeUljamhYSHcwSjBCcXV2MjFtS0JXRkJueDliR21ibWt4THJtSTZPMW5oVkxOdXFCX2RvQmVERHUycHFkU05BbFZHeS1ia1NwempIVUF0MXQ5N05Ba0xwXzB4eS1JWlJUV1lsUlVJYkdQbXB5cktMenItRFRRVU0xWTV1emFUNXhwaTg4OGRoR0gyRmdHck9yRHpLNkNfN0E?oc=5",
+    "data": "03/09/2026",
+    "fonte": "Portogente",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -644,16 +624,6 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2FjRUhmV0lvUXlJdXp2aFdMelIxZ21oeXM3c08xOThfdWRpSC00aVlIYTFVRFFVOUVOMWc2S29XNUxnVGZ3VlJYR2l1ZEFZRWhadmMyazhiQWdmdHlfVW12b1djQUZ4TGI4WU1xZjhtX1F4VVB1RS1XS3Q2NEQ4bDlfclpLdG9Kd28tNG9aQ2lXSmhQU2tRUWhWcjVPV3RTYW04UXJwa3hNWmdDN0lubXhqd1l3MVVuWFVv?oc=5",
     "data": "10/09/2026",
     "fonte": "Diario de Pernambuco",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "FMM financia navios, rebocadores, estaleiros e reparos: veja como funciona o mecanismo criado para fortalecer a indústria naval brasileira",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0daYkhES1ZsMnZyMHM5cDF3QmVfeHJxS19lU1hwcFkyZ1UtR21nTEdUQUpJNldaS1owUFQxZEhtTTVSSUdRaWZ5TTBYWVNkUmtsYkRURnJOS3ZSdXRQN1ZweEFZNEppMHpZR3pnLUhUTjh2OWQ5aEkwYTJUeGNaVkFPVzZrc3M?oc=5",
-    "data": "01/10/2026",
-    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
