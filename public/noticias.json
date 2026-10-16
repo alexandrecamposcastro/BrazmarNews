@@ -10,16 +10,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Trabalhador morre prensado por contêiner durante carregamento de navio em porto de SC",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDcxeDZCbjdYckNMSnBnSTA2MXFrdElzX3Zaa1F3SkowY01pemRpUXBaQjZpa2pCSzEwYV9BY0xva01paUw3Z21oV1JuUUdsWmpqa3lpMjdVemNpYnBjZHdEYjZuZUtfeGNOZ1BlNS1ncEFoMVRJWVFzb1AyTVdNdzQ3YXFJdmJuMmIxaUJ2dzBQVXNqVC1hV3hjbkRkdHFSblBqSHA1WS04aGFMdkxzZ29DUnNIRnFidTRaVElDSkw?oc=5",
-    "data": "06/10/2026",
-    "fonte": "NSC Total",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Embarcação naufraga parcialmente após colidir com leme de navio no Porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1podk5iTWJUVEZQUlE1NUFkRU1CT0tQRHd6dmFkanBQcUV5QXlXOVAyU2FTYVk2RGdWSHVtejVJTFg4T2hqQTFVQ2JETHhXaTRFeEY5cjl5aHg0NGxRQW5leWctS3NwLWFDbW9uRTVoY2VwVURvdzF6YkNLTml1OEkyYW00aDA1MnRnbndmN1Y4Ri1JWkx1Sm1FMkJJVkdLQllNcGRGRzJ0cGZhM0pjTFQ1cGhFaGYwX2VETzBlazVGVzZUOVE?oc=5",
     "data": "15/09/2026",
@@ -44,6 +34,16 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODIxV0p0bjQxVDUwX2pCNkFGZ1gzUmhUYjhCaEZxbzNLeFVwMS03MEVSbF9zbjltVE5jYl9CeFFvNk4yT2o5ajlwVHJtZEt0aU1sYXVoMU04R2FGMklRR0NWQXZwOUJiQkkyRV9QRWVJYlRWM0VpdHVHUTZZdmdwR3FIXzQ3ZWFtbUc0QnpBR0NNN2hoY0dOeFVPYnQ1T011YkdTQ1NFcWQ4YTlSZnBPcVFYbERqd2M?oc=5",
     "data": "14/10/2026",
     "fonte": "CNN Brasil",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Publicado edital para arrendamento de terminal no Porto do Itaqui",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOENwSUgyRzdlS2hOUmc1SC04aWh6SG1XQmxMWUxGMnlPVVMyQ3AxY0g5NGJaLXZhX1AxMTh0eGNWcDBXc0lYRUVVdFI1ajRXRVE3S0dJRmh3UkFpUWJ6dXo4cEJWRVpBbzNjUGtLQU81V2l6Z2ZCZmpwX3RjWURBcXBkbkp5Zi1LOUk5RGh4MEJXT3BaRjgzS1dSc3NIZXQzYlBNeF9BSlhZVkk?oc=5",
+    "data": "14/10/2026",
+    "fonte": "Blogsoestado",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -94,6 +94,16 @@
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2JPWGFLVE1lZ3VxcVIxd25hMVNBSkUtTndLYlJiZFZyZmRQc29NQ1Uxb0dDTmttbzZFSUZleDhncll1WjQxVjFSa1VVRThubVBoby1iU0x0eG9WYWtwRlREZ29PVzNwNjlvMHJMWW1MN2lOUnZWNEZfMnQwbTc0MEJCaHJZbTloMVJEZk1xbXB4WmR3bUhLN1RINHJCdTQ5bDNMQjNvZ2NSZFpkMzNOdG9PMExodVU0ZGN6YWxBaV9qUTRacW9JZ0VtNEhDUWRyMlE?oc=5",
     "data": "26/08/2026",
     "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Aliança chega à APM Terminals Suape e reforça a nova rota logística que conecta o Nordeste ao resto do país",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQkZmWGh0R2Y4NWFwLV9Jc0pZY2c1VjVUemZ3clhKV1dPSGdPZGRHVmlkN1hSQTRFYzlEZ2ZLcnZPbHV0ZC1vV0hfbGJlWG9EX1puRk9md3k1dE5aOUh2UHhJMEcweTZtbWxTOFdFQmx0MzBTcmx1VHBUaEd3Zlc5eTJCMGlWWkZ2VnVkVWlzU0ZVU2NXdjVReHdCV1lNdWowUEx5dzRhaGlBT1FQSUhGaFBReFpvSFdTcndpSlFoNkp5X2I4amtUUW01VThoOC1OaGE1ZFRLcm1EWWxxWURBY3Nnb2hoMnZLTXhCbnQ1cHRlSTFUT3RKcng5NHNsd1U?oc=5",
+    "data": "25/08/2026",
+    "fonte": "Portogente",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -310,10 +320,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
+    "data": "25/08/2026",
+    "fonte": "Portal BE News",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Sulnorte anunciou a chegada do rebocador SN Caraíva",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDJNeDlCc0FfZmJKTXJtMGowSVB1TTlpak1ndlVmUFhQNHpfc3FDSkRJWEg3aGxZeDJNeVpndVU5WnduRHJLQVM3N002Y2xjeDZqLVdsWGZWdlJpd3Y3ZnBUZk5YWF9Lb3YzenVVNFgxWkhNNjI1OVdNTnFTYndVVTVlT3ZGdw?oc=5",
     "data": "05/09/2026",
     "fonte": "PortalPortuario",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
+    "data": "24/08/2026",
+    "fonte": "Tecnologística",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -340,20 +370,30 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons incorpora WS Ariel e chega a 83 rebocadores",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGkxZzI1MU14RllYNmlwRjdKUUNkTGxTaEFsZkNrTGJob3hwWVNPQS1XMlVjN1pfTm1PeURpQkpRV1QwNWs2bTFIcnF2dDNwLTk5TW1QV3FhSVlzUlNTTUYxWUd4X1hsd0hWQ3k2NEI1YlVFUTg1ellyR3ZMRTBoNDJnQkdnb24zckIzZA?oc=5",
-    "data": "25/08/2026",
-    "fonte": "Portal BE News",
+    "titulo": "Portuária Corral inaugura rebocador híbrido Don Víctor em Valdivia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVF1QUU5cUpwSkk2cEdGTzNld2ZTR2MxYlZyeFIyWG9pTlpVTUVqYk9YS2M2TGR0c0lodWF6Y2h2MXdVNDFsaWh6MGx4OS1oeUdnMkVhR05DUTJzTWc4STZIR1dmZl9POW5RYm5ta0staFZTbmctV1Zwbmk4cVJlOTgyZzY3MXVVTFRhcTlxVGdxXzlaMDlMbkZ3ZUpwRlc5S2wtMGVueDlBRXotRjR4SnItMkIyVTQ0dHkw?oc=5",
+    "data": "05/09/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Wilson Sons incorpora terceiro rebocador de alta potência à frota",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3dTQWZ1elhGem1wN3VFeURBcTZicVpfNWZhSXRiLWZYbFk0UEZyU0xnQ3ZtRTFCdWNqLWl2Y3NjakdBZ2xsYVA4eWdES1piRno1UnVLRFpfaFZCTkZPY0NPSHJpX05EeTZ4RksybU93anpDbDFieFBxdU5YMGRVelpjRU9ZeWpMc2pvOGh3cExxMHppendkY1lVclQtN0xKQ0tEaXI1a0ZFQ2ZUb1hIajZHX1JMc1NaNHRJWS0ybEpTX2kzVkZkazNXZHhKMUE4?oc=5",
-    "data": "24/08/2026",
-    "fonte": "Tecnologística",
+    "titulo": "Estaleiro catarinense lança linha de rebocadores",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDZLUUNOZkUtcDJ0S2hUaVp4SXBWU19JbWY4TzhsN0NCZHhFVmhPS2V6MFRWaHJoM2c2c2hyNUdDOVVGdWd6VTJPNlFTQlhPNHZCX0EwYS1kMjlWanVNNloxcmEtd01VS2VDTzFTVVl2VjktdXpNZ0h1RUpDTmQyMHFXZTNhYlloWmNDcGhkeGJCWFdZb0VnVzlqRFlzT3hid0E1Qlo3M015QmVWYmdQSVQ5eU8tWFkzZy0tZExLeXEwVFFG?oc=5",
+    "data": "19/08/2026",
+    "fonte": "Portos e Navios",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Wilson Sons entrega rebocador WS Ariel no Rio de Janeiro",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDY5cDJKVV9DRzZJaGE3dEo2Skw2V3I5cEFrTW4tRFZzSkVVamFLR3o3enJmNVBzYWJiVTRxMDU4MGU2ckJiNXY5NWtHZVNYNWEwRHRmRW11T1c1eUtfV0w3TUl0N2RYb2ttdWotNzhGVFJOYWtzY0Y2LWUxMEd2WGNJUGdzdmtnS0RRUlhicURmWUc5Rm5sVkZBQkk4ZVNUaUhKN3ZDcy1zU1E4?oc=5",
+    "data": "20/08/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -364,6 +404,16 @@
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR09YVjJLVXdKQTBnTWYtaTI3QXJrcGhOZHlPQWstMHJPY0U2RmF3X2FTbEhvWkRYc2RFN1o3LXNQUW5ycjhmWVFDUUNSMmFJcTl1MzI3a3hjeFF0YXozaUFaRXE1N0NBQkNrZF9wcnh6WTlpNHQ2Zy0teG84R09Ea2FFbjhlX1lHckVBU0dPcl9QSzkxU0RINVJpelA4bjJ5NHdfZnNpejZPd2V2NkZCTEVXcmlEYVJqWHpHVmhxSWRWOEI1emVrTlJFNFE3NVZjN1FoWlFn0gHWAUFVX3lxTFBHT1hWMktVd0pBMGdNZi1pMjdBcmtwaE5keU9Bay0wck9jRTZGYXdfYVNsSG9aRFhzZEU3Wjctc1BRbnJyOGZZUUNRQ1IyYUlxOXUzMjdreGN4UXRhejNpQVpFcTU3Q0FCQ2tkX3ByeHpZOWk0dDZnLS14bzhHT0RrYUVuOGVfWUdyRUFTR09yX1BLOTFTREg1Uml6UDhuMnk0d19mc2l6Nk93ZXY2RkJMRVdyaURhUmpYekdWaHFJZFY4QjV6ZWtOUkU0UTc1VmM3UWhaUWc?oc=5",
     "data": "15/10/2026",
     "fonte": "Costa Norte",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Balsa, helicóptero e urnas eletrônicas: como funciona a preparação para as eleições em Ilhabela, no Litoral de SP",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOODMwb3pmaTNsR1E4Wk5HZE9MMW1oX2FkSV92RjdaSVVtSzZkWEptTVVfZEpMaE1zTE0zVEM2QTdBYUdUNnpPcFdULWJ5bG9YdGlXVFhXZGV0QnJEejZ6Z0lDb1V5b0NPblJQU1B4aUdfaWNZT2xNQkVuNC13TXIwRzJybWFzZ3luU1NGQnlTZkZzLW14ZFA1eTBoMVlsZDA4TFpBQWcxNzFFcHJwZ215RWRQcTNZaVBLMzlhbkRnYnlKXzZQYmJSZ1F1a3llcXpwZlllSTdUNldwQVV2aXRwRENnU3FLSm1XMDNuU3Y3S3VmSkVKbGZCdFYxSlNHZ3N5blcyTlZ6Q3RuU1dLRncxeDQxNmlPYzjSAZwCQVVfeXFMTm1FZmZfbkhUS25pNE0ybW5TSEs3SUdyMmJDNUd4ckN0cDFDLXZjYWlvT0JuUERwMElHb0hkT3hid1d0OGc1MTkteEE1blV4ejltUGYzLVBBOFpwN2R0TkdBaW1hMmthNHRScXB1UEw2WHlnQUJrLXV4dXFtM0swVmdRdHB1MFdBTGxHMmt5M3FmWFlMTzRmVEtuVlJTbDBiMG1wT3NUd3ZKR3l4eVhqR1gwalBSYXNxcnVwS1lFR05ueEJVSmhpR3JGekRPYWZBM3VoYmRwel9rMEZCSVFUbUhJaURTYTc2Qkl0QVlqZWRfM0pmLTlrVm5xUlF4ZHEwWEFrbDducnJNeEpBemlRUHJKc25zY2VSc2dnVDU?oc=5",
+    "data": "01/10/2026",
+    "fonte": "Grupo Jota Sidney",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -440,20 +490,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "De olho na Amazônia e em plataformas offshore, Rosatom propõe usinas nucleares flutuantes no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0lZb3M4b0dscVJhbk5Va1ZlTzJmdE5mSFBybnRCXzFJOUgxd0ZwRzVzdU9nNWRJTV9hU1g4T0dYMTlmMHJyNmpUdGVaeVhPWUNIbUlVcEtRaWwyWDJEalJ6RW1QOFFnam94SFloVkNZYjNTVGhSWmFhZVR4NXkxMmJvM3kwRnF4ekVoV2c2WE1yMEtFbFItaVNRU1RDd3BFNng4d2tyQzMtdlExNDVBZ0JrejdQZVF5QzZwd3ZvZnV4RkNZUGIzeHEzSnF1Wm5XdDk4UFA3aw?oc=5",
-    "data": "17/09/2026",
-    "fonte": "Cenário Energia",
+    "titulo": "Petrobras avança em expansão internacional e negocia exploração de petróleo offshore em Gana",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTJTOWhMQ25RSHI5N3l6S0Zyb3ZRWm5QQzFNWkZrZl9HbklaUXcyQVBjbHdZR0RoVDFvNVhpUmtNZlFyNmhSaGo2S0NxRUpWVm4weDdGQ2l1UWsxekYxTGx5R0xZbVlQTmo4elVUTUExSDA4d1BQRktxNUdNekFmb1o1UVdaZ1ZXQVVoZ3RGVlNjZ1BQV2QySVJIOXVXZ1RxZzAweVd5VkVkbXFEX2w4V3JoRHJPXzhTdlp3M3Nuc0Zka1dtOGtr?oc=5",
+    "data": "21/08/2026",
+    "fonte": "Brasil 247",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Petrobras avança em expansão internacional e negocia exploração de petróleo offshore em Gana",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTJTOWhMQ25RSHI5N3l6S0Zyb3ZRWm5QQzFNWkZrZl9HbklaUXcyQVBjbHdZR0RoVDFvNVhpUmtNZlFyNmhSaGo2S0NxRUpWVm4weDdGQ2l1UWsxekYxTGx5R0xZbVlQTmo4elVUTUExSDA4d1BQRktxNUdNekFmb1o1UVdaZ1ZXQVVoZ3RGVlNjZ1BQV2QySVJIOXVXZ1RxZzAweVd5VkVkbXFEX2w4V3JoRHJPXzhTdlp3M3Nuc0Zka1dtOGtr?oc=5",
-    "data": "21/08/2026",
-    "fonte": "Brasil 247",
+    "titulo": "De olho na Amazônia e em plataformas offshore, Rosatom propõe usinas nucleares flutuantes no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0lZb3M4b0dscVJhbk5Va1ZlTzJmdE5mSFBybnRCXzFJOUgxd0ZwRzVzdU9nNWRJTV9hU1g4T0dYMTlmMHJyNmpUdGVaeVhPWUNIbUlVcEtRaWwyWDJEalJ6RW1QOFFnam94SFloVkNZYjNTVGhSWmFhZVR4NXkxMmJvM3kwRnF4ekVoV2c2WE1yMEtFbFItaVNRU1RDd3BFNng4d2tyQzMtdlExNDVBZ0JrejdQZVF5QzZwd3ZvZnV4RkNZUGIzeHEzSnF1Wm5XdDk4UFA3aw?oc=5",
+    "data": "17/09/2026",
+    "fonte": "Cenário Energia",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -480,19 +530,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Correntezas até sete vezes mais intensas levam Porto de Itajaí a pedir rebocadores mais potentes para manobras de navios em meio ao El Niño",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORUZMekl0WjBSVnNwX190Q3FjclFUdE9PYmc2U3lkNmVrTHlCY1hGSE5adm8zblF2cS1SOUc3N1hjbElXSHNGQ0FQdnJlRUhSQzMxa0tYVE8yaDZ4UmJJYm9yZVByc2RSM3ZOWHJEckZLNExUNW04NW1nZHNDemotRS1XRFc2VDdQUVh2cHlJUWRqbld0YVQ4SEdjZTk2elNpNXVvZHZBbVhxNXNPME9ObFlxdlpxMzRTcm9sbnIxZkpsMkE0bHJ2SnA5WUY1OXV6STNTOWNheVlYTG15ZmtnNFlWelp5TkpyVUo0UGludGVySlBPeG5PZW9jT2Q1dlc1RzYtTg?oc=5",
-    "data": "15/10/2026",
-    "fonte": "ND Mais",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Braskem amplia autonomia logística com primeira atracação do navio Blooming Future na Bahia",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMG1YeU1kaTVDV0NvVGlKaU5sX0czQi1NUEdGWjVmUG1GRm42cHk4VHVWSXJ4NHUxWmlodUY1TEtuX0dTc2tmeWNFOVRIM0dNVnVJODFDSEpodEwxOUxWRVQyT0V0UVE1eV9aMHJJc1lfU3Q2dWQyWks2M25VOEhjQnpGcU5xRlVMcUpub2tYQmxHdXAybWFxWnVDbTZNMlgweHpPQzlOd2F6cFllNGZwTGRFSi1nZENMb0cyc21R?oc=5",
-    "data": "08/10/2026",
+    "data": "07/10/2026",
     "fonte": "MundoBA",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -650,20 +690,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Derramamento de óleo no Deurganckdock afeta operações portuárias em Antuérpia",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMEE0Nm15ZTduSHZvR0FqYUNLRVVKLXYzeGhqTmg1T1VvdDRpU1Y2MUxMdnNtbVlSaHdMbk9EdmVlLVZBY3NMdlZJYS1qamdicDRaRktHUWc3cHZnYWxXX0s0Vjh0Sk9xM3dRQkNvSGJ6VC03cWIwQjJVYWRaRHQ4YmpYZUlLby13aGxKNVhhWHVqZkd3ajBFTWNhMG9WZ3ZXV0t3a29BaERSbkw2dE1sclh1RS1WNDZ1ajlTcm1GWGwta2FOSmNhUXM1clF5VUwyQWljMnYyTWpkZTdBUFRMT0RRRk9MUQ?oc=5",
-    "data": "05/10/2026",
-    "fonte": "Data Portuaria",
+    "titulo": "Navio medieval é descoberto no teto do porão de um prédio de 1244 na Alemanha, com 19 tábuas ainda encaixadas, vestígios de calafetagem, pregos e até reparo em cauda de andorinha",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlNkRmpXVlhxMzVWTDJudEdvaWJaek8wM2RMc0Z0VUlGc3BXT3o4U1ZRWi14TzdWdl9tOVJJNy1Sb3gxTENmYS1kN2pVMDNNSkt0N3VtRE15bGtua01GSXhYSDNvaEw4VzFIMlRjSS1qOHl1SmduenZGMjRQVmRzRXBiWE14UVZ4?oc=5",
+    "data": "18/08/2026",
+    "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Navio medieval é descoberto no teto do porão de um prédio de 1244 na Alemanha, com 19 tábuas ainda encaixadas, vestígios de calafetagem, pregos e até reparo em cauda de andorinha",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlNkRmpXVlhxMzVWTDJudEdvaWJaek8wM2RMc0Z0VUlGc3BXT3o4U1ZRWi14TzdWdl9tOVJJNy1Sb3gxTENmYS1kN2pVMDNNSkt0N3VtRE15bGtua01GSXhYSDNvaEw4VzFIMlRjSS1qOHl1SmduenZGMjRQVmRzRXBiWE14UVZ4?oc=5",
-    "data": "18/08/2026",
-    "fonte": "CPG Click Petróleo e Gás",
+    "titulo": "Derramamento de óleo no Deurganckdock afeta operações portuárias em Antuérpia",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMEE0Nm15ZTduSHZvR0FqYUNLRVVKLXYzeGhqTmg1T1VvdDRpU1Y2MUxMdnNtbVlSaHdMbk9EdmVlLVZBY3NMdlZJYS1qamdicDRaRktHUWc3cHZnYWxXX0s0Vjh0Sk9xM3dRQkNvSGJ6VC03cWIwQjJVYWRaRHQ4YmpYZUlLby13aGxKNVhhWHVqZkd3ajBFTWNhMG9WZ3ZXV0t3a29BaERSbkw2dE1sclh1RS1WNDZ1ajlTcm1GWGwta2FOSmNhUXM1clF5VUwyQWljMnYyTWpkZTdBUFRMT0RRRk9MUQ?oc=5",
+    "data": "05/10/2026",
+    "fonte": "Data Portuaria",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -684,16 +724,6 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2ZES05ITm4yaDVHLXp4Qzhudy1MTGE0NTdrYUdWSGhfQ09IU2RLcVVTR2hnU2NFNWo5LXlUOTRtRDFSUjY4d2FhTTNPM2xmaUVqNWhIYWdneWJCbFRpZUdzRUNwM25Qck5kd3lFUlMwVXZpWFk3cTlacWVkUi1NaWZ3M0FvbGludjRFeWdpc3VqYWpaT3RPaWE0V2FzRG84cm5rbkRRTkdHTjlzb2c?oc=5",
     "data": "15/10/2026",
     "fonte": "Sul. Agora",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Marinha localiza embarcação com seis pescadores após operação de busca e salvamento",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVl1aFdDUWRaRDljM19BR2RUVlRwMzlMZjVJbnczYjBxSlpXdDY0S0RTQ3ZnT2xOQzBLZEVlRXZNUmwxNTlhcXd0Y012MkNHUkFSWVZudmJhUlFIX1pYLTh4ckVtMzl2Vzg2MndYMWR6dFRnWmNRNWozbi0wYkFPZ3NzQkN5Q09HYVNROVczeWJxMGNlSlctY2x4LVBkcTlGblBNdnlNNk94TXNqd3ZKdnlneUZtYTAzall6M2NjUmh2NVMwcW1sM1ZUdw?oc=5",
-    "data": "05/09/2026",
-    "fonte": "Agência Marinha de Notícias",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
