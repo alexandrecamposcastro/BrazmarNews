@@ -140,6 +140,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Quase 700 disputaram 105 vagas no 1º ciclo, e o curso grátis Projeto Leme Paranaguá abre mais 105 no porto, com inscrição até 13 de novembro de 2026",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFVkYlNEWGFiOENtOU9LcWJKT2JFandtblBMRmk5dDlub25qTEFONHNWdmhtTWRwenIwVHBlVGxIdnI1bzNTa09hMEloX3BTSWNnbW5ZOVM0eVNwd1lwMW83RmV2VzR6bW1TSTJwZnhNRWlCUUJIYmFFcV95aldLRVlQX0ktMTZTOUd3RWFBRXJIZGNlb0RBRDl2MWtFQk5XeGhz?oc=5",
+    "data": "04/11/2026",
+    "fonte": "Naval Porto Estaleiro",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "R$ 432 milhões e 15 milhões de metros cúbicos de lama: dragagem do Porto do Rio Grande acaba em dezembro, e o canal já precisa de novo contrato",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlZXZTE2WjBDOHJiQjBEU2FiZ29aeXI2RFBtaUVvdXZMOHZWak41S2R5TmU4OGxWRjlOYzVwRFBvekc5UjEwYU5vcE5IR1hXUFIxN1h2SVFqWm9OMGM2WVJ0M2pMaURBaVMzR1RqWWRsaDlmSGdpSnlMdEFlZ2tNaTZWZ2FyWkpNUFNOYTRkNFlWN3MtTk95akVB?oc=5",
     "data": "04/11/2026",
@@ -210,16 +220,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Camorim e Barcas Rio formam 35 moços de máquinas",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1hYa0NoRGhxWElWcm1IQ2NtT3VvSnRDLXhRbHdqVmRoTFhmWXNiT3c2SDl2VUd6QVY0b08xUnMyQ0paZXRQZm5vQ044LXVXUlhTNGtZR3gwM3YtVU5lNnU3bjk2WGlFa0RfanpNVVhTV3haMTNzclMxYmRXSlhVYmF0Y2dFeWV0R3c?oc=5",
-    "data": "04/11/2026",
-    "fonte": "Naval Porto Estaleiro",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Afretamento de navios: ANTAQ abre debate sobre cabotagem e apoio marítimo",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcTV5VkNvRHJ0eDFIY1RGeVJZb0FXTFB3NFFkN1hmYUVRWDNzX0EyTndKd28yTDZlUFRlNjZic2drVFRTYjFvOTJ2TC1jaEV4anpTQTQzMTJWVVVVTS1qNVdWWEh5eklGejlUMk93aXlHS3gtWVhBcS1YUmNmVFdUNENGMTE5ckNQX1B0SXJFTEI3VDg?oc=5",
     "data": "30/10/2026",
@@ -260,19 +260,9 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto Brasil Sul prevê atracação de navios com energia elétrica em SC",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObE92MXVoOWZJbnRfeEdTMy1sV0EtYjZSTlVUWmRGa3haRWFMSnV5ZVZhTWQwWTFfaWRGeWctQ3lTUnZ4X19LYWRGcDBIWjNsUzRwZ3ZVTnJDekZLNnQ2RVp5U2Q2b2Y4cTA3SWtKeTBJR1FENm5wYnBTbHlRWnB5Vi1XLUFwR0VfQlRGX0ZLcFhXYV8xbnp3R1V5ZDVhMkotNlRMNm1PN1lLZ25rSEVj?oc=5",
-    "data": "06/10/2026",
-    "fonte": "Acontecendo Aqui",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Plataforma da Petrobras atinge produção de 180 mil barris de petróleo por dia no pré-sal brasileiro e transforma uma das áreas mais espessas do campo de Búzios em gigante da exploração offshore",
-    "link": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPYVFnMmsxNXN4d3AwcnhFNnVydEpmS2JJZ3ZHUnhJRy02LXFEVnFXaHlyMWN1M25yRTZLRDFkZ2Vzb2FkRFdhYmF1eEFNbTlzRk9NWTdZNm1YTUR0MWJ0d1ZEWWZ4OHhzZDhJQWd5MWo3QXJaSzI2YWE0UVNjeDUtYTFNLThJWExCZEVOSmZ1MjdUa0dJb1dWanJGdkxiME5nWTdxNFlMSVU3cGJYV0xTNGNwSGNCRUM3QjFFT2tEeUZFdkRhZzZ6Y0s5dGlrdGczSTlOTTdZRUx4dTFOZHhsNmdoTHp1dGhhdGFQVDRpaDMyMG4wVDlKbm0xLW5DWUhJMGxoSlRXSUxucnhBNm1iSWdtTk5LTEdNaDZQQTFlZHp6ekVqcFFsbVU3TDdaeC1waXBpYW9Nd1QzMVY5YlJSVm1wNkJoUWxaeWRMRTVOSzJ5T0NkbklUUWFrcDVRYXBwZ04yd2oxSmMtM181am13clNYU0ktTnpRSGRTSjBUcEY3N2x0X1Y0am5JVldBbU05akhEbTFxSndmdzBfT2pzY2FSbERLdm9sVGlMbXRiNEJwUzBaVVdPaVFpdzN4YWx1Q1JXLTVrUWF2RFBSVG94bVlrcFMwaFRWeVh4dzdBVjAwNlNMdkJMYlNPdjRCLUZVTlJiLV9MaUFETmR4WnUyZ1lHRUc1TWJvTkZta29RSzBDRW1qMEpXMDY3aUJXSWpMLVNNVEh5Rms2NnZZRG4zS21IY3NGLU93V1hOZXJPZTl0Q1luWXdVbWwxX3ZaUHU3VjBFN1RhRjBFbi1lX1ozQldLSThBWUxUaTVWTHZEbjVneTBsVlR1Z0FtZTc?oc=5",
-    "data": "04/11/2026",
+    "titulo": "24 meses de estágio com plano de saúde numa empresa de navios que atendem plataformas de petróleo: Bram Offshore abre programa de estágio com inscrições até 30 de novembro de 2026 no Rio, em São Gonçalo e no Porto do Açu, mas deixa a bolsa a",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTjVEUjU3S1RiTEZJa01kLUktMG5MSmk3S1QxMXJ0am1Bd0pYS2Z5Si04Rk1iZTJITGtmcnlMdnhNUGtnZU5mMXF3dF9tdTQ2bUhYcFhKNUg5MUlPZFh3YlJPY0hLOERWdDNsTEEzWnlzVGZxTWZIWHpYR01hMGpPckVMN0hHRlJKaGVwNWpkSEhTWXJ2NUNPZno5NVpyb3JOVzdyb283UVd5OWxrRDhrVnpOODhpd3pSclJmY0NGbHg2R09RUnh4QXVTRTduMllRMHdNTHFNOWgtdjc0Y0Uwdk94ZWlncUh4ZnZsRjM4QjRxRndubkFjVmk1bmxib3N0aXgxTzA4VnQ5QlhKZ0VZeWtPQnAwcTZhV0RnTDU4MFF1MDVteEN5LVBKWkR3N21vQkhhRW9JcTFGbkY2UFk0S0dn?oc=5",
+    "data": "05/11/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
@@ -510,6 +500,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "253,64 metros úteis no Rio: dique seco da Marinha combina entrada de 32,71 metros e soleira de 11,16, medidas que explicam como embarcações chegam à docagem para reparo naval nacional",
+    "link": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPX010TEFuNFdKakh1LVg0UGpKRzByb04xRk9yUUVtTWhMQW5lcUxvWWVxWTBBenlpLS1zaHFXcUdIQ1plbGtPY3hyNllDRUpqZjRkV0xnQjltNzNmZXVEQXZmSHRBWHcxeVlxQVpoQUpQODNsVFF5d3daWUJUUVFiOWQ2cFFoc2VPU0U4Wl9Zb1A4clFZSHVHNXlfUFFrZDdad3V1aHZhTFNvMi11WDFnQlM4V3NoeDdJUTdZWVczcjFjaW1kUGpYVmw4NTZDYS1xZG9zVkZ6TUZSZTQ3ZkF3aE5ydGJwaGlBM0RZWUxmZTQzWFNZMFdQUjg0Nm9FZGJOZV9CUGZhLWNfZ2pfc3JpQy1MeDJnTjQ0SXpXbm5kaGgwX0xsZ2NxNS1MN0xqcTZMLWxKcEVXNU83ZVE2b29HVXp4YUFrdGdXWEI1ZkRWXzBPNXREUVhQOEJxYUtQWW9YWWR3NTJYZnlPQ2thdVN4QThqaTJScDNvbmRHX0dQaXF5T096ZVNOZkJzX2MtVk1NQnlLUTllN0Jsa19tZHJxMmJfandIX19nbUR3cEFTRTdKcnVyMmt4U0VvdDZWSHp0YlRNR1J6SDBZRzlVMURJLVlmb1JzbjlVWV9qSFRsZHppRWUzUThzajlFUURxMGhCUG5MZWI1aWQ2U3d6QjNfT0J0UmkwNUg5Uk9tdnVzRDBXY2pnaFV4Q1I4aW5LZ3ZUc3hDMGR6M1V3S2E1NVNGdkdpRDhIQmtqbEZ3TWM4TF9iYWlwOS1zOUNYUjlmU09oczdiQXB1d2ZmaERHNmJTS1JGNVBDN3RyREJJNQ?oc=5",
+    "data": "05/11/2026",
+    "fonte": "CPG Click Petróleo e Gás",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "O que acontece quando um navio sai da água? Oceânica busca supervisor de docagem no Rio de Janeiro para cuidar de partes que o mar esconde e acompanhar uma etapa essencial da manutenção naval das embarcações",
     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOb2JmMk9KZ2c3c2dZOENydlUxaU5SUUdScUFHSkRjNkFYSzE0TGFuZWU0RkcwdXVWUUg2dG9Kb2I2ajA0TmRpUzU4UWktd2QxRU1ITXRHam5raGtNWVo2WkZaamdER1FyS1JJbXZRUU81SWJ4MVp3MWUxcXhCR3lkRl85NF9fcDZCZ2t1NzFJYjBRa0szb2xrREswdUlHbDluSDdMN2lGeTNVdy0yXzNfSGE2blZXVnkwOThfM0VIdlhjdWJ0dGtCcFRpN3M0aVhyMHJ2STNMWFVVM0ZXc0xvZk56eDBOdW9ibEk2Vjd5YlBrWmRiSC1hR0U5aUVTNk1ZdkhzSmp1NWV4SEpwNDJhd1MycEw2dE9vVmU1MG92eXg1WnlseWYzcTNycUdQa1IyajBnaEVQSFRITDF2UjVoeER6NUlKNWc?oc=5",
     "data": "21/10/2026",
@@ -552,7 +552,7 @@
   {
     "titulo": "Marinha do Brasil coordena salvamento de navio mercante africano na costa do Amapá",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUdxRUNZMFVYWUgtUVdFclBob2VzQ2JqTjlYV0s1Z2VCejBYSGJBYXByeWpsM3hRU0tCRG8xUkh5c0tIYWlCSjNrWHFqQ0hwUEFDODVxQW1rdTdUYjFJV1JYdjA4OEZUQmV5LXo0YjYydVhwTTNybFl0WFN1M2NkNk83cU5TMkhXbkJ2MWpCU1ZLQlBDQTdUREk3dXJFd051VEdkeFpMdm1Ed0N6M2laRW14QmF3RVB1cmZidzZtVnVZSkRZSmxPMEtXc2o?oc=5",
-    "data": "22/09/2026",
+    "data": "21/09/2026",
     "fonte": "Agência Marinha de Notícias",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
