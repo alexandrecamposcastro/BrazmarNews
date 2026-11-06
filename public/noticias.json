@@ -70,10 +70,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Angra retoma operações com carga geral",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXBEMEdlRE9tV1lRZVNjWDVSblFwRElUbVRtdkhWS1Q2YzNMMXBmVUdMZ2xnVWcwU1djT0pQMGpuNjlSQmZ0aEhGNHF3cGlZQmJqVHZtTElKcU9GMzVJTWhLQkdQNzd0aWdralV3ampTMWFxLUMwZGhaSS1XNjZILVBlZTk2bG10ZjMzRllhUTFiWk5vdE5qanJzZmNZSHZTT1N6Z3JXMHNTNE5sVzZFNEZ2cFhwYnlwN3hNWFN4SzZvemo3MkE?oc=5",
-    "data": "23/09/2026",
-    "fonte": "Portos e Navios",
+    "titulo": "Portos do Nordeste já medem emissões? ANTAQ abre consulta",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWS0yNkhDaHpsSG1YM1VRcUVmandyNjlHWjIycG00UlJLZ09HVWVTTzUtMWlFYmF0bmNfNTltSnN6d2RKRVV4LWVKSkY4VmVSMTBBNHUxSEdGMXU3SmhMakUtT1dxTUdBNXpqUHB6N2hfNk1Qc0dNOGxmdkVaWVU3WFJqZktjelVmNVNxalk5aURtUlk?oc=5",
+    "data": "06/11/2026",
+    "fonte": "Defesa em Foco",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -84,6 +84,16 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmMtek4xTzRqTG9uWW4yUENKYk1hOTlWeC12TnliMkkzSjU2dlR2VHVfeFZjbUxUZzdKX1Z4OVJDSEE5TUp6TTM3bUFCZDlCSFI0T0VOYTJTbFZseU5aVjF5NVZBblF5YWVGMFh1UEp6TDd6NTZFN0ZwRzlVdFRQU0hscWlBN0MyTkZ3aUtB?oc=5",
     "data": "16/10/2026",
     "fonte": "Agência iNFRA",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Porto de Angra retoma operações com carga geral",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXBEMEdlRE9tV1lRZVNjWDVSblFwRElUbVRtdkhWS1Q2YzNMMXBmVUdMZ2xnVWcwU1djT0pQMGpuNjlSQmZ0aEhGNHF3cGlZQmJqVHZtTElKcU9GMzVJTWhLQkdQNzd0aWdralV3ampTMWFxLUMwZGhaSS1XNjZILVBlZTk2bG10ZjMzRllhUTFiWk5vdE5qanJzZmNZSHZTT1N6Z3JXMHNTNE5sVzZFNEZ2cFhwYnlwN3hNWFN4SzZvemo3MkE?oc=5",
+    "data": "23/09/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -110,10 +120,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "\"A maior turbina flutuante das Américas será testada em Rio Grande\", diz diretor da Portos RS sobre parque eólico offshore",
-    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPck51WG1EWnQ1b3Q0R1hPNEhOdzZORlYyTDVPcmk1bjlOSGJaaWs5c2NsMkFMRVV6cTUwblhCT241bm85Q3luakJSemtPMmdFZXNaUWpsOTNfRlNVdENPV20taHZMUzJxalF5c2xXWWFwTzA3OC1WcTFndFJYSTBPMHByQ0RkcjB6R0Q2RU1NUFhpZ2pRMDYybjBGeDRUeFljSXdraE5ZTFBDNWstR0otNlp2ZXBTTjQwOWVkMjNNQWo0ejZNUUNhMjlyblhDNzNEM3d4Q2lmWVR2cDlPQVhKUnYxaUFEblF3emJiV0JlUVBLNkExN2dRU2dxODAzd0d6MUh5T0lJRy11Y2NOTU95dnhQSl9JOHVoSjcxbnZ1VGZNQTlMVmRnbUpyTTBaSG14dHY5N0lCWWI?oc=5",
-    "data": "05/11/2026",
-    "fonte": "GZH",
+    "titulo": "Vigiar o tráfego de navios do Porto de Santos vai custar cerca de R$ 89 milhões, e o Porto do Rio Grande deve ser o primeiro porto público do Brasil com um controle desse tipo",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWRnSEZYNGlSa3MtcHNQQTJ5ZFZZV3dRZzlRLTJuUy1hcUREVlY5aTJxRm1GSGEwdlR6VHd2OHZyWF9vV2k1Y2ZBSnljam9zVWU1WktRaHpuTk81NGVnOWVUQU5tSVp0a0Q2bG5FdzNDR0FfVUx3MTlfSGppR2dlOEtiT3NmOUplVS1DUA?oc=5",
+    "data": "06/11/2026",
+    "fonte": "Naval Porto Estaleiro",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Quem foi demitido do Estaleiro Rio Grande em 2016 está sendo chamado de volta: o lugar que já teve 12 mil funcionários corta aço para os 4 primeiros de 13 navios em um pacote de R$ 6 bilhões, e as chapas vêm da Indonésia",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmhSTlJIT1ZadXplWl9OWmtIdERNRkZ5NFlJRXhGODNyYzdpU1hrNURXZkJ1MS1qb0ZIT1JKVUZhZkx6Mk1fTDBfRmJxZ2k1UTY3XzdscTV6dERjeUo3cjcxTkdtOW5nQ3o0T05zQ2QtZVFmcTZma1NtSE5WbmotTDZLZmR5Nk9fSGJtRTlfM2pRSmtx?oc=5",
+    "data": "06/11/2026",
+    "fonte": "Naval Porto Estaleiro",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -210,8 +230,8 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Balsa a hidrogênio obtém acordo regulatório com a Guarda Costeira dos EUA para construção e operação",
-    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbm0tMnRibVZoVkZpSTlUZjlJdE9jVmh2dThjV0p3a3gtcDNpMUxwTmxwZWFLcFl3dFl4b3k3ZGhRelBOVU1udmVEZS12TWpqM0xMSV84VE95ZF9Wb0thUEhoZkk4Y21CZGJZejZNUDZNeE50ZlZaSDNad2p6LU9rWjJqSkZ0TzhkeEJLQ3dXMVF1MDhudUdmSm9YLUloczA0Q256YzUyUTZ1b3I2X2JrV1p6Q2lGRGRHREg2djlzSDU3S1dLV0hFR3Z2VC1WWER3eFhoYjNQQ0E2VDNvTlgzYk1nSzhVbnc4MXJzTVBFdnJaMEQtWHJDSkZfUzVLdnZKUzR6MmtzVmxlRkZSRE1xbkdqV1JpSmFYUFNTN0p6d0hwbjdqUzk2Sm56djg4YU1jODM0TU94N0xfcmJtbXQxaDlDRHptQnJBbTJQWE1oUHpoVEpFNzdhVTN3?oc=5",
+    "titulo": "24 meses de estágio com plano de saúde numa empresa de navios que atendem plataformas de petróleo: Bram Offshore abre programa de estágio com inscrições até 30 de novembro de 2026 no Rio, em São Gonçalo e no Porto do Açu, mas deixa a bolsa a",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTjVEUjU3S1RiTEZJa01kLUktMG5MSmk3S1QxMXJ0am1Bd0pYS2Z5Si04Rk1iZTJITGtmcnlMdnhNUGtnZU5mMXF3dF9tdTQ2bUhYcFhKNUg5MUlPZFh3YlJPY0hLOERWdDNsTEEzWnlzVGZxTWZIWHpYR01hMGpPckVMN0hHRlJKaGVwNWpkSEhTWXJ2NUNPZno5NVpyb3JOVzdyb283UVd5OWxrRDhrVnpOODhpd3pSclJmY0NGbHg2R09RUnh4QXVTRTduMllRMHdNTHFNOWgtdjc0Y0Uwdk94ZWlncUh4ZnZsRjM4QjRxRndubkFjVmk1bmxib3N0aXgxTzA4VnQ5QlhKZ0VZeWtPQnAwcTZhV0RnTDU4MFF1MDVteEN5LVBKWkR3N21vQkhhRW9JcTFGbkY2UFk0S0dn?oc=5",
     "data": "05/11/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
@@ -410,20 +430,10 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Incêndio em navio de carga em estaleiro na China deixa 25 mortos",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd1NZX0Z2WnpSQjkzWGllUldMd3BqRFdCcTNfdGJiai1UWDBTT2lsUGlNbTNlTV9UNWNiZWVZdVBZOXBWaWRxZWdkWS1Ha0IxWWY0UFdaMkVpODhDWjl4WFY4Ui1sb3Q0Vm1oQ3cxNkJPZ2p4M1BURHpxM3dCOFg3dndTQXkxYmZlUk5NVWJxdzBsejV5eFJWVHVRTGxzVm1RMDBpa3dKY2ZGQlBJdWdEZHFVRWtBdjQwSENUMUk2Y1A1R09Qb3ZBTlVWbkJlTXRxcU1RZEw3MHY2QThxR183cTJDbEI?oc=5",
+    "titulo": "Incêndio em navio de carga deixa 25 mortos na China",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmVNclozcmlzMHEwY3hJemNjd2lwSi1LZ2ljVXhuVDZpTmVIa3daRVRCWERCZERoT0p6RmVTaDNZWVNzYURFYmlQeU1zN2ZrZmxhUkV6X29zWWhRZVpla2xZdnNHOU5VZkEwVHpiTW9ZSWsxbUVGRHl6WVlsdDVOUV81Znd3MnZwT2l2RFFGOU9mNjVxcTBZcUQxQQ?oc=5",
     "data": "10/09/2026",
-    "fonte": "Terra",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
-    "titulo": "Estaleiro das fragatas amplia serviços pra reparo naval em Itajaí",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHFFOTYwcHVsR3pWM2NCbEtqeF9OelV2Q0RjOEVwQ2lIN05wWHBnYTYtV0NUM1A2dDNYOUZWUDdGVWlkRVFucl82eGdOMWIyTDVNLXpjWkJ5QmJaMnZqWklObFE4Z180ZnV3Z0w1X2phNUNuYjJhTU5WV0dybnRIVFlRUUk2NHd2cVBscURYYmNnWXItekVmMFExYW9BTVFKemdJ?oc=5",
-    "data": "02/10/2026",
-    "fonte": "DIARINHO",
+    "fonte": "CNN Brasil",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -492,7 +502,7 @@
   {
     "titulo": "Marinha do Brasil incorpora Navio-Patrulha “Mangaratiba” com tecnologia nacional para ampliar a segurança marítima",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUkxVjJwcklDcU9MemNFNGItYlNPYkU2TGVtZ2dINTlWWlY0dm5UN3RQNXBnYldEcHJFVktyaHN2dnhCLWEwQy1VSkRISXhFdTVZMks2VFVOalN6b3hyV3d4cVUwcHlFdGhOdjdiQjNJb0FaVTdBMkFBc3dPRVFqWmhfbWdjN0RlVHQ0TXFfdEx4OWl4cUg0N2I1SnEyOG5oSWphR1RlMkNDLU1ZZTEtQnFaa3FiTjFxcVpQTHhaNHpqTnppdFQ5UlMwRFdWM3FES2dvMGd4bmY?oc=5",
-    "data": "30/10/2026",
+    "data": "04/11/2026",
     "fonte": "Agência Marinha de Notícias",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
