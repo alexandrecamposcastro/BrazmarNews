@@ -80,16 +80,6 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Mais de 30 feridos após colisão de navio-tanque com cruzeiro em Nova Orleães nos EUA",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFRSblRLUDJ4N3hGZmxOeWNkOVRmaUZoYWUxRXp2OG1XQnFjeDdfSm1ZRkl5cmh2YjdJeXFEMS10YURLMDhRUnF2ZGFFTUpSTlFZRWhORk9xYkhpZmR4RjZjMmdUaFBWcm1Dd2VsSGFfbUZOLTRyQS1jUjBJd0kya1RwS3A3bGNIdDdQV3dKOXIwV3dKQ203VUt4ZHlEWEhsSURockNTOW9KVUYxRnfSAagBQVVfeXFMUHh4dWxmYWlzOV9xbTRLNTlSb0hUZWhRMmJuUDVteHdYdGg4aTNUbXBDVzRVdmozRnE4R2NXRkN0Z0owUVF4Y3VBUzcxQWREWnE5bGQtR3BVaWlUVjJTdFlqb1RoVFNpT1JmeERFYjRlSzdsYlNPSGR1QmVvNE1kODdmZG52SUFBZy15LVRVanJrVDVwNERRNFV6TjJLMTkxRVZrWGxVVWpG?oc=5",
-    "data": "13/11/2026",
-    "fonte": "Correio da Manhã",
-    "risco_pontuacao": 0,
-    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
-    "entidades": [],
-    "recomendacao": "Revisão manual necessária"
-  },
-  {
     "titulo": "Terminal no Porto do Itaqui amplia movimentação de fertilizantes",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1BGRHktQzVQZ2Y1dkJ5RXcxQ2daZjh0WXpQM2x6TlJQSW5sS2tKb2Qtc3NXR0xVMWJMTFM2REpwVWFQWVNVQWxBa0NzRmY1eHQycnNsbXVIM3U0QldUOVVvMTdoOF9KZ2s0RHRPR3NoU2dmMURvay1aY3ZLMjRoQ2VhSGlDZ2E4clRISnFtVGZDUVZjVXJBTWVsMA?oc=5",
     "data": "16/10/2026",
@@ -180,6 +170,16 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
+    "titulo": "Diretor de sindicato é preso em operação da PF contra tráfico no Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONFN0UU5GQkpNcXJXWDlRbjI3THo1LVVZYmVSUlBobjRQWnlyS1FNZHV0WVZjWGlPVFJfYXFKZmQydzR2cUJac2p4X0tQUEd1Qko3eWNkVmhOQkpTd3lGMUVUcWYza2tYRVFyckhQb1RYZmEyM01uM0k5Tmt6UmJBWHI5ZHBLUGdsNjY4aXdWeE1UMWViSHF2ckJLNzlCV25XUDc0dklVSnByXzk5c01udFVTXzhBNTAyWURhMmhDTFJaOGZoU2lzSXV2WGlQSE1TbmVZRHcyMGluTmpKUHRwYk9YUG1Td1pDRWYyMmFDZVp1a29TcTRlck9BRVNmMWvSAY4CQVVfeXFMTWtxbUpSZ21FY1FFNFNpaUd1SFR2MWt4S1hka3BndW9zS1RjWGgwUDBLd1d2RmxPZ2NUcWhyVmxLbVVpWUVmTFJRY1Y2RmdVOXZlLVJnX1NpRVJUT3JEdVZyWmFjM3VpRVNVQy1LUGVlT3FuTE1SWWpHSEV6Yk1NejhBTW1iYXdPcmpGcTkzaGJCZlNZTThOTG1QS3d2Q05aQXc3RkplWUdpTkZFR1AxdHUySzY0TlFSVTlBUEFMT093TUNsZXZKQTI1TVZ5UjJsWkxRZ2hQX2VnYUxrODktU2VYWnJqSlJoZWQwaHk1WEJGS1JDVUQzOXloVk91M1EwcnBnOWZiaTVoUy13NUZn?oc=5",
+    "data": "17/11/2026",
+    "fonte": "G1",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
     "titulo": "Imagem de Nossa Senhora do Rocio encerra peregrinação no Porto de Paranaguá com procissão pelo cais",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWIzc010SmdDZFNDNDFtWXFqNTJ5Q3NLVUwwR2VrTHFsU05JU1MybHltWm5LWDFpd3dhRVZDYlJ2amVKMkFXd0toZExtWnRhQjNJa3NJVGo2TmdOY0EwY0dHU180ZlEtQWFUaDZxXzBuOHVXNW9GcEFzYkFfNFZBM3F6U0luODNQT0JNaVhhY3hCb2JFUnlyeWp6Qjg5RnlibGw2dEp0SVRTVE9Dc3M0MEZFN3hJTmhtYzdMMlFFUFd0SDJEY0phbXFFNlRSeWM?oc=5",
     "data": "13/11/2026",
@@ -243,7 +243,7 @@
     "titulo": "ANTAQ abre consulta pública sobre regras de afretamento de embarcações na cabotagem e no apoio marítimo",
     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHZpa3ltSUtUYlBEWFRVM3gwTVU3c3JyMHFOUEJmSXNsX0xCczlpTGY5MV9nSjFvMzliSnJBMy1WZGRSMDNkbkY1WjdWc3RVbTZlZElaUTFVeDRuNm50cmY5Q0RhLWpHbE5Ccko0S2thcEV5MFhMWHhGaXVzTnFlcnkweXJpWDFGUVcwMm9KaVdpN0tkZUU1cEhlbHFTWmVQNFVjTkR5YkZJdlpwS3pEd3psbl9RRHRkRGxUeDdNS2JhaEE4ZTdvMEtXeUNtR1VnUUFhRFlaNUZaTl8xWl9yQ2tHNWpsY3A2dmo4Q2xua2poakdoWmpCYkJB?oc=5",
     "data": "11/11/2026",
-    "fonte": "GOV.BR",
+    "fonte": "Governo Federal",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -281,9 +281,9 @@
   },
   {
     "titulo": "Svitzer recebe novo rebocador que apoiará operações portuárias no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3o4cEJWUUtlM1lIcDlneS1XbTFHX3E5UXMzWGNHQk1jY0txQk5NVExfbVFVMVYyZGljWU9hYVJfWm50NHhhXzF4Qm1FTmpZUjBtcGFOblp4bjZXTGJweFJMMUhLRlBGQ1RNVWo5b0twSUNzRXhZamZOZ1RheXVBZWtRb1U3NTRBUlM1aFctbGVhRUM1OXNLTDl0WUJQUlpPZkE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnlWc0cyd25DR2F4el9ManZWQzJXWWY5MWhINllrWHprbXhTR0xSWnlXdUFFdlMyN2FzN1lmZVRKejRTU25GRVAzU2ZkT1VRSEIxMUItR1NCYjk3WUhkNGRlTnBBSjZvUF9JM0RabUUwWjFSTXk1eEgzN3RDNXp3YkpYU2JsVndrMHhBN2t1S2lMMzBqbFFyRkdpU05YOWV1b2dMTktnZjhaaDh4eUV5QkdB?oc=5",
     "data": "17/11/2026",
-    "fonte": "PortalPortuario",
+    "fonte": "Jornal Portuário",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
@@ -410,20 +410,20 @@
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "INC corta chapa do primeiro dos 18 empurradores contratados pela Transpetro",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYldmTW9XQWxWTkowalVCZ0FxWXJLRlNYeTVIMjU1cTdFelVqQTFXS3E1bVlQNHJILVU4ZnM4cS1pbEhUbXBYczkzN09ROWU3MGxrTXAyRFJ6OGQyUkV2SEdqTDhERHZTejMzanJjZzFUcU5tdkFwbXdkeE1FOVI1RElBd1lDM25xNE9BSHZSRGlnOXA0d1Zmb0s5NWpMOC1kT0NCV1d0Z1lReDktVlN0OWdERllZcHBRM0RNOFZsVFNXeXpISVcxY0hhVmFGNlIyVWlYSE1DX3VxRUtOYkEwYlY5RE91T2hVU2VXVkxSNFk3OFU5bFQzN2xoMXc?oc=5",
-    "data": "29/10/2026",
-    "fonte": "Portos e Navios",
+    "titulo": "Porto de Santos",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQXgxVi1wM3NjdGpkMVc4YXhaQnR4YXZFN1FfaXJXdjY0T0NqaWJEWWtXWUg4TnZpMG16eG1FdHFTUFdPcmFtNW5Tbms0QU1aQ0NkTFRFVWxMMG5rcnZhX3BCVW5lRi1mN0swekZYWjQ1YWtyQlNzcXZ4YjZsYzV0UF9yWFRuV2FKbTVJS2NTZWU3UHlyMWxUa3QzcUgyN2g0ckE4XzNxamROOXNGTExHV0dqcFQ2NUF4bUdXV1RQYUlvaHBRRlBvTEt1emNyaWxsbC1wb3FyTC1Nd2xaZ1E?oc=5",
+    "data": "23/10/2026",
+    "fonte": "Porto de Santos",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
     "recomendacao": "Revisão manual necessária"
   },
   {
-    "titulo": "Porto de Santos",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQXgxVi1wM3NjdGpkMVc4YXhaQnR4YXZFN1FfaXJXdjY0T0NqaWJEWWtXWUg4TnZpMG16eG1FdHFTUFdPcmFtNW5Tbms0QU1aQ0NkTFRFVWxMMG5rcnZhX3BCVW5lRi1mN0swekZYWjQ1YWtyQlNzcXZ4YjZsYzV0UF9yWFRuV2FKbTVJS2NTZWU3UHlyMWxUa3QzcUgyN2g0ckE4XzNxamROOXNGTExHV0dqcFQ2NUF4bUdXV1RQYUlvaHBRRlBvTEt1emNyaWxsbC1wb3FyTC1Nd2xaZ1E?oc=5",
-    "data": "23/10/2026",
-    "fonte": "Porto de Santos",
+    "titulo": "INC corta chapa do primeiro dos 18 empurradores contratados pela Transpetro",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYldmTW9XQWxWTkowalVCZ0FxWXJLRlNYeTVIMjU1cTdFelVqQTFXS3E1bVlQNHJILVU4ZnM4cS1pbEhUbXBYczkzN09ROWU3MGxrTXAyRFJ6OGQyUkV2SEdqTDhERHZTejMzanJjZzFUcU5tdkFwbXdkeE1FOVI1RElBd1lDM25xNE9BSHZSRGlnOXA0d1Zmb0s5NWpMOC1kT0NCV1d0Z1lReDktVlN0OWdERllZcHBRM0RNOFZsVFNXeXpISVcxY0hhVmFGNlIyVWlYSE1DX3VxRUtOYkEwYlY5RE91T2hVU2VXVkxSNFk3OFU5bFQzN2xoMXc?oc=5",
+    "data": "29/10/2026",
+    "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
     "analise_ia": "Falha no processamento: \n  No API_KEY or ADC found. Please either:\n    - S",
     "entidades": [],
